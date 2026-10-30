@@ -1,0 +1,14 @@
+{
+  "name": "mathiasteuwen-skills",
+  "description": "Skills van Mathias Teuwen voor ondernemers en starters die klanten willen aantrekken via LinkedIn.",
+  "owner": {
+    "name": "Mathias Teuwen"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-content-coach",
+      "source": "./plugins/linkedin-content-coach",
+      "description": "Schrijf LinkedIn-posts, carrousels en contentplannen vanuit je eigen klantgesprekken en context."
+    }
+  ]
+}
