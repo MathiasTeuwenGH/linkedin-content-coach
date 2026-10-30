@@ -23,7 +23,7 @@ Zorg dat code uitvoeren aanstaat (**Settings > Capabilities**, de optie om besta
 
 ## Installeren als bestand (Claude, ChatGPT en andere systemen)
 
-1. Download het zip-bestand van de laatste versie onder **Releases** (rechts op deze pagina).
+1. Download het zip-bestand: [linkedin-content-coach.zip](https://github.com/MathiasTeuwenGH/linkedin-content-coach/raw/main/download/linkedin-content-coach.zip)
 2. In Claude: **Customize > Skills > + > Create skill > Upload a skill**.
    In ChatGPT: **Plugins > Skills > Create > Upload from your computer**.
 3. Kies het zip-bestand.
