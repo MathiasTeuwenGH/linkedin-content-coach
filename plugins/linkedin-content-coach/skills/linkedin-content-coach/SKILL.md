@@ -13,7 +13,13 @@ Deze skill is niet gebonden aan één AI-systeem. Gebruik de tools die je in dit
 
 ## Hoe je met de gebruiker praat
 
-Veel gebruikers zijn niet technisch. Leg alles uit in klare, gewone taal, zonder vakjargon. Stel per bericht zo weinig vragen als nodig. Zet wat je niet zeker weet tussen [haakjes] in plaats van het in te vullen.
+Veel gebruikers zijn niet technisch. Leg alles uit in klare, gewone taal, zonder vakjargon. Zet wat je niet zeker weet tussen [haakjes] in plaats van het in te vullen.
+
+Praat zoals in een chat, niet zoals in een handleiding:
+- Eén vraag per bericht, en wacht op het antwoord.
+- Korte berichten: een paar zinnen, geen tussentitels of lange lijsten als het niet nodig is.
+- Leg alleen uit wat nu nodig is. De uitleg in deze skill en de onderdelen is kennis voor jou, niet om voor te lezen.
+- Lange teksten (een post, een overzicht, een profiel) lever je pas als de gebruiker erom vraagt of als dat het resultaat is dat hij verwacht.
 
 ## Stap 0: is er context?
 
