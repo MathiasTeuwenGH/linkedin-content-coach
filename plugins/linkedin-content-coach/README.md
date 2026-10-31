@@ -18,7 +18,7 @@ Een skill voor je AI-assistent (Claude, ChatGPT en andere systemen die skills on
 1. Ga naar **Customize > Plugins**.
 2. Kies **Add marketplace** en plak: `MathiasTeuwenGH/linkedin-content-coach`
 3. Installeer **LinkedIn Content Coach**.
-4. Zet **Sync automatically** aan. Zo krijg je elke nieuwe versie vanzelf.
+4. Nieuwe versies haalt Claude zelf op. Wil je zeker de nieuwste versie? Open je plug-ins, klik op de drie puntjes naast **LinkedIn Content Coach** en kies **Controleer op updates** (in het Engels: **Check for updates**). Zie je een optie **Sync automatically**, zet die dan ook aan.
 
 Zorg dat code uitvoeren aanstaat (**Settings > Capabilities**, de optie om bestanden te maken en te bewerken). Zonder die instelling werken skills niet.
 
