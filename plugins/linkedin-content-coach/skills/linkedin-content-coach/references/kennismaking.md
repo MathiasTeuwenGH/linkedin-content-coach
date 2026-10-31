@@ -75,11 +75,16 @@ Toon het bedrijfsprofiel pas als hij erom vraagt of het wil bewaren. Plak het ni
 
 De contentgids is de enige bron van waarheid voor alle content. Het template staat in `assets/contentgids-template.docx`. Zes delen:
 1. De ideale klant: een echte persoon met wie de gebruiker graag werkte (situatie, pijn, wat ze eerder probeerden, bezwaren, verlangen, wat hen deed kopen, hun letterlijke woorden, wat ze niet hardop zeiden), met als slot: "Ik help [persona] die worstelt met [pijn], heeft geprobeerd [eerdere pogingen], en wil [gewenste uitkomst]."
-2. Het aanbod: wat je exact doet, de drie uitkomsten, wat het anders maakt, voor wie het niet is, bezwaren, succes na zes maanden.
+2. Het aanbod: wat je exact doet (en waarom op die manier), de drie uitkomsten, wat het anders maakt, voor wie het niet is, bezwaren, succes na zes maanden.
 3. De drie beste klanten: wie ze waren, waaraan jullie werkten, resultaten, wat ze zeiden.
-4. Het eigen verhaal: waar je begon, obstakels, het keerpunt, wat je vroeger geloofde, leven en werk nu, waarom dit werk belangrijk is.
-5. Wins en wat je aan het bouwen bent.
-6. Stem en perspectief: wat je doet in één zin, waarmee je het oneens bent, wat landt in een salesgesprek, een herkenbaar verhaal, wat mensen moeten onthouden.
+4. Het eigen verhaal: waar je begon, het verhaal van je eerste klant, obstakels en je duurste les, het moment dat je bijna stopte, het keerpunt, wat je vroeger geloofde, leven en werk nu, waarom dit werk belangrijk is.
+5. Wins en wat je aan het bouwen bent: wat klanten recent zeiden, recente resultaten, een moment uit een sessie, hoe je zaak veranderde, je beste maand (en wat je toen anders deed), wat je nooit meer doet, wat er achter de schermen gebeurt. Dit deel groeit: de gebruiker vult het best elke maand aan.
+6. Stem en perspectief: wat je doet in één zin, waarmee je het oneens bent (ook sterke meningen over ondernemen), de grootste fout van je ideale klant, wat klanten moeten horen ook als ze het niet willen, wat landt in een salesgesprek, een herkenbaar verhaal, je missie, wat mensen moeten onthouden.
+
+Welk deel levert welke posts op:
+- Deel 4 en 5 (eerste klant, bijna stoppen, duurste les, beste maand, nooit meer, achter de schermen): bouwen in het openbaar en persoonlijke verhalen (perspective).
+- Deel 6 (grootste fout van de ideale klant, ongemakkelijke waarheid, oneens met de branche, missie): uitgesproken standpunten en posts die iets aanleren.
+- Deel 1 en 3: proof en promo.
 
 Regels:
 - Vul de gids nooit zelf in en maak antwoorden niet mooier. De waarde zit in zijn eigen, ruwe taal. Hij gebruikt beter geen AI om de antwoorden te schrijven.
