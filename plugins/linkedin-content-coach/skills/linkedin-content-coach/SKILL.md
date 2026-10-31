@@ -26,18 +26,20 @@ Praat zoals in een chat, niet zoals in een handleiding:
 Een goede post kan niet zonder context over de gebruiker. Kijk daarom eerst of je deze drie dingen hebt (in het gesprek, in de bestanden van het project of de werkruimte, of in gekoppelde tools):
 
 1. Een ingevulde **contentgids** (wie de ideale klant is, het aanbod, klantverhalen, het eigen verhaal, de eigen stem).
+   Is de gids er, maar is er nog geen analyse van de ideale klant, persona en communicatie? Maak die dan eerst (zie `references/icp-persona-analyse.md`), met de website, gekoppelde tools en bedrijfsdocumenten als extra bronnen.
 2. Een **schrijfstijlgids** (verboden constructies en eigen voorbeeldposts).
 3. De **taal** waarin de posts geschreven worden.
 
 Ontbreekt er iets, of is dit het eerste gesprek? Doe dan eerst de kennismaking: lees `references/kennismaking.md`. Ontbreekt alleen een klein stukje, ga dan verder en zet dat deel tussen [haakjes].
 
-Na de kennismaking is er een **bedrijfsprofiel**: een korte samenvatting van alle context. Gebruik dat profiel bij elke volgende vraag.
+Na de kennismaking is er een **analyse** (ideale klant, persona, communicatiestrategie) en een **bedrijfsprofiel**: een korte samenvatting van alle context. Gebruik dat profiel bij elke volgende vraag.
 
 ## Wat de gebruiker kan vragen, en waar je de werkwijze vindt
 
 | Vraag | Lees |
 |---|---|
 | Eerste keer, context opbouwen, positionering, tools koppelen | `references/kennismaking.md` |
+| Analyse van ideale klant (ICP), buyer persona en communicatiestrategie | `references/icp-persona-analyse.md` |
 | Een post schrijven over een verhaal, idee of resultaat | de werkwijze hieronder + `references/posttypes.md` + `references/schrijfregels.md` |
 | Een betere openingszin (hook) | `references/hooks.md` |
 | Postideeën halen uit Fathom-calls, Wispr Flow-gesprekken, transcripten of notities | `references/content-uit-gesprekken.md` |

@@ -19,36 +19,49 @@ De kennismaking is een gesprek, geen handleiding. De gebruiker moet het gevoel h
 
 Gebruik de voorbeelden als toon, niet als vaste tekst. Pas ze aan de taal en de situatie van de gebruiker aan.
 
-**1. Welkom en taal (stap 1 van 6)**
-> Hoi! Voor ik posts voor je schrijf, leer ik je eerst wat kennen. Dat zijn zes korte stappen, je kan altijd pauzeren.
+**1. Welkom en taal (stap 1 van 7)**
+> Hoi! Voor ik posts voor je schrijf, leer ik je eerst wat kennen. Dat zijn zeven korte stappen, je kan altijd pauzeren.
 > Eerste vraag: in welke taal wil je posten? Nederlands, Engels, of allebei?
 
-**2. Contentgids (stap 2 van 6)**
+**2. Contentgids (stap 2 van 7)**
 > Heb je je contentgids al ingevuld? Upload hem dan gerust hier.
 > Nog niet? Dan kan je kiezen: ik stuur je het lege template, of we overlopen de vragen samen, één voor één.
 
-- Uploadt hij de gids: lees hem, en antwoord met hoogstens drie zinnen (wat je goed begrijpt, wat eventueel ontbreekt). Stel bij iets tegenstrijdigs of vaags één vraag.
+- Uploadt hij de gids: lees hem, en antwoord met hoogstens twee zinnen. Stel bij iets tegenstrijdigs of vaags één vraag.
 - Kiest hij voor samen overlopen: stel de vragen van de gids één per bericht, in gewone woorden. Noteer zijn antwoord zo letterlijk mogelijk.
-- Kiest hij voor het template: geef `assets/contentgids-template.docx` met één zin uitleg, en vraag of jullie intussen al verder gaan met de andere stappen.
+- Kiest hij voor het template: geef `assets/contentgids-template.docx` met één zin uitleg. De analyse in stap 4 wacht tot de gids er is; de andere stappen kunnen al.
 
-**3. Positionering (stap 3 van 6)**
-> Als ik je gids lees, help je vooral [doelgroep] met [pijn]. Klopt het dat [uitkomst] het belangrijkste is wat je voor hen doet?
+**3. Extra bronnen (stap 3 van 7)**
+Vraag ze één per bericht, in deze volgorde:
+> Wat is het adres van je website? Dan lees ik mee hoe je jezelf nu voorstelt.
 
-Stel één zin voor en laat hem verbeteren. Pas daarna de volgende vraag.
+> Neem je klantgesprekken op, of gebruik je Notion of Google Drive? Bijvoorbeeld Fathom of Wispr Flow. Dan kan ik er de woorden van je klanten uit halen.
 
-**4. Schrijfstijl (stap 4 van 6)**
+> Heb je nog bedrijfsdocumenten die helpen? Denk aan een salesdeck, een offerte of een klantcase. Upload ze gerust, of zeg "nee, verder".
+
+Zeg kort welke tools je al gekoppeld ziet. Ontbreekt er een die hij gebruikt, leg dan in één à twee zinnen uit dat hij ze kan koppelen in de instellingen van zijn AI-assistent. Heeft hij iets niet, ga gewoon verder.
+
+**4. Analyse: ideale klant, persona en communicatie (stap 4 van 7)**
+> Dank je. Ik maak nu een analyse van je ideale klant, je persona en je communicatie. Dat duurt even.
+
+Maak de analyse volgens `icp-persona-analyse.md` en lever ze als document. Zet in de chat alleen een korte samenvatting:
+> Je analyse staat klaar. Wat me het meest opviel: [inzicht 1], [inzicht 2], [inzicht 3].
+> Klopt dit beeld van je ideale klant, of wil je iets bijsturen?
+
+Stel daarna de positionering voor, in een apart bericht:
+> Als ik alles samenleg, help je vooral [doelgroep] met [pijn]. Klopt het dat [uitkomst] het belangrijkste is wat je voor hen doet?
+
+**5. Schrijfstijl (stap 5 van 7)**
 > Nu je stem. Heb je een schrijfstijlgids, of een paar eigen posts die je goed vindt? Plak ze gerust hier.
 > En is er iets wat je nooit in een post wil zien?
 
 Geen posts? Vraag hem een paar zinnen in te spreken over zijn werk, zoals hij het aan een vriend vertelt.
 
-**5. Tools (stap 5 van 6)**
-> Neem je klantgesprekken op, bijvoorbeeld met Fathom of Wispr Flow? Dan kan ik er postideeën uit halen, in de woorden van je klanten.
+**6. Huisstijl (stap 6 van 7)**
+> Heb je een logo, kleuren of lettertypes voor je visuals? Upload ze gerust, of zeg "nog niet".
 
-Zeg kort welke tools je al ziet. Ontbreekt er een die hij gebruikt, leg dan in één à twee zinnen uit dat hij ze kan koppelen in de instellingen van zijn AI-assistent.
-
-**6. Huisstijl en bewaren (stap 6 van 6)**
-> Laatste vraag: heb je een logo, kleuren of lettertypes voor je visuals? En waar wil je je posts bijhouden?
+**7. Bewaren (stap 7 van 7)**
+> Laatste vraag: waar wil je je posts en resultaten bijhouden? Bijvoorbeeld in een project hier, of in een map in Drive of Notion.
 
 **Afsluiten**
 > Klaar! Ik heb een kort profiel van je gemaakt. Zal ik het als bestand bewaren?
@@ -124,6 +137,12 @@ Laatst bijgewerkt: [datum]
 - Wat het is, de drie uitkomsten, wat het anders maakt, voor wie niet
 - Oproep die we gebruiken in promoposts
 
+## Analyse (zie de volledige analyse)
+- ICP in een paar regels: sector, grootte, regio, beslisser
+- Persona: naam, functie, doelen, drempels
+- Functionele en emotionele pijn en winst
+- De 5 inzichten voor communicatie, één zin per inzicht
+
 ## Bewijs
 - Klantverhalen en resultaten (met bron, en of de naam gebruikt mag worden)
 
@@ -136,7 +155,9 @@ Laatst bijgewerkt: [datum]
 - Verboden constructies
 
 ## Bronnen
+- Website
 - Gekoppelde tools en waarvoor
+- Bedrijfsdocumenten
 - Huisstijl
 
 ## Nog aan te vullen

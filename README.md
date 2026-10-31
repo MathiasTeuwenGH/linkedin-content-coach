@@ -4,7 +4,8 @@ Een skill voor je AI-assistent (Claude, ChatGPT en andere systemen die skills on
 
 ## Wat hij doet
 
-- Een kennismaking: je contentgids, je schrijfstijl, je positionering en je tools (Fathom, Wispr Flow, Drive, Notion)
+- Een kennismaking als kort chatgesprek: je contentgids, je website, je tools (Fathom, Wispr Flow, Drive, Notion), je bedrijfsdocumenten en je schrijfstijl
+- Een analyse van je ideale klant (ICP), je buyer persona en je communicatiestrategie
 - Posts schrijven: altijd een lange en een korte versie (maximaal 190 woorden), met hooks en een voorstel voor een visual
 - Postideeën halen uit je klantgesprekken, in de exacte woorden van je klanten
 - Carrousels en infographics opbouwen
@@ -34,7 +35,7 @@ Bij deze manier krijg je geen automatische updates. Download dan af en toe de ni
 
 Schrijf in een nieuw gesprek: "Ik wil starten met LinkedIn-content. Doe de kennismaking met mij."
 
-De skill vraagt je dan om je ingevulde contentgids en schrijfstijlgids. Heb je die nog niet? Dan geeft hij je de templates.
+De skill vraagt je dan om je ingevulde contentgids, je website, je gekoppelde tools en eventuele bedrijfsdocumenten (bv. een salesdeck of klantcase). Daarmee maakt hij een analyse van je ideale klant, je persona en je communicatie. Daarna volgt je schrijfstijl. Heb je de contentgids of schrijfstijlgids nog niet? Dan geeft hij je de templates.
 
 Een paar voorbeelden van wat je daarna kunt vragen:
 
