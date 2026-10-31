@@ -105,9 +105,15 @@ Over mezelf:
 - Wat geloofde ik vroeger over mijn vak dat niet klopte?
 - Wat bouw ik op dit moment, en waar sta ik?
 - Hoe ziet een gewone werkdag met een klant eruit?
+- Wat is het verhaal achter mijn eerste klant?
+- Was er een moment dat ik bijna wilde stoppen? Wat hield me tegen?
+- Wat deed ik anders in mijn beste maand (of net niet anders)?
+- Wat doe ik nooit meer, en waarom?
 
 Over mijn vak:
 - Welk gangbaar advies vind ik fout?
+- Wat is de grootste fout die mijn ideale klant maakt?
+- Wat moeten mijn klanten horen, ook als ze het niet willen horen?
 - Wat zou ik iemand vertellen die vandaag start in mijn vak?
 - Hoe leg ik in eenvoudige woorden uit wat ik doe?
 - Welke vaardigheid gebruik ik elke dag zonder erbij na te denken?
