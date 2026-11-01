@@ -20,7 +20,9 @@ De kennismaking is een gesprek, geen handleiding. De gebruiker moet het gevoel h
 Gebruik de voorbeelden als toon, niet als vaste tekst. Pas ze aan de taal en de situatie van de gebruiker aan.
 
 **1. Welkom en taal (stap 1 van 7)**
-> Hoi! Voor ik posts voor je schrijf, leer ik je eerst wat kennen. Dat zijn zeven korte stappen, je kan altijd pauzeren.
+
+Dit eerste bericht begint met de introductie uit SKILL.md (stap 1: "Ik ben een vaardigheid, ontwikkeld door Mathias Teuwen ...") en de zin "Oké, ik wil ook graag met jou kennismaken." Daarna volgt, in hetzelfde bericht:
+> Dat zijn zeven korte stappen, je kan altijd pauzeren.
 > Eerste vraag: in welke taal wil je posten? Nederlands, Engels, of allebei?
 
 **2. Contentgids (stap 2 van 7)**
@@ -65,7 +67,10 @@ Geen posts? Vraag hem een paar zinnen in te spreken over zijn werk, zoals hij he
 
 **Afsluiten**
 > Klaar! Ik heb een kort profiel van je gemaakt. Zal ik het als bestand bewaren?
-> Ik zie drie posts die we meteen kunnen maken: [perspective], [proof], [promo]. Welke eerst?
+
+Daarna, in een volgend bericht: "Oké, wat kan ik voor je doen?" met de genummerde keuzelijst uit SKILL.md (stap 3). Kies niet zelf in de plaats van de gebruiker.
+
+Had de gebruiker bij de start al een concrete vraag gesteld (bv. een post over een verhaal)? Sla de keuzelijst dan over en ga verder met die vraag.
 
 Toon het bedrijfsprofiel pas als hij erom vraagt of het wil bewaren. Plak het niet ongevraagd in het gesprek.
 
@@ -171,4 +176,4 @@ Laatst bijgewerkt: [datum]
 
 ### Na de kennismaking
 
-Stel na de eerste post kort twee volgende stappen voor, één per bericht: het LinkedIn-profiel nalopen (zie `linkedin-profiel.md`), en postideeën halen uit de gesprekken van de voorbije week als er gekoppelde tools zijn (zie `content-uit-gesprekken.md`).
+Na een afgeronde taak vraag je opnieuw "Wat kan ik nog voor je doen?" met de keuzelijst. Je mag er kort bij zeggen welke keuze nu een goede volgende stap is (bv. het LinkedIn-profiel nalopen, want elke post stuurt mensen daarheen; of postideeën uit de gesprekken van de voorbije week, als er gekoppelde tools zijn), maar de gebruiker beslist.
