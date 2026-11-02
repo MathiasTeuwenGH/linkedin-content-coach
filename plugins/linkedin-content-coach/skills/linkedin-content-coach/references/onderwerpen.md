@@ -129,42 +129,34 @@ Over mijn vak:
    - een klantresultaat (beslissing): "Wat dit opleverde voor een klant."
 5. Herhaal met de andere deelonderwerpen.
 
+## Een onderwerpenbank in drie stappen
+
+Raakt de gebruiker niet aan ideeën, of wil hij een voorraad voor weken? Werk dan van vraag naar onderwerp naar post.
+
+1. **Beantwoord de vragen hieronder** met het bedrijfsprofiel, de contentgids en de gekoppelde tools (of stel ze één voor één aan de gebruiker):
+   - Welke content zou mijn ideale klant vandaag helpen?
+   - Wat heeft mijn ideale klant al geprobeerd dat niet werkte?
+   - Over welke veranderingen bij klanten kan ik vertellen?
+   - Hoe kan ik een frustratie van mijn klant aanpakken?
+   - Wat heb ik geleerd over het helpen van klanten?
+   - Welke problemen heb ik voor klanten opgelost?
+   - Wat vind ik van [hoe het altijd gaat in mijn branche]?
+   - Welke acties hielpen mijn klanten het meest?
+   - Hoe ziet samenwerken met mij eruit?
+   - Welke (kleine) klantcases kan ik delen?
+   - Hoe leg ik eenvoudig uit wat ik doe?
+   - Wat ging er mis in mijn zaak?
+   - Welke getuigenissen van klanten kan ik delen?
+   - Wat ging er goed in mijn zaak?
+   - Welke vaardigheden kan ik tonen?
+   - Wat is mijn aanbod?
+2. **Maak per vraag een lijst onderwerpen.** Eén vraag levert er vaak vijf tot tien op. Bijvoorbeeld bij "wat heeft mijn klant al geprobeerd?": elke mislukte poging (een bureau, een tool, het zelf doen, een goedkope oplossing) is een eigen onderwerp.
+3. **Neem één onderwerp en schrijf er op verschillende manieren over:** een persoonlijk verhaal, een klantresultaat, wat je zelf doet, een verandering bij een klant, je aanbod, een les, een verlies, een overwinning. Verdeel ze over de drie soorten en fases (zie `contentmix.md`): verhaal en les als perspective, wat je doet en het resultaat als proof, het aanbod als promo.
+
+Zo levert één vraag al snel tien posts op. Bewaar de bank in een lijst die de gebruiker kan aanvullen.
+
 ## Eén klant, vijftien posts of meer
 
-Eén klantverhaal levert veel content op. Loop deze invalshoeken af:
-
-**Aanpak**
-- Hoe je het probleem vaststelde
-- Welke aanpak je koos en waarom
-- De weg die je bewust niet nam
-- Hoe je het probleem anders bekeek dan de klant
-- Welke tools of werkwijzen je gebruikte
-- Met welke beperkingen je rekening moest houden (budget, tijd)
-- Hoe de start of het eerste gesprek verliep
-
-**Uitvoering**
-- Wat werkte en wat niet
-- Wat je testte
-- Hoe je een probleem onderweg oploste
-- Stap voor stap hoe je het deed
-- Een klein detail met een grote impact
-- Hoe je onderweg bijstuurde
-- Welke praktische tools je gebruikte om het te organiseren
-
-**Resultaat**
-- Wat het opleverde (tijd of geld bespaard, omzet erbij)
-- Cijfers in beeld (een grafiek of tabel)
-- Een (anoniem) citaat
-- Voor en na
-- "Drie maanden later"
-- Bijkomende voordelen die niemand verwachtte
-- Resultaat tegenover verwachting
-
-Gebruik ze in de drie soorten (vul in met eigen details):
-- Lesgevend: "Hoe ik [probleem van de doelgroep] aanpakte om [doel] te halen", "Wat werkte voor [type klant], en waarom", "Hoe ik [iets ingewikkelds] eenvoudig maakte voor een klant", "Mijn stappen om [probleem] op te lossen", "Het denkwerk achter [belangrijke beslissing]".
-- Proof: "Wat er veranderde nadat we [probleem] oplosten", "De verschuiving die leidde tot [meetbaar resultaat]", "Wat [klant] zei na onze samenwerking", "Een resultaat dat ik niet verwachtte", "Wat [aanpak] opleverde".
-- Promo: "Voor [doelgroep] die worstelt met [probleem]", "Zit je met [X]? Dit kan helpen", "Dit doe ik voor [type klant]", "Deze aanpak gebruik ik voor [doelgroep] zoals jij", "Hoe ik [doelgroep] van [pijn] naar [resultaat] hielp".
-
-Tip: interview een klant over jullie samenwerking, neem het op, en loop het transcript af met deze invalshoeken (zie `content-uit-gesprekken.md`).
+Heeft de gebruiker een klantcase of klantverhaal? Volg dan `klantcase-naar-posts.md`: casekaart, 21 invalshoeken, per invalshoek een postidee met soort, posttype, hooks en visual, en een spreiding over de weken.
 
 Vraag altijd of de klant met naam vermeld mag worden. Zo niet: anoniem, met functie en soort bedrijf.

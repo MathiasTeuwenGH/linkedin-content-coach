@@ -25,6 +25,8 @@ De banner is de grootste plaats op het profiel en blijft vaak leeg of vaag. Een 
 - laat ruimte onder de profielfoto (die bedekt een deel van de banner)
 - past bij de huisstijl, en bij de wereld van de ideale klant
 
+Een andere mogelijkheid: een licht prikkelende tekst die de ideale klant doet nadenken. Prikkelend mag, vaag niet.
+
 Vermijd: alleen een logo, een stockfoto, kleuren die het lezen moeilijk maken, en een prikkelende maar vage vraag.
 
 Formules om te vertrekken (altijd invullen met eigen details):
@@ -35,9 +37,16 @@ Formules om te vertrekken (altijd invullen met eigen details):
 
 Wat onder de naam staat, verschijnt overal: bij elke post, reactie en connectieverzoek. Zeg wat je doet voor wie, niet alleen je functietitel.
 
+Kort, duidelijk en sterk. Mensen vinden je ook via de zoekfunctie, dus gebruik de woorden waarop je ideale klant zoekt.
+
 Formules:
 - "Ik help [ideale klanten] [verlangen] met [dienst of product], zonder [pijn]."
 - "[Dienst of product] voor [ideale klant] die [verlangen] wil in [periode]."
+- "Ik help [ideale klant] met [oplossing] zodat ze [resultaat] halen."
+- "[Ideale klant] worstelt met [probleem]? Ik help ze naar [resultaat]."
+- "[Ideale klant] worstelt met [probleem]. Ik bied [oplossing]. Het resultaat: [cijfer]."
+
+Kijk ook hoe grotere accounts in de branche het doen, en maak het daarna eigen.
 
 ## About-sectie
 
@@ -45,18 +54,21 @@ Schrijf de About-sectie als een verhaal in de ik-vorm (nooit in de derde persoon
 1. **Pijn:** een licht dramatische hook die de ideale klant herkent, met pijn die hij kent.
 2. **Gevolg:** wat er misloopt als je niets doet of het verkeerd aanpakt.
 3. **Ideale situatie:** waar de ideale klant naartoe wil.
-4. **Oplossing:** bewijs van geloofwaardigheid, wat je aanbiedt (eventueel genummerd), en een oproep ("Stuur me een bericht als ...").
+4. **Oplossing:** bewijs van geloofwaardigheid, wat je aanbiedt (eventueel genummerd, zonder prijs), en een oproep ("Stuur me een bericht als ...").
+
+Vergeet het "ik" in het begin: het gaat over de ideale klant. Begin bij pijn die hij kent en wat hij al probeerde zonder resultaat, maak duidelijk dat het over hem gaat, beschrijf de droomsituatie met concrete uitkomsten, en toon dat jij die kunt leveren. Eventueel een extra: iets gratis of een garantie. Eindig met een vraag ("Wil je [resultaat]?") en een oproep (een bericht of een mail naar ...).
 
 Vertrek liefst van het eigen verhaal uit deel 4 van de contentgids. Een sterke About-sectie kan later ook als post gebruikt worden.
 
 ## Featured
 
+- Bv. een link om rechtstreeks een gratis kennismakingsgesprek in te plannen, en de website.
 - Geen posts, maar links naar de belangrijkste oproepen: een gesprek inplannen (gratis of betaald), een nieuwsbrief of gratis gids, een betaald product.
 - Maximaal drie, om het eenvoudig te houden.
 
 ## Link in het profiel
 
-Eén link die naar de belangrijkste oproepen leidt (een eenvoudige linkpagina kan). Test af en toe welke titel het best werkt.
+Eén link die naar de belangrijkste oproepen leidt (een agendalink om een gesprek in te plannen, een eenvoudige linkpagina, later de website). Test af en toe welke titel het best werkt. Kun je onderwerpen of hashtags aan je profiel toevoegen, kies dan de onderwerpen waarover je post: zo vinden mensen je ook daarlangs.
 
 ## Ervaring
 
@@ -69,7 +81,7 @@ Lage prioriteit. Steek de tijd liever in echt bewijs.
 
 ## Aanbevelingen
 
-Vraag klanten om in hun aanbeveling drie dingen te zeggen:
+Vraag (oude) klanten om een aanbeveling. Stuur de aanvraag via LinkedIn zelf, dat maakt het makkelijk. Vraag om in hun aanbeveling drie dingen te zeggen:
 1. Het probleem: waarom kozen ze voor jou?
 2. De oplossing: hoe verliep het samenwerken?
 3. Het resultaat: wat leverde het concreet op?

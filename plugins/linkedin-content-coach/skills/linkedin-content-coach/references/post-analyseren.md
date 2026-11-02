@@ -21,12 +21,24 @@ Zoek in het bedrijfsprofiel, de contentgids en de gekoppelde tools het verhaal, 
 
 Schrijf de post in de stem van de gebruiker, ongeveer even lang als het origineel. Lever de lange en de korte versie (zie `schrijfregels.md`).
 
-## Stap 4: checken
+## Stap 4: de eindcontrole
 
-- Klopt elk feit?
-- Geen gedachtestreepjes, platte tekst, (bijna) geen emoji?
-- Korte woorden en zinnen, geen afgebroken zinnen, witruimte?
-- Herkent de ideale klant zich in de context?
+Doe de volledige eindcontrole uit `eindcontrole.md` en zet het blok onder de post. Let hier extra op twee punten:
+- Is de post ongeveer even lang als het origineel?
 - Zou iemand die het origineel kent, het niet herkennen? Het moet voelen als een nieuwe post, met dezelfde kracht.
+
+## Je eigen beste posts als sjabloon
+
+Dezelfde werkwijze werkt op de eigen posts van de gebruiker. Vraag welke posts het best scoorden (reacties van de juiste mensen, gesprekken, leads, niet alleen likes). Maak er met stap 1 en 2 een sjabloon van en bewaar dat in een eigen lijst. Zo bouwt de gebruiker een gereedschapskist van opbouwen die bij hem werken, en kan hij ze telkens opnieuw invullen met een nieuw verhaal of een nieuwe klant.
+
+## Makers in je niche analyseren
+
+Wil de gebruiker leren van anderen in zijn vak? Laat hem drie à vijf makers kiezen die over zaken posten (niet alleen over hun vak) en die zijn ideale klant aantrekken. Bekijk samen per maker:
+- Hoe verkopen ze? Hoe vaak, en in welke vorm?
+- Wat is hun toon?
+- Welke oproepen gebruiken ze, en waar leiden die naartoe (een bericht, een gesprek, een gids, een website)?
+- Welke posttypes en hooks komen terug?
+
+Schrijf voor klanten, niet voor vakgenoten. Contact met vakgenoten is fijn en geeft bereik, maar het doel is gesprekken met de ideale klant. Reageren bij die makers helpt wel: zo kom je in beeld bij hun publiek (zie `van-post-naar-klant.md`).
 
 Wie dit vaak doet, gaat de patronen vanzelf herkennen. Zo wordt schrijven een vaardigheid. Rommelig mag, fouten mogen: niet te lang nadenken, wel blijven posten.

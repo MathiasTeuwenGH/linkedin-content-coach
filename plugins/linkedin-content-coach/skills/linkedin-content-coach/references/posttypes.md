@@ -29,6 +29,9 @@ Kies het posttype op basis van het verhaal, niet andersom. Elk type hieronder he
 | Een gedurfde mening of vraag | Een stevige stelling, vaak met een lange, herhalende lijst die spanning opbouwt, en een slot dat ze oplost | Mensen reageren omdat ze een mening hebben. | Je hebt een uitgesproken standpunt over je vak | "Ik werk niet op maandag. Mijn omzet is nog nooit zo hoog geweest." |
 | Wat niemand je vertelt | Eerst erkennen wat goed is aan iets, dan de schaduwkant, dan wat je beter doet | Belooft verborgen kennis zonder negatief te zijn. | Er is een verborgen kost of risico waar je klanten niet aan denken | "Niemand zegt het je als je start: je eerste klanten kosten je meer dan ze opbrengen." |
 | De spiegel van de klant | Begin met de letterlijke woorden of het excuus van de doelgroep, toon dat je het begrijpt, geef dan de uitweg | De lezer voelt zich gezien en blijft lezen voor de oplossing. | Je hoort steeds dezelfde zin van je klanten (zie de contentgids, letterlijke taal) | "'Ik heb gewoon geen tijd voor marketing.' Zei een klant vorige week. Daarna vertelde hij hoeveel avonden hij aan offertes zonder antwoord besteedde." |
+| Persoonlijke tijdlijn | Een persoonlijk moment als haakje (een verjaardag, een jubileum), een tijdlijn per maand of per jaar met ups en downs, waar je nu staat, een korte lijst van wat er veranderde ("wat eerst [X] was, werd [Y]"), een motiverend slot | Een reis met tegenslagen voelt echt. De lezer herkent zijn eigen fase en wil weten hoe het afloopt. | Een mijlpaal, of je doet iets al een tijd en kunt de weg tonen | "Een jaar geleden schreef ik mijn eerste post. Zo ging dat, maand per maand." |
+| Wat ontbrak, en de wending | Een licht dramatische hook (dat het eigenlijk niet kon lukken), een lijst van wat je allemaal niet had, een wending ("toch was het oké, want ..."), dezelfde lijst herkaderd (elk gemis werd iets nuttigs), een motiverend slot, dan wat je doet en een uitnodiging om te volgen | Het contrast tussen de twee lijsten vertelt de verandering zonder uitleg. Kwetsbaar en hoopvol tegelijk. | Je begon vanaf nul of maakte een moeilijke periode door | "Geen klanten. Geen netwerk. Geen spaarpot. Zo begon ik." |
+| Een herkenbare oproep aan je publiek | Een korte vraag of oproep over een frustratie die je doelgroep kent, met een visual die de situatie grappig of herkenbaar maakt | Mensen reageren graag met hun eigen verhaal. Dat geeft bereik en toont wat je publiek bezighoudt. | Af en toe, tussen zwaardere posts door | "Vertel me je vreemdste vraag van een klant deze maand." |
 | Direct bruikbare tips | Een belofte (het makkelijkste pad naar X zonder Y), een lijst die je meteen kunt gebruiken, een korte afsluiter | Lage drempel. Wordt bewaard en gedeeld. | Je hebt een checklist, vragenlijst of vaste aanpak | "De vijf vragen die ik stel voor ik een offerte maak. Ze besparen me elke week een uur." |
 
 ## Proof
@@ -40,6 +43,8 @@ Kies het posttype op basis van het verhaal, niet andersom. Elk type hieronder he
 | Wat klanten mij vertellen | Een of meer echte citaten (gesprekken, berichten), wat ze gemeen hebben, wat dat zegt over het probleem, wat jij ervan leert | Woorden van anderen zijn bewijs van buitenaf. | Je hoort hetzelfde van meerdere klanten | "Drie zaakvoerders zeiden me deze maand bijna dezelfde zin." |
 | Klantcase | Wie de klant was en wat er misliep, wat jullie deden, wat wel en niet werkte, het resultaat met cijfers, een citaat | Concreet bewijs dat je aanpak werkt bij iemand zoals de lezer. | Je hebt een klantresultaat (met toestemming of anoniem) | "Hoe een kinesist zonder website in twee maanden een wachtlijst kreeg." |
 | Hoe ik het aanpak | Het probleem, je stappen één voor één, waarom je het zo doet en niet zoals anderen, het resultaat | Toont expertise zonder op te scheppen. Bruikbaar voor de lezer. | Je hebt een vaste werkwijze of methode | "Zo bereid ik een eerste gesprek met een nieuwe klant voor. Vijf stappen, twintig minuten." |
+| Een prikkelende stelling, en hoe ik het doe | Een stelling die tegen de stroom ingaat, een vergelijking die het idee zichtbaar maakt, een realiteitscheck met cijfers, de pijn als je het niet doet, je eigen aanpak in genummerde stappen, een paar extra tips, een uitnodiging om te volgen | Combineert de aandacht van een mening met het nut van een stappenplan. Wordt bewaard. | Je hebt een aanpak die ingaat tegen wat de meesten doen | "Ik stopte met posten over trends. Mijn aantal aanvragen verdubbelde." |
+| De juiste klant aanspreken | Een vraag aan de lezer, de drie mogelijke uitkomsten (bv. niets, de verkeerde, de juiste), focus op één ervan, waarom het gebeurt (agitatie), een voorbeeld van je ideale klant, waarover je dan niet en wel praat, een korte slotzin | Helpt de lezer zijn eigen fout zien en toont tegelijk wie jouw klant is. | Je trekt (of je klanten trekken) de verkeerde mensen aan | "Krijg je reacties, maar nooit van de mensen die je zoekt?" |
 | Ontkrachten met bewijs | Een gangbaar idee, dan data of een case die het tegendeel toont, en de les | Combineert de aandacht van een mening met de kracht van bewijs. | Je hebt cijfers of een case die een misverstand weerlegt | "'Mijn klanten lezen geen LinkedIn.' Twee van mijn drie laatste klanten vonden me daar." |
 
 ## Promo
@@ -57,7 +62,38 @@ Kies het posttype op basis van het verhaal, niet andersom. Elk type hieronder he
 
 ### Pijn, gevolg, ideaal, oplossing (PAIS)
 
-Kortere promo: benoem de pijn, maak voelbaar wat die kost (agitatie), schets de ideale situatie, en toon hoe het aanbod de brug is. Sluit af met een oproep.
+Kortere promo: benoem de pijn, maak voelbaar wat die kost (agitatie), schets de ideale situatie, en toon hoe het aanbod de brug is. Sluit af met een oproep. Uitgewerkt:
+
+1. **Hook:** een resultaat, een citaat of een uitspraak die nieuwsgierig maakt.
+2. **Pijn:** "[Probleem] is lastig." Met een korte lijst van wat het concreet kost.
+3. **Meer agitatie:** "Je hebt al van alles geprobeerd:" met een lijst van wat niet werkte. Dan de harde realiteit: wat er gebeurt als het zo blijft.
+4. **Ideale situatie:** "Wat als het anders kan?" Een situatie waarin iedereen wint.
+5. **Oplossing:** je aanpak in een paar eenvoudige stappen, met het resultaat (wat het kost tegenover wat het oplevert).
+6. **Herkadering:** het is geen kost, het is een investering (of een andere omdraaiing die past).
+7. **Oproep:** een vraag ("Klinkt dit als iets voor jou?") en een duidelijke actie (een woord sturen in een bericht).
+
+Een PAIS-post mag ook met de eigen ervaring van de gebruiker werken: hij spreekt zijn ideale klant aan via zijn eigen verleden ("ik zat ook in die situatie"), toont de pijn en de agitatie zoals hij ze zelf voelde, de keuze die het veranderde, en de oplossing die hij er nu voor anderen van maakte.
+
+### Het toekomstbeeld
+
+Laat de ideale klant zijn eigen toekomst zien:
+
+1. **Voor het droombeeld:** "Wat er gebeurt na [korte periode] als je [actie]:" met een eerlijke lijst, ook de minder leuke dingen.
+2. **Het droombeeld:** "Wat er gebeurt na [langere periode]:" met een lijst van wat de ideale klant echt wil.
+3. **Agitatie:** de tweede lijst ziet er beter uit, maar je komt er alleen via de eerste. De meesten haken onderweg af.
+4. **Oplossing en voor wie:** jouw rol is om ze er sneller te krijgen zonder op te geven. Dan twee à drie korte criteria van de ideale klant (functie, fase, wat ze al hebben, wat er niet toe doet).
+5. **Oproep:** een woord sturen in een bericht.
+
+### De eerste post van een nieuwe zaak of een nieuw aanbod
+
+1. **Bewijs:** wat je al deed (jaren, aantallen, soort klanten), alleen echte cijfers.
+2. **Pijn:** wat je klanten meestal gemeen hebben, en wat ze al probeerden.
+3. **Agitatie:** er is geen wondermiddel, wel aanpakken die werken.
+4. **Ideale situatie:** wat er veranderde voor klanten die je hielp (met cijfers).
+5. **Oplossing en voor wie:** wat je nu aanbiedt en voor wie precies.
+6. **Oproep:** een woord sturen in een bericht.
+
+Een sterke post van deze soort kan daarna ook de About-sectie van het profiel worden (zie `linkedin-profiel.md`).
 
 ### Andere promovormen
 
@@ -65,6 +101,10 @@ Kortere promo: benoem de pijn, maak voelbaar wat die kost (agitatie), schets de 
 - **Een bezwaar ontkrachten:** "Ik dacht dat dit niet voor mij zou werken, tot ..." met bewijs.
 - **Een citaat van een klant als les:** wat de klant zei, wat anderen daaruit kunnen leren, en dat je dit voor hen ook kunt doen.
 - **Rechtstreeks aanspreken:** "Ben je [doelgroep] en herken je [pijn]? Dan is dit voor jou."
+
+### Een post ontleden als bouwstenen
+
+Bij het schrijven en het analyseren helpt het om elk deel van een post een naam te geven, bv. persoonlijke noot, verhaal over wat ik doe, groei tonen, motiverend slot, of pijn, agitatie, ideale situatie, oplossing en ideale klant, oproep. Zo zie je meteen of een deel ontbreekt of te lang is.
 
 ### De oproep
 
