@@ -21,13 +21,23 @@ Zeg dit eerlijk tegen de gebruiker, want verkeerde verwachtingen zijn de grootst
 - Vanaf ongeveer drie maanden komen de eerste onbekenden in beeld: reacties, berichten, profielbezoeken van mensen die je niet kent.
 - Vanaf ongeveer zes maanden kan het echt meer worden, als je consequent blijft posten en interageren.
 - Het is een traag proces. Wie de eerste vier maanden doorkomt en blijft gaan, plukt er de vruchten van.
+- Zie het als een boom planten: na twee weken staat er geen volgroeide boom. Het platform verwacht dat je een tijd actief bent voor het je meer bereik geeft, en schrijven wordt pas beter door het veel te doen.
+- Groei komt meestal in een paar kleine sprongen en dan plots één grote. Dat herhaalt zich.
+- Beoordeel niet alleen op likes en impressies: de juiste gesprekken tellen (zie `contentmix.md`).
+- Zonder discipline lukt het niet. De vaste volgorde: profiel op orde, ideale klant beschrijven, een bank met onderwerpen maken, posts schrijven met de frameworks, en een dagelijkse routine om te reageren.
 
 ## Wat je naast posten doet
 
-- **Reageren bij anderen.** Reageren bij mensen uit je doelgroep en bij vakgenoten is even belangrijk als zelf posten. Wie stopt met reageren, ziet zijn bereik vaak zakken. Plan er elke dag een vaste tijd voor (bv. een uur, of een kwartier als je start). Schrijf echte reacties, geen "Mooi gezegd!".
+- **Reageren bij anderen.** Reageren bij mensen uit je doelgroep en bij vakgenoten is even belangrijk als zelf posten. Wie stopt met reageren, ziet zijn bereik vaak zakken. Plan er elke dag een vaste tijd voor (bv. een uur, of een kwartier als je start). Schrijf echte reacties, geen "Mooi gezegd!". Zie een reactie als een mini-post: deel een tip, een ervaring of je aanpak. Je beste reacties kun je later uitwerken tot een eigen post.
+- **Een dagelijkse routine.** Bijvoorbeeld elke dag: vijf persoonlijke connectieverzoeken aan vakgenoten, vijf aan mogelijke klanten, en vijf reacties bij grotere accounts uit je vak (die je ideale klant ook volgt). Kost het te veel tijd, doe er dan twee of drie van elk. Het kost weinig tijd per dag, maar het effect stapelt zich op: wie je verzoek aanvaardt, ziet daarna je posts in zijn feed. Liket of reageert iemand op je post? Stuur een connectieverzoek.
+- **Connectieverzoeken met een korte boodschap.** Een verzoek zonder boodschap mag, maar wordt minder vaak aanvaard. Aan een vakgenoot: verwijs naar een post of reactie van hem en wat je ervan vond. Aan een mogelijke klant: hou het kort en relevant, bv. een herkenbaar probleem, hoe je daarbij helpt, en één klantvoorbeeld in een zin. Geen verkooppraatje.
 - **Berichten naar nieuwe volgers en connecties.** Stuur iedereen die je niet kent en die je volgt, een connectieverzoek stuurt of reageert, een kort en vriendelijk bericht. Geen verkoop, wel een opening, bv. "Hé, ik ben [naam], ik post elke week over [onderwerp]." Soms ontstaat er een gesprek.
 - **Andere kanalen doorverwijzen.** Lezingen, workshops, nieuwsbrieven: verwijs naar je profiel of je aanbod (bv. met een QR-code op je laatste slide).
 - **Posten met een vast ritme.** Drie tot vijf keer per week als het kan, twee keer is een goed begin. Ritme is belangrijker dan een hoog aantal.
+
+## Na het posten
+
+Reageer het eerste uur op elke reactie op je post, en eindig je antwoord met een vraag. Zo ontstaat er een gesprek, en dat helpt je bereik.
 
 ## Een eerste klant via LinkedIn
 

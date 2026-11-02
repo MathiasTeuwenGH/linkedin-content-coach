@@ -49,14 +49,17 @@ Deze patronen werken omdat je ze niet kunt invullen zonder echte ervaring. Vul z
 - "Ik deed [X] [periode] lang verkeerd."
 - "[Periode] geleden [moment dat alles veranderde]."
 
-## Hoe je een hook maakt
+## De hookgenerator: zo maak je hooks
+
+Gebruik deze stappen telkens als je hooks maakt: bij een nieuwe post, bij postideeën uit gesprekken of uit een klantcase, en bij de alternatieve hooks in de oplevering.
+
 
 1. Vertrek van de kern van de post: wat is de ene boodschap?
 2. Zoek het sterkste concrete detail: een citaat, een cijfer, een moment.
 3. Kies de familie die bij het posttype past.
-4. Schrijf vijf versies: een korte, een lange met cijfer, een met citaat, een die de doelgroep aanspreekt, een gedurfde.
+4. Schrijf vijf versies: een korte, een lange met cijfer, een met citaat, een die de doelgroep aanspreekt, een gedurfde. Een persoonlijke hook mag ook, als hij een hint naar de ideale klant bevat (bv. een ervaring die de ideale klant ook kent).
 5. Voeg een tweede regel toe (zie hieronder).
-6. Kies er twee à drie om voor te stellen. Check of de post waarmaakt wat de hook belooft.
+6. Kies er twee à drie om voor te stellen. Check met deel 2 van `eindcontrole.md`: staat de belofte boven "meer weergeven", en maakt de post ze waar?
 
 ## De tweede regel (sub-hook)
 
