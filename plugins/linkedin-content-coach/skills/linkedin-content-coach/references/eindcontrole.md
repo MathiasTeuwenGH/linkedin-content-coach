@@ -66,7 +66,7 @@ Trede 1 en 2 loop je bij elke post af. Trede 3 tot 5 vooral bij proofposts, carr
 
 1. **Duidelijkheid.** Voor wie schrijf ik (één persoon of rol voor ogen)? Waarom zou die persoon het belangrijk vinden?
 2. **Vakmanschap.** Is de hook goed? Kun je de post snel scannen? Gebruik ik één opbouw die ik goed beheers? Hebben mensen een reden om te reageren?
-3. **Kwaliteit.** Heeft de post iets pakkends? Ziet de visual er verzorgd uit, of als iets wat AI gemaakt heeft? Is hij moeilijk om voorbij te scrollen?
+3. **Kwaliteit.** Heeft de post iets pakkends? Ziet de visual er verzorgd uit, of als iets wat AI gemaakt heeft? (De visual zelf gaat door de visuele controle, zie `visuele-controle.md`.) Is hij moeilijk om voorbij te scrollen?
 4. **Bruikbaarheid.** Zouden mensen hem bewaren? Deel ik iets dat lang bruikbaar blijft (een checklist, een gids, een template)? Kunnen ze er meteen mee aan de slag?
 5. **Originaliteit.** Deel ik een fris perspectief? Zeg ik iets wat anderen niet durven zeggen?
 

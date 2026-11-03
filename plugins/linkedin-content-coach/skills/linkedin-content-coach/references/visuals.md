@@ -81,4 +81,6 @@ Een infographic kan ook bewegen: een korte GIF die zichzelf opbouwt in de feed. 
 - Echte foto's boven stockbeelden. Een stockbeeld mag alleen als bewust voorbeeld van "hoe het niet moet".
 - Geen gedachtestreepjes en geen jargon in de tekst op de slides.
 
+Voor je een visual toont, gaat hij door de visuele controle (zie `visuele-controle.md`): boodschap, klopt met de post, huisstijl, vakwerk en bestand.
+
 Kun je de visual niet zelf maken met de beschikbare tools? Lever dan de tekst per slide, met per slide de markering en de achtergrondkleur, zodat de gebruiker hem kan maken in zijn eigen ontwerptool.
