@@ -70,6 +70,8 @@ Kijk naar de filmstrip en het slotbeeld, echt, met je eigen ogen. Controleer:
 
 Los de grootste zwakte op, neem opnieuw op en kijk opnieuw. Zeg nooit dat je iets nakeek als je het beeld niet bekeek.
 
+Doe daarna de visuele controle (zie `visuele-controle.md`) en zet het blok **Visuele controle** onder de oplevering.
+
 ## Stap 6: opleveren
 
 Lever:
