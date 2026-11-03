@@ -1,0 +1,102 @@
+<!doctype html>
+<!--
+  Startbestand voor een bewegende infographic (1080 x 1350).
+  Alles wat beweegt, hangt af van één functie: renderAt(t), met t in seconden.
+  Zo is elk beeld voorspelbaar en kan opnemen.py het beeld per beeld opnemen.
+
+  Aanpassen:
+  1. De huisstijl in :root (kleuren, lettertypes).
+  2. De teksten in de HTML (gebruik de eigen zinnen van de post).
+  3. De tijdlijn in renderAt (wanneer verschijnt wat).
+  4. window.T_END = totale duur in seconden.
+-->
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<style>
+  /* Lettertypes: laad de bestanden van de gebruiker, bv.
+     @font-face { font-family: "Titel"; src: url("fonts/titel.woff2"); font-weight: 600; } */
+  :root {
+    --achtergrond: #F6F5F2;
+    --tekst: #111111;
+    --tekst-zacht: #9A9A9A;
+    --accent: #2F6BFF;
+    --kaart: #FFFFFF;
+    --lijn: #E6E6E6;
+    --font-titel: "Inter Display", "Inter", system-ui, sans-serif;
+    --font-tekst: "Inter", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1080px; height: 1350px; overflow: hidden; background: var(--achtergrond); }
+  body { font-family: var(--font-tekst); color: var(--tekst); position: relative; }
+
+  .titel { position: absolute; left: 90px; right: 90px; top: 110px;
+           font-family: var(--font-titel); font-weight: 600; font-size: 76px;
+           line-height: 1.05; letter-spacing: -0.02em; }
+  .titel .r2 { color: var(--tekst-zacht); display: block; }
+  .titel span { display: block; }
+
+  .raster { position: absolute; left: 90px; right: 90px; top: 430px;
+            display: grid; grid-template-columns: repeat(5, 1fr); gap: 22px; }
+  .tegel { aspect-ratio: 1; border-radius: 24px; background: var(--kaart);
+           border: 2px solid var(--lijn); }
+  .tegel.aan { background: var(--accent); border-color: var(--accent); }
+
+  .teller { position: absolute; left: 90px; top: 1010px; font-family: var(--font-titel);
+            font-weight: 600; font-size: 120px; letter-spacing: -0.03em; color: var(--accent); }
+  .teller small { font-size: 40px; color: var(--tekst); letter-spacing: 0; margin-left: 16px; }
+
+  .slot { position: absolute; left: 90px; right: 90px; top: 1170px; font-size: 38px; line-height: 1.25; }
+
+  .bron { position: absolute; left: 90px; bottom: 44px; font-size: 22px; color: var(--tekst-zacht); }
+  .logo { position: absolute; right: 90px; bottom: 36px; height: 44px; }
+</style>
+</head>
+<body>
+  <div class="titel"><span class="r1">Eerste regel van de titel</span><span class="r2">tweede regel in grijs</span></div>
+  <div class="raster" id="raster"></div>
+  <div class="teller"><span id="getal">0</span><small>van de 15</small></div>
+  <div class="slot">Eén korte slotzin uit de post.</div>
+  <div class="bron">Bron: [eigen data, aantal klanten]</div>
+  <img class="logo" src="logo.svg" alt="" onerror="this.remove()">
+
+<script>
+  // Hulpfuncties
+  const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
+  const easeOut = x => 1 - Math.pow(1 - x, 3);           // rustig afremmen, geen stuiter
+  const P = (t, start, duur, e = easeOut) => e(clamp((t - start) / duur));
+  function rise(el, k, afstand = 40) {                    // vervagen en een beetje omhoog schuiven
+    el.style.opacity = k;
+    el.style.transform = `translateY(${(1 - k) * afstand}px)`;
+  }
+
+  // Opbouw van de inhoud
+  const TOTAAL = 15, AAN = 7;   // 5 kolommen x 3 rijen past boven de teller
+  const raster = document.getElementById('raster');
+  for (let i = 0; i < TOTAAL; i++) raster.appendChild(document.createElement('div')).className = 'tegel';
+  const tegels = [...raster.children];
+
+  const q = s => document.querySelector(s);
+  window.T_END = 6.5;   // totale duur in seconden (het slotbeeld blijft minstens 2 s staan)
+
+  // Alles wat beweegt, staat hier. Beeld op t = 0 is leeg.
+  window.renderAt = function (t) {
+    rise(q('.r1'), P(t, 0.2, 0.4));
+    rise(q('.r2'), P(t, 0.5, 0.4));
+    tegels.forEach((el, i) => {
+      const k = P(t, 0.9 + i * 0.04, 0.35);
+      el.style.opacity = k;
+      el.style.transform = `scale(${0.85 + 0.15 * k})`;
+      el.classList.toggle('aan', i < AAN && t > 2.0 + i * 0.12);
+    });
+    const tel = P(t, 2.0, AAN * 0.12 + 0.2);
+    rise(q('.teller'), P(t, 1.9, 0.4));
+    q('#getal').textContent = Math.round(tel * AAN);
+    rise(q('.slot'), P(t, 3.4, 0.5));
+    rise(q('.bron'), P(t, 3.8, 0.4), 10);
+    const logo = q('.logo'); if (logo) rise(logo, P(t, 3.8, 0.4), 10);
+  };
+  window.renderAt(0);
+</script>
+</body>
+</html>
