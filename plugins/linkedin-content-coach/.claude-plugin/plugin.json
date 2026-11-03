@@ -1,8 +1,8 @@
 {
   "name": "linkedin-content-coach",
   "displayName": "LinkedIn Content Coach",
-  "version": "1.5.0",
-  "description": "Schrijf LinkedIn-posts, carrousels en contentplannen die klanten aantrekken, vanuit je eigen contentgids, schrijfstijl en klantgesprekken (Fathom, Wispr Flow of transcripten). Met hulp bij je LinkedIn-profiel en de stap van zichtbaarheid naar klanten.",
+  "version": "1.6.0",
+  "description": "Schrijf LinkedIn-posts, carrousels en contentplannen die klanten aantrekken, vanuit je eigen brein: contentgids, bewijs, klantgesprekken (Fathom, Wispr Flow of transcripten), schrijfstijl en huisstijl. Met bewegende infographics (GIF), hulp bij je LinkedIn-profiel en de stap van zichtbaarheid naar klanten.",
   "author": {
     "name": "Mathias Teuwen"
   }
