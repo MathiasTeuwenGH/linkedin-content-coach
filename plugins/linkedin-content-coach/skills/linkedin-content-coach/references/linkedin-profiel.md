@@ -5,7 +5,7 @@ Elke goede post stuurt mensen naar het profiel. Daar beslissen ze in een paar se
 ## Werkwijze
 
 1. Vraag de gebruiker om zijn profiel te delen: een pdf van het profiel (via "Meer" > "Opslaan als pdf" op zijn profiel), schermafbeeldingen, of de teksten geplakt. Die pdf bevat meestal de kopregel, About-sectie, ervaring en vaardigheden, maar niet de banner, de profielfoto of de Featured-sectie. Vraag voor die drie een schermafbeelding van de bovenkant van het profiel en van Featured. Ontbreekt iets, zeg dan welk deel je niet kon nakijken.
-2. Leg het naast het bedrijfsprofiel (de ideale klant, het aanbod, de bewijzen, de letterlijke taal van klanten).
+2. Leg het naast het brein (de ideale klant, het aanbod, de bewijzen, de letterlijke taal van klanten).
 3. Loop de onderdelen hieronder af. Geef per onderdeel: wat nu goed is, wat beter kan en waarom, en een concreet voorstel (tekst die hij kan overnemen, in zijn stem).
 4. Begin met wat het meeste oplevert: kopregel, banner en About-sectie.
 
@@ -20,7 +20,7 @@ Elke goede post stuurt mensen naar het profiel. Daar beslissen ze in een paar se
 
 De banner is de grootste plaats op het profiel en blijft vaak leeg of vaag. Een goede banner:
 - noemt de **ideale klant**, het **doel van die klant** en de **oplossing** (bv. "Ik help [ideale klant] [doel bereiken] met [oplossing]")
-- geeft de **categorie** die in één woord zegt wat de gebruiker is (de ene categorie uit het bedrijfsprofiel)
+- geeft de **categorie** die in één woord zegt wat de gebruiker is (de ene categorie uit het brein)
 - toont **bewijs**: twee à vier tastbare resultaten van klanten
 - laat ruimte onder de profielfoto (die bedekt een deel van de banner)
 - past bij de huisstijl, en bij de wereld van de ideale klant

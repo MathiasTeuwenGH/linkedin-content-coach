@@ -1,6 +1,6 @@
 # Onderwerpen vinden
 
-De beste onderwerpen zitten al in het hoofd, de gesprekken en de documenten van de gebruiker. Je hoeft zelden iets op te zoeken. Gebruik het bedrijfsprofiel en de gekoppelde tools als eerste bron.
+De beste onderwerpen zitten al in het hoofd, de gesprekken en de documenten van de gebruiker. Je hoeft zelden iets op te zoeken. Gebruik het brein en de gekoppelde tools als eerste bron.
 
 ## Onderwerpen die context afdwingen
 
@@ -16,7 +16,7 @@ De beste onderwerpen zitten al in het hoofd, de gesprekken en de documenten van 
 
 ## De onderwerpenkaart
 
-Vier gebieden waar altijd onderwerpen in zitten. Kies een gebied, kies een invalshoek, vul in met het bedrijfsprofiel.
+Vier gebieden waar altijd onderwerpen in zitten. Kies een gebied, kies een invalshoek, vul in met het brein.
 
 **Bouwen in het openbaar**
 - Hoe je werkwijze eruitziet
@@ -90,7 +90,7 @@ Vier gebieden waar altijd onderwerpen in zitten. Kies een gebied, kies een inval
 
 ## Vragen om ideeën los te maken
 
-Stel de gebruiker één vraag tegelijk, of beantwoord ze zelf met het bedrijfsprofiel en de gekoppelde tools.
+Stel de gebruiker één vraag tegelijk, of beantwoord ze zelf met het brein en de gekoppelde tools.
 
 Over klanten:
 - Welke vraag kreeg ik deze week van een klant of prospect?
@@ -133,7 +133,7 @@ Over mijn vak:
 
 Raakt de gebruiker niet aan ideeën, of wil hij een voorraad voor weken? Werk dan van vraag naar onderwerp naar post.
 
-1. **Beantwoord de vragen hieronder** met het bedrijfsprofiel, de contentgids en de gekoppelde tools (of stel ze één voor één aan de gebruiker):
+1. **Beantwoord de vragen hieronder** met het brein, de contentgids en de gekoppelde tools (of stel ze één voor één aan de gebruiker):
    - Welke content zou mijn ideale klant vandaag helpen?
    - Wat heeft mijn ideale klant al geprobeerd dat niet werkte?
    - Over welke veranderingen bij klanten kan ik vertellen?

@@ -17,7 +17,7 @@ Schrijf de opbouw uit als sjabloon, met [haakjes] voor wat de gebruiker invult. 
 
 ## Stap 3: invullen met eigen data
 
-Zoek in het bedrijfsprofiel, de contentgids en de gekoppelde tools het verhaal, citaat of resultaat dat het best past. Past er niets? Zeg dat eerlijk en stel voor welk materiaal de gebruiker kan aanleveren, of stel een ander posttype voor.
+Zoek in het brein, de contentgids en de gekoppelde tools het verhaal, citaat of resultaat dat het best past. Past er niets? Zeg dat eerlijk en stel voor welk materiaal de gebruiker kan aanleveren, of stel een ander posttype voor.
 
 Schrijf de post in de stem van de gebruiker, ongeveer even lang als het origineel. Lever de lange en de korte versie (zie `schrijfregels.md`).
 

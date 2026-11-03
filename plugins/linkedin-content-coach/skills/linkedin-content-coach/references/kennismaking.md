@@ -1,6 +1,8 @@
 # Kennismaking: de context van de gebruiker opbouwen
 
-Doel: na dit gesprek heb je een bedrijfsprofiel waarmee je posts kunt schrijven die klinken als de gebruiker en vertrekken van zijn echte klanten.
+Doel: na dit gesprek heeft de gebruiker een **brein**: een vaste map met zijn profiel, analyse, bewijs, klantentaal, stem en huisstijl, telkens met bron (zie `brein.md`). Daarmee schrijf je posts en maak je visuals die klinken en eruitzien als de gebruiker en vertrekken van zijn echte klanten.
+
+Verzamel alles tijdens de stappen en schrijf het brein weg na stap 7, als je weet waar het komt. Volg de drie regels uit `brein.md`: eerst halen, dan vragen; letterlijk, met bron; een voorstel is geen feit.
 
 ## Zo voer je de kennismaking: als een chatgesprek
 
@@ -9,7 +11,7 @@ De kennismaking is een gesprek, geen handleiding. De gebruiker moet het gevoel h
 - **Eén ding per bericht.** Eén korte uitleg (hoogstens twee zinnen) en één vraag. Wacht dan op het antwoord.
 - **Kort.** Een bericht is meestal maximaal vier à vijf korte zinnen. Geen tussentitels, geen tabellen, geen lange lijsten.
 - **Keuzes in plaats van open vragen** waar het kan: "Nederlands, Engels of allebei?" Zijn er knoppen of keuzemenu's beschikbaar in dit gesprek, gebruik die dan.
-- **Toon waar hij zit**, kort: "(stap 2 van 6)".
+- **Toon waar hij zit**, kort: "(stap 2 van 7)".
 - **Geen uitleg vooraf over alle stappen.** Vertel alleen wat nu komt.
 - **Reageer kort op zijn antwoord** voor je verder gaat ("Top, dan schrijf ik in het Nederlands."). Geen samenvatting van alles wat hij zei.
 - **Achtergrond alleen als hij erom vraagt.** Alles hieronder over de gids, de stijl en de tools is kennis voor jou, niet om voor te lezen.
@@ -29,7 +31,7 @@ Dit eerste bericht begint met de introductie uit SKILL.md (stap 1: "Ik ben een v
 > Heb je je contentgids al ingevuld? Upload hem dan gerust hier.
 > Nog niet? Dan kan je kiezen: ik stuur je het lege template, of we overlopen de vragen samen, één voor één.
 
-- Uploadt hij de gids: lees hem, en antwoord met hoogstens twee zinnen. Stel bij iets tegenstrijdigs of vaags één vraag.
+- Uploadt hij de gids: lees hem, en antwoord met hoogstens twee zinnen. Stel bij iets tegenstrijdigs of vaags één vraag. Haal er meteen het bewijs (deel 1, 3 en 5) en de letterlijke klantwoorden (deel 1) uit voor de bewijsbank en de klantentaal. Ontbreekt bij een resultaat de periode, het aantal of de bron, noteer het onder "Nog na te kijken" en vraag het later, niet nu.
 - Kiest hij voor samen overlopen: stel de vragen van de gids één per bericht, in gewone woorden. Noteer zijn antwoord zo letterlijk mogelijk.
 - Kiest hij voor het template: geef `assets/contentgids-template.docx` met één zin uitleg. De analyse in stap 4 wacht tot de gids er is; de andere stappen kunnen al.
 
@@ -41,38 +43,55 @@ Vraag ze één per bericht, in deze volgorde:
 
 > Heb je nog bedrijfsdocumenten die helpen? Denk aan een salesdeck, een offerte of een klantcase. Upload ze gerust, of zeg "nee, verder".
 
-Zeg kort welke tools je al gekoppeld ziet. Ontbreekt er een die hij gebruikt, leg dan in één à twee zinnen uit dat hij ze kan koppelen in de instellingen van zijn AI-assistent. Heeft hij iets niet, ga gewoon verder.
+Haal uit de website, de documenten en de gekoppelde tools wat in het brein past: resultaten en klantverhalen (bewijsbank), letterlijke klantwoorden (klantentaal), en voor later de huisstijl van de website. Zeg kort welke tools je al gekoppeld ziet. Ontbreekt er een die hij gebruikt, leg dan in één à twee zinnen uit dat hij ze kan koppelen in de instellingen van zijn AI-assistent. Heeft hij iets niet, ga gewoon verder.
 
 **4. Analyse: ideale klant, persona en communicatie (stap 4 van 7)**
 > Dank je. Ik maak nu een analyse van je ideale klant, je persona en je communicatie. Dat duurt even.
 
-Maak de analyse volgens `icp-persona-analyse.md` en lever ze als document. Zet in de chat alleen een korte samenvatting:
+Maak de analyse volgens `icp-persona-analyse.md` en lever ze als document (in het brein: `analyse.md`). Zet in de chat alleen een korte samenvatting:
 > Je analyse staat klaar. Wat me het meest opviel: [inzicht 1], [inzicht 2], [inzicht 3].
 > Klopt dit beeld van je ideale klant, of wil je iets bijsturen?
 
 Stel daarna de positionering voor, in een apart bericht:
 > Als ik alles samenleg, help je vooral [doelgroep] met [pijn]. Klopt het dat [uitkomst] het belangrijkste is wat je voor hen doet?
 
-**5. Schrijfstijl (stap 5 van 7)**
-> Nu je stem. Heb je een schrijfstijlgids, of een paar eigen posts die je goed vindt? Plak ze gerust hier.
-> En is er iets wat je nooit in een post wil zien?
+**5. Stem (stap 5 van 7)**
 
-Geen posts? Vraag hem een paar zinnen in te spreken over zijn werk, zoals hij het aan een vriend vertelt.
+Heeft hij een ingevulde schrijfstijlgids geüpload? Neem zijn lijst met verboden constructies over en vraag alleen of er nog iets bij moet. Anders toon je de startlijst uit het template (`assets/schrijfstijlgids-template.docx`, deel A). Hier mag de lijst volledig in het bericht:
+> Nu je stem. In de schrijfstijlgids staan deze verboden constructies al:
+> gedachtestreepjes (— of –), "laten we eerlijk zijn" of "want eerlijk?", "het mooie?", de constructie "niet ..., maar ...", "herkenbaar?" als losse vraag, hashtags, emoji-opsommingen, en vet, cursief of onderlijnd.
+> Wat wil jij nooit lezen in je posts? Zeg gerust wat erbij moet, of wat eraf mag.
+
+Daarna, in een volgend bericht:
+> Plak nu 3 à 5 eigen posts die echt als jou klinken. Liefst een mix van kort en lang.
+
+Geen posts? Vraag hem een paar zinnen in te spreken over zijn werk, zoals hij het aan een vriend vertelt. Alles komt in `stem.md`: de bevestigde verboden constructies, de voorbeeldposts letterlijk, en jouw samenvatting van hoe hij klinkt (als voorstel).
 
 **6. Huisstijl (stap 6 van 7)**
-> Heb je een logo, kleuren of lettertypes voor je visuals? Upload ze gerust, of zeg "nog niet".
+> Nu je huisstijl, voor carrousels en infographics. Heb je een stijlgids of brandbook? Upload hem gerust.
 
-**7. Bewaren (stap 7 van 7)**
-> Laatste vraag: waar wil je je posts en resultaten bijhouden? Bijvoorbeeld in een project hier, of in een map in Drive of Notion.
+Daarna, in een volgend bericht, afhankelijk van het antwoord:
+- **Stijlgids geüpload:** lees hem en neem kleurcodes, lettertypes, logo-regels en wat niet mag over in `huisstijl.md`. Vraag alleen wat ontbreekt:
+  > Dank je. Kan je ook je logo als bestand uploaden (liefst .svg of .png met transparante achtergrond), en je lettertypebestanden als je die hebt?
+- **Geen stijlgids, wel een website:**
+  > Op je website vond ik deze kleuren: [kleurcodes] en dit lettertype: [naam]. Klopt dat? Upload dan nog je logo als bestand, en je lettertypebestanden als je die hebt.
+- **Niets van dat:**
+  > Geen probleem. Dan stel ik een eenvoudige startstijl voor: twee kleuren, één lettertype, veel witruimte. Die kunnen we altijd aanpassen.
+
+**7. Waar je brein komt (stap 7 van 7)**
+> Laatste vraag: waar bewaar ik je brein? Daarin komt alles wat we nu verzamelden, en het groeit met elke post en elk gesprek.
+> Bijvoorbeeld in een map op je computer, in Google Drive of Notion, of in een project hier.
+
+Kies de werkwijze die past uit `brein.md` ("Waar het brein staat") en zeg in één zin hoe het bijwerken zal gaan.
 
 **Afsluiten**
-> Klaar! Ik heb een kort profiel van je gemaakt. Zal ik het als bestand bewaren?
+> Klaar! Je brein staat in [plaats]. Wat nog ontbreekt, vraag ik gaandeweg, als we het nodig hebben.
 
 Daarna, in een volgend bericht: "Oké, wat kan ik voor je doen?" met de genummerde keuzelijst uit SKILL.md (stap 3). Kies niet zelf in de plaats van de gebruiker.
 
 Had de gebruiker bij de start al een concrete vraag gesteld (bv. een post over een verhaal)? Sla de keuzelijst dan over en ga verder met die vraag.
 
-Toon het bedrijfsprofiel pas als hij erom vraagt of het wil bewaren. Plak het niet ongevraagd in het gesprek.
+Toon het profiel of de andere delen van het brein pas als hij erom vraagt. Plak ze niet ongevraagd in het gesprek.
 
 ## Achtergrond voor jou (niet voorlezen)
 
@@ -112,7 +131,7 @@ Template: `assets/schrijfstijlgids-template.docx`. Twee delen: (A) verboden cons
 
 Vat de stem uit de voorbeeldposts samen: lengte van zinnen en posts, hoe hij begint en eindigt, ik/jij/wij, formeel of informeel, humor, woorden die terugkomen, opmaak.
 
-### Tools: het eigen "brein"
+### Tools: gekoppelde bronnen voor het brein
 
 - Fathom (of een andere tool die gesprekken opneemt): transcripten van klant- en salesgesprekken.
 - Wispr Flow: ingesproken notities en gesprekken.
@@ -123,11 +142,11 @@ Is een tool gekoppeld, gebruik ze bij elke post en zeg uit welk gesprek of docum
 
 ### Huisstijl en bewaren
 
-Logo als bestand (nooit nagetypt), kleuren (liefst kleurcodes), lettertypes, een voorbeeld dat hij mooi vindt. Geen huisstijl: twee kleuren, één lettertype, kan later veranderen. Bewaren: per post de definitieve tekst, de datum en later de resultaten, in een project van zijn AI-assistent of een map in Drive of Notion.
+Stijlgids of brandbook als die er is. Logo als bestand (nooit nagetypt, liefst .svg of .png met transparante achtergrond), kleuren (kleurcodes), lettertypes (de naam, en voor bewegende infographics liefst ook de bestanden), een voorbeeld dat hij mooi vindt. Geen stijlgids: een voorstel van de website, of een startstijl (twee kleuren, één lettertype). Alles in `huisstijl.md` en de map `huisstijl/` van het brein. Posts en resultaten komen in `posts.md`. Zie `brein.md`.
 
 ### Het bedrijfsprofiel
 
-Maximaal één à twee pagina's, als bestand aan te bieden:
+In het brein: `profiel.md`. Maximaal één à twee pagina's. Details staan in de andere delen van het brein; het profiel vat samen en verwijst.
 
 ```
 # Bedrijfsprofiel: [naam]
@@ -154,21 +173,20 @@ Laatst bijgewerkt: [datum]
 - De 5 inzichten voor communicatie, één zin per inzicht
 
 ## Bewijs
-- Klantverhalen en resultaten (met bron, en of de naam gebruikt mag worden)
+- De drie sterkste resultaten in één regel (alles met bron staat in bewijsbank.md)
 
 ## Mijn verhaal en perspectief
 - Keerpunten en lessen
 - Waarmee ik het oneens ben in mijn branche
 
 ## Stem
-- Samenvatting uit de voorbeeldposts
-- Verboden constructies
+- Samenvatting in drie regels (alles staat in stem.md)
 
 ## Bronnen
 - Website
 - Gekoppelde tools en waarvoor
 - Bedrijfsdocumenten
-- Huisstijl
+- Huisstijl (zie huisstijl.md)
 
 ## Nog aan te vullen
 - [lege of vage delen]

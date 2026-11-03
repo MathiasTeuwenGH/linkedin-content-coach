@@ -1,6 +1,6 @@
 # Prospects zoeken in LinkedIn Sales Navigator
 
-Gebruik dit wanneer de gebruiker zijn ideale klant wil omzetten in zoekopdrachten voor LinkedIn Sales Navigator. Vertrek van de ideale klant in het bedrijfsprofiel. Is er geen profiel, vraag dan eerst wie de ideale klant is (rol, soort bedrijf, grootte, regio).
+Gebruik dit wanneer de gebruiker zijn ideale klant wil omzetten in zoekopdrachten voor LinkedIn Sales Navigator. Vertrek van de ideale klant in het brein. Is er geen brein, vraag dan eerst wie de ideale klant is (rol, soort bedrijf, grootte, regio).
 
 De filternamen hieronder staan zoals ze in een Nederlandstalige Sales Navigator heten, met de Engelse naam tussen haakjes.
 

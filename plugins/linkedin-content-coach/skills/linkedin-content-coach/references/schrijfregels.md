@@ -4,7 +4,7 @@ De schrijfstijlgids van de gebruiker gaat altijd voor. Deze regels zijn de stand
 
 ## Schrijfregels
 
-- **Klopt alles?** Elk feit, cijfer en citaat komt uit het bedrijfsprofiel, een gesprek of een document. Anders [haakjes].
+- **Klopt alles?** Elk feit, cijfer en citaat komt uit het brein (bewijsbank, klantentaal), een gesprek of een document. Anders [haakjes].
 - **Geen gedachtestreepjes** als pauze in een zin. Gebruik een punt of een komma.
 - **Platte tekst:** geen vet, cursief of onderlijnd, (bijna) geen emoji.
 - **Korte woorden, korte zinnen.** Schrijf zo eenvoudig dat een kind van twaalf het snapt. Vervang lange woorden, schrap overbodige woorden en stopwoorden. Geen afgebroken zinnen die over twee regels lopen alleen voor het effect.

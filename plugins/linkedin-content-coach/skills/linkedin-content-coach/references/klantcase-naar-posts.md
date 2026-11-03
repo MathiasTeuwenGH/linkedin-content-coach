@@ -6,7 +6,7 @@ Eén klantverhaal is geen post. Het is een voorraad. Elke stap van de samenwerki
 
 ## Stap 1: het materiaal verzamelen
 
-Zoek alles over de case: in het bedrijfsprofiel en de contentgids (klantverhalen), in gekoppelde tools (gespreksopnames met die klant, notities, documenten, een offerte of verslag), of vraag het aan de gebruiker.
+Zoek alles over de case: in het brein (bewijsbank, klantentaal) en de contentgids, in gekoppelde tools (gespreksopnames met die klant, notities, documenten, een offerte of verslag), of vraag het aan de gebruiker.
 
 Het sterkste materiaal is een **gesprek met de klant zelf** over de samenwerking. Heeft de gebruiker dat niet? Stel voor om de klant 20 minuten te interviewen en het op te nemen. Interviewvragen die je kunt meegeven:
 

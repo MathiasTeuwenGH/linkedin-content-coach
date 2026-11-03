@@ -6,12 +6,14 @@ Een skill voor je AI-assistent (Claude, ChatGPT en andere systemen die skills on
 
 - Een kennismaking als kort chatgesprek: je contentgids, je website, je tools (Fathom, Wispr Flow, Drive, Notion), je bedrijfsdocumenten en je schrijfstijl
 - Een analyse van je ideale klant (ICP), je buyer persona en je communicatiestrategie
+- Je eigen brein: één map met je profiel, je bewijs (cijfers met bron), de woorden van je klanten, je stem en je huisstijl, die groeit met elke post en elk gesprek
 - Posts schrijven: altijd een lange en een korte versie (maximaal 190 woorden), met hooks en een voorstel voor een visual
 - Postideeën halen uit je klantgesprekken, in de exacte woorden van je klanten
 - Van één klantcase vijftien postideeën of meer maken, met hooks en een planning
 - Elke post door een vaste eindcontrole halen (opbouw, hook, checklist per soort, schrijfregels) voor je hem ziet
 - Een onderwerpenbank opbouwen, en weten hoe vaak en wanneer je post en wat je hergebruikt
 - Carrousels en infographics opbouwen
+- Bewegende infographics (GIF) maken die zichzelf opbouwen in de feed
 - Je LinkedIn-profiel nalopen: foto, banner, kopregel, About, Featured
 - De stap van zichtbaarheid naar gesprekken en klanten
 - Prospects zoeken in LinkedIn Sales Navigator
@@ -38,7 +40,7 @@ Bij deze manier krijg je geen automatische updates. Download dan af en toe de ni
 
 Schrijf in een nieuw gesprek: "Ik wil starten met LinkedIn-content. Doe de kennismaking met mij."
 
-De skill stelt zichzelf eerst kort voor. Daarna vraagt hij om je ingevulde contentgids, je website, je gekoppelde tools en eventuele bedrijfsdocumenten (bv. een salesdeck of klantcase). Daarmee maakt hij een analyse van je ideale klant, je persona en je communicatie. Daarna volgt je schrijfstijl. Heb je de contentgids of schrijfstijlgids nog niet? Dan geeft hij je de templates. Tot slot vraagt hij wat hij voor je kan doen, en kies je uit een lijst: een post uitwerken, contentideeën zoeken, postideeën uit een klantcase halen, een sterke post van iemand anders ontleden, je content inplannen, een carrousel of infographic, je profiel optimaliseren, reageren op anderen, je aanbod testen of prospects zoeken in Sales Navigator.
+De skill stelt zichzelf eerst kort voor. Daarna vraagt hij om je ingevulde contentgids, je website, je gekoppelde tools en eventuele bedrijfsdocumenten (bv. een salesdeck of klantcase). Daarmee maakt hij een analyse van je ideale klant, je persona en je communicatie. Daarna volgen je schrijfstijl en je huisstijl (upload gerust je stijlgids). Alles komt samen in je brein: een map op je computer, in Drive of Notion, of in een project in je AI-assistent. Heb je de contentgids of schrijfstijlgids nog niet? Dan geeft hij je de templates. Tot slot vraagt hij wat hij voor je kan doen, en kies je uit een lijst: een post uitwerken, contentideeën zoeken, postideeën uit een klantcase halen, een sterke post van iemand anders ontleden, je content inplannen, een carrousel of infographic, een bewegende infographic (GIF), je profiel optimaliseren, reageren op anderen, je aanbod testen of prospects zoeken in Sales Navigator.
 
 Een paar voorbeelden van wat je daarna kunt vragen:
 
@@ -50,7 +52,7 @@ Een paar voorbeelden van wat je daarna kunt vragen:
 
 ## Gegevens
 
-De skill bevat alleen instructies en twee templates. Hij stuurt zelf niets door. Wat je deelt (je gids, je gesprekken) blijft in je eigen AI-assistent en de tools die je daar koppelt.
+De skill bevat alleen instructies, twee templates en twee startbestanden voor animaties. Hij stuurt zelf niets door. Wat je deelt (je gids, je gesprekken) en je brein blijven in je eigen AI-assistent, op je eigen computer of in de tools die je daar koppelt.
 
 ## Gebruik
 
