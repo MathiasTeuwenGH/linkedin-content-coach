@@ -37,7 +37,7 @@ Kies de familie die past bij het posttype (zie `posttypes.md`):
 
 ## Hooks die context afdwingen
 
-Deze patronen werken omdat je ze niet kunt invullen zonder echte ervaring. Vul ze in met details uit het bedrijfsprofiel of een gesprek, en herschrijf ze in de stem van de gebruiker:
+Deze patronen werken omdat je ze niet kunt invullen zonder echte ervaring. Vul ze in met details uit het brein of een gesprek, en herschrijf ze in de stem van de gebruiker:
 
 - "Vorige week sprak ik een [doelgroep] die [pijn]."
 - "Elke week spreek ik [aantal] [doelgroep]. Dit is waarom ze vastlopen."

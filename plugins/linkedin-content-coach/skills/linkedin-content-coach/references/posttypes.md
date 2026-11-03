@@ -108,7 +108,7 @@ Bij het schrijven en het analyseren helpt het om elk deel van een post een naam 
 
 ### De oproep
 
-Een goede oproep zegt voor wie het is, wat ze willen, wat ze kwijt willen, en wat ze nu moeten doen. Bijvoorbeeld: "Ben je [doelgroep] en wil je [verlangen] zonder [pijn]? Stuur me '[woord]' en ik stuur je de details." Gebruik bij voorkeur de oproep uit het bedrijfsprofiel, zodat ze elke week hetzelfde is. Herhaling maakt ze herkenbaar.
+Een goede oproep zegt voor wie het is, wat ze willen, wat ze kwijt willen, en wat ze nu moeten doen. Bijvoorbeeld: "Ben je [doelgroep] en wil je [verlangen] zonder [pijn]? Stuur me '[woord]' en ik stuur je de details." Gebruik bij voorkeur de oproep uit het brein, zodat ze elke week hetzelfde is. Herhaling maakt ze herkenbaar.
 
 ## Andere opbouwen die je kunt gebruiken
 

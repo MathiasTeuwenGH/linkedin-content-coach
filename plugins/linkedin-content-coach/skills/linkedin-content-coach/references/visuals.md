@@ -69,10 +69,14 @@ Opbouw:
 | 5. Samenvatting en bonus | 1 | De stappen en kernpunten in een lijstje, plus een extra tip of gratis gids. Geef je kennis weg, verkoop de uitvoering. |
 | 6. Oproep | 1 | Kies één: inschrijven op [gratis gids of nieuwsbrief], volgen voor meer over [onderwerp], of "Ben je [doelgroep] en worstel je met [pijn] en wil je [verlangen]? Stuur me [woord] en ik stuur je de details." |
 
+## Bewegend maken
+
+Een infographic kan ook bewegen: een korte GIF die zichzelf opbouwt in de feed. Dat past vooral bij cijfers om te tellen, een vergelijking, een proces of een verhaal in één scène. Werkwijze, types en startbestanden: zie `animaties.md`.
+
 ## Opmaak
 
 - Formaat: 1080 x 1350 pixels (staand), voor carrousels en infographics. Vierkant (1080 x 1080) kan als variant.
-- Gebruik de huisstijl uit het bedrijfsprofiel: kleuren, lettertypes en het echte logobestand (nooit nagetypt). Geen huisstijl? Twee kleuren, één lettertype, veel witruimte.
+- Gebruik de huisstijl uit het brein (`huisstijl.md`): kleuren, lettertypes en het echte logobestand (nooit nagetypt). Geen huisstijl? Twee kleuren, één lettertype, veel witruimte.
 - Grote titel, korte subtitel, één visueel blok per slide, de naam van de gebruiker klein onderaan.
 - Echte foto's boven stockbeelden. Een stockbeeld mag alleen als bewust voorbeeld van "hoe het niet moet".
 - Geen gedachtestreepjes en geen jargon in de tekst op de slides.
