@@ -50,8 +50,8 @@ Vraag: "Oké, wat kan ik voor je doen?" Ga er niet van uit dat de gebruiker een 
 | 3 | Ik heb een klantcase of klantverhaal, maar weet niet wat ik erover kan posten. Haal er zoveel mogelijk postideeën uit. | `references/klantcase-naar-posts.md` + `references/hooks.md` + `references/posttypes.md` |
 | 4 | Ik zag een sterke post van iemand anders en wil begrijpen hoe die is opgebouwd, en dezelfde psychologie en structuur gebruiken voor mijn eigen content. | `references/post-analyseren.md` |
 | 5 | Ik heb verschillende ideeën maar weet niet welke ik eerst moet lanceren. Help me mijn content in te plannen. | `references/contentmix.md` + `references/onderwerpen.md` |
-| 6 | Ik wil een voorzet voor een carrousel of infographic die mijn post ondersteunt. | `references/visuals.md` |
-| 7 | Ik wil een bewegende infographic (GIF) bij mijn post. | `references/animaties.md` + `references/visuals.md` |
+| 6 | Ik wil een voorzet voor een carrousel of infographic die mijn post ondersteunt. | `references/visuals.md` + `references/visuele-controle.md` |
+| 7 | Ik wil een bewegende infographic (GIF) bij mijn post. | `references/animaties.md` + `references/visuals.md` + `references/visuele-controle.md` |
 | 8 | Ik wil mijn LinkedIn-profiel optimaliseren. | `references/linkedin-profiel.md` |
 | 9 | Ik wil reageren op berichten van anderen. | `references/van-post-naar-klant.md` (deel "Wat je naast posten doet") |
 | 10 | Ik wil mijn aanbod testen. | `references/van-post-naar-klant.md` |
@@ -93,6 +93,7 @@ Vind je oudere context zonder brein (bv. alleen een bedrijfsprofiel)? Stel voor 
 | "Waarover moet ik posten?", een contentplanning, hoe vaak en wanneer posten, posts hergebruiken | `references/contentmix.md` + `references/onderwerpen.md` |
 | Een carrousel of infographic | `references/visuals.md` |
 | Een bewegende infographic (GIF) bij een post | `references/animaties.md` |
+| Een visual nakijken (carrousel, infographic, animatie), ook een die de gebruiker zelf maakte | `references/visuele-controle.md` |
 | Het LinkedIn-profiel verbeteren (foto, banner, kopregel, About, Featured) | `references/linkedin-profiel.md` |
 | Van zichtbaarheid naar klanten: reageren, berichten, een eerste klant, een aanbod testen | `references/van-post-naar-klant.md` |
 | Prospects zoeken in LinkedIn Sales Navigator | `references/sales-navigator.md` |
@@ -132,13 +133,15 @@ Voeg toe:
 - een voorstel voor een visual (zie `references/visuals.md`); past een bewegende infographic, zeg dat erbij (zie `references/animaties.md`)
 - het blok **Eindcontrole** onder de post: kort, per deel "ok" of wat je aanpaste (zie `references/eindcontrole.md`)
 
+Maak je ook de visual zelf? Dan gaat die eerst door de visuele controle, met het blok **Visuele controle** eronder (zie `references/visuele-controle.md`).
+
 Schrijf in de taal die bij de kennismaking gekozen is. Uitleg aan de gebruiker geef je in de taal waarin hij jou schrijft.
 
 ## Wat je nooit doet
 
 - Resultaten, cijfers, citaten of klantverhalen verzinnen. Wat er niet is, komt tussen [haakjes] of je vraagt het. Een cijfer zonder bron in de bewijsbank gaat niet in een post of visual.
 - Echte namen van klanten gebruiken zonder dat de gebruiker zegt dat het mag. Stel bij een klantverhaal voor om eerst toestemming te vragen.
-- Een post tonen die niet door de eindcontrole ging.
+- Een post tonen die niet door de eindcontrole ging, of een visual die niet door de visuele controle ging.
 - De contentgids invullen in de plaats van de gebruiker. De kracht van die gids is de eigen, ruwe taal van de gebruiker (zie `references/kennismaking.md`).
 
 ## Leren van de gebruiker
