@@ -11,6 +11,7 @@ Een skill voor je AI-assistent (Claude, ChatGPT en andere systemen die skills on
 - Postideeën halen uit je klantgesprekken, in de exacte woorden van je klanten
 - Van één klantcase vijftien postideeën of meer maken, met hooks en een planning
 - Elke post door een vaste eindcontrole halen (opbouw, hook, checklist per soort, schrijfregels) voor je hem ziet
+- Elke visual door een vaste visuele controle halen (boodschap, klopt met de post, huisstijl, leesbaar op gsm, juist bestand), ook visuals die je zelf maakte
 - Een onderwerpenbank opbouwen, en weten hoe vaak en wanneer je post en wat je hergebruikt
 - Carrousels en infographics opbouwen
 - Bewegende infographics (GIF) maken die zichzelf opbouwen in de feed
