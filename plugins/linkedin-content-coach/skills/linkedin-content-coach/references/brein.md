@@ -58,7 +58,7 @@ Begint een gesprek en vind je een brein? Lees eerst `profiel.md` en wat je voor 
 ## Het brein laten groeien
 
 Vraag het op een natuurlijk moment, met één korte vraag, en voeg pas toe na een ja:
-- **Na een post:** "Je hebt mijn versie aangepast. Mag ik je eindversie bewaren, zodat ik je stem beter leer?" Zet de eindversie in `posts.md` en wat hij veranderde in `stem.md`.
+- **Na elke post:** zodra hij een versie kiest, vraag altijd: "Wil je de post hier plakken zoals je hem uiteindelijk post? Zo leer ik je stem beter kennen." Zet de finale post in `posts.md` en wat hij veranderde in `stem.md`. Vraag het ook als hij niets lijkt aan te passen: ook dat is een les.
 - **Na een klantgesprek:** "Ik vond 3 sterke zinnen en 1 resultaat. Toevoegen aan je brein?"
 - **Bij een cijfer in een post of visual:** kijk eerst in `bewijsbank.md`. Staat het er niet in, vraag het dan. Geen cijfer op een post of beeld zonder bron.
 - **Na een week:** "Hoe deed je post het? Impressies, reacties van de juiste mensen, gesprekken?" Zet het in `posts.md`.

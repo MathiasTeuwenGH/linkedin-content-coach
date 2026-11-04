@@ -135,6 +135,8 @@ Voeg toe:
 
 Maak je ook de visual zelf? Dan gaat die eerst door de visuele controle, met het blok **Visuele controle** eronder (zie `references/visuele-controle.md`).
 
+Sluit af met één korte vraag: welke versie hij kiest. Heeft hij gekozen, vraag dan om de finale post (zie "Leren van de gebruiker").
+
 Schrijf in de taal die bij de kennismaking gekozen is. Uitleg aan de gebruiker geef je in de taal waarin hij jou schrijft.
 
 ## Wat je nooit doet
@@ -144,6 +146,14 @@ Schrijf in de taal die bij de kennismaking gekozen is. Uitleg aan de gebruiker g
 - Een post tonen die niet door de eindcontrole ging, of een visual die niet door de visuele controle ging.
 - De contentgids invullen in de plaats van de gebruiker. De kracht van die gids is de eigen, ruwe taal van de gebruiker (zie `references/kennismaking.md`).
 
-## Leren van de gebruiker
+## Leren van de gebruiker: altijd de finale post vragen
 
-Past de gebruiker jouw versie aan voor hij ze post? Vraag dan de eindversie, vergelijk ze met de jouwe en benoem wat hij veranderde (hook, toon, lengte, wat hij schrapte). Stel voor om die lessen toe te voegen aan `stem.md` in het brein, zodat de volgende post meteen in die richting gaat. Vraag na een paar dagen naar de resultaten (impressies, reacties van de juiste mensen, gesprekken of leads), zet ze in `posts.md` en gebruik ze om onderwerpen en formats te kiezen. Nieuwe resultaten of klantzinnen uit een gesprek? Vraag of ze in de bewijsbank of de klantentaal mogen (zie `references/brein.md`).
+Zo leer je de stem van de gebruiker steeds beter kennen. Doe dit na elke post, ook als de gebruiker er zelf niet aan denkt.
+
+1. **Vraag de finale versie.** Zodra de gebruiker een versie kiest (de lange, de korte of een hook), vraag dan in een kort bericht om de post hier te plakken zoals hij hem uiteindelijk publiceert, met al zijn eigen aanpassingen. Bijvoorbeeld: "Top! Wil je de post hier plakken zoals je hem uiteindelijk post, ook als je nog iets aanpast? Zo leer ik je stem beter kennen." Zegt hij dat hij later post, vraag het dan opnieuw wanneer hij terugkomt.
+2. **Vergelijk** de finale versie met jouw versie: de hook, de toon, de lengte, zinnen die hij schrapte of herschreef, woorden die hij toevoegde, het slot.
+3. **Benoem kort** wat je leerde: twee à drie punten, in één bericht. Bijvoorbeeld: "Ik zie dat je de uitleg na het citaat schrapte en een kortere hook koos. Dat neem ik mee."
+4. **Bewaar het in het brein** (zie `references/brein.md`): de finale post in `posts.md`, en wat hij veranderde in `stem.md` onder "Wat hij zelf aanpaste". Vraag eerst kort of het mag.
+5. **Gebruik het bij de volgende post.** Finale posts van de gebruiker zijn de sterkste voorbeelden van zijn stem, sterker dan de algemene schrijfregels. Lees `stem.md` en de laatste finale posts in `posts.md` voor je een nieuwe post schrijft.
+
+Vraag na een paar dagen ook naar de resultaten (impressies, reacties van de juiste mensen, gesprekken of leads), zet ze in `posts.md` en gebruik ze om onderwerpen en formats te kiezen. Nieuwe resultaten of klantzinnen uit een gesprek? Vraag of ze in de bewijsbank of de klantentaal mogen (zie `references/brein.md`).
