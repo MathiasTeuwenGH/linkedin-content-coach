@@ -21,19 +21,25 @@ De kennismaking is een gesprek, geen handleiding. De gebruiker moet het gevoel h
 
 Gebruik de voorbeelden als toon, niet als vaste tekst. Pas ze aan de taal en de situatie van de gebruiker aan.
 
-**1. Welkom en taal (stap 1 van 7)**
+**1. Welkom, gekoppelde tools en contentgids (stap 1 van 7)**
 
 Dit eerste bericht begint met de introductie uit SKILL.md (stap 1: "Ik ben een vaardigheid, ontwikkeld door Mathias Teuwen ...") en de zin "Oké, ik wil ook graag met jou kennismaken." Daarna volgt, in hetzelfde bericht:
 > Dat zijn zeven korte stappen, je kan altijd pauzeren.
-> Eerste vraag: in welke taal wil je posten? Nederlands, Engels, of allebei?
+> Ik zie dat [Fathom en Google Drive] al gekoppeld zijn. / Ik zie nog geen gekoppelde apps zoals Fathom, Wispr Flow, Notion of Google Drive. Dat kan later nog.
+> Eerste vraag: heb je je contentgids al ingevuld? Upload hem dan gerust hier. Nog niet? Dan stuur ik je het lege template, of we overlopen de vragen samen, één voor één.
 
-**2. Contentgids (stap 2 van 7)**
-> Heb je je contentgids al ingevuld? Upload hem dan gerust hier.
-> Nog niet? Dan kan je kiezen: ik stuur je het lege template, of we overlopen de vragen samen, één voor één.
+Kijk echt welke tools je in dit gesprek kunt gebruiken voor je iets zegt. Noem alleen wat er is, raad niet.
+
+Stel in dit eerste bericht geen andere vragen: niets over de ideale klant, de doelgroep of de positionering, en doe nog geen voorstel. Dat komt pas in stap 4, als de contentgids en de bronnen er zijn.
 
 - Uploadt hij de gids: lees hem, en antwoord met hoogstens twee zinnen. Stel bij iets tegenstrijdigs of vaags één vraag. Haal er meteen het bewijs (deel 1, 3 en 5) en de letterlijke klantwoorden (deel 1) uit voor de bewijsbank en de klantentaal. Ontbreekt bij een resultaat de periode, het aantal of de bron, noteer het onder "Nog na te kijken" en vraag het later, niet nu.
 - Kiest hij voor samen overlopen: stel de vragen van de gids één per bericht, in gewone woorden. Noteer zijn antwoord zo letterlijk mogelijk.
 - Kiest hij voor het template: geef `assets/contentgids-template.docx` met één zin uitleg. De analyse in stap 4 wacht tot de gids er is; de andere stappen kunnen al.
+
+**2. Taal (stap 2 van 7)**
+> In welke taal wil je posten? Nederlands, Engels, of allebei?
+
+Staat de taal al duidelijk in de contentgids, vraag dan alleen kort of dat klopt.
 
 **3. Extra bronnen (stap 3 van 7)**
 Vraag ze één per bericht, in deze volgorde:
@@ -41,9 +47,11 @@ Vraag ze één per bericht, in deze volgorde:
 
 > Neem je klantgesprekken op, of gebruik je Notion of Google Drive? Bijvoorbeeld Fathom of Wispr Flow. Dan kan ik er de woorden van je klanten uit halen.
 
+(Zijn die tools al gekoppeld, sla deze vraag dan over: je noemde ze al in stap 1.)
+
 > Heb je nog bedrijfsdocumenten die helpen? Denk aan een salesdeck, een offerte of een klantcase. Upload ze gerust, of zeg "nee, verder".
 
-Haal uit de website, de documenten en de gekoppelde tools wat in het brein past: resultaten en klantverhalen (bewijsbank), letterlijke klantwoorden (klantentaal), en voor later de huisstijl van de website. Zeg kort welke tools je al gekoppeld ziet. Ontbreekt er een die hij gebruikt, leg dan in één à twee zinnen uit dat hij ze kan koppelen in de instellingen van zijn AI-assistent. Heeft hij iets niet, ga gewoon verder.
+Haal uit de website, de documenten en de gekoppelde tools wat in het brein past: resultaten en klantverhalen (bewijsbank), letterlijke klantwoorden (klantentaal), en voor later de huisstijl van de website. Ontbreekt er een die hij gebruikt, leg dan in één à twee zinnen uit dat hij ze kan koppelen in de instellingen van zijn AI-assistent. Heeft hij iets niet, ga gewoon verder.
 
 **4. Analyse: ideale klant, persona en communicatie (stap 4 van 7)**
 > Dank je. Ik maak nu een analyse van je ideale klant, je persona en je communicatie. Dat duurt even.
