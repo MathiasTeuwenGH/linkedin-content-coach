@@ -2,6 +2,10 @@
 
 Gebruik dit wanneer de gebruiker een post van iemand anders deelt die hij goed vindt ("deze post werkt, maak er een voor mij"), of wanneer hij een eigen oude post wil verbeteren. Het doel is niet kopiëren. Het doel is begrijpen waarom iets werkt en die logica gebruiken voor het eigen verhaal.
 
+## Openingsvraag
+
+> Plak de post die je sterk vond. Zeg er gerust bij wat je erin aansprak.
+
 ## Stap 1: de post ontleden
 
 Beschrijf voor de gebruiker, kort en eenvoudig:
@@ -19,7 +23,7 @@ Schrijf de opbouw uit als sjabloon, met [haakjes] voor wat de gebruiker invult. 
 
 Zoek in het brein, de contentgids en de gekoppelde tools het verhaal, citaat of resultaat dat het best past. Past er niets? Zeg dat eerlijk en stel voor welk materiaal de gebruiker kan aanleveren, of stel een ander posttype voor.
 
-Schrijf de post in de stem van de gebruiker, ongeveer even lang als het origineel. Lever de lange en de korte versie (zie `schrijfregels.md`).
+Schrijf de post in de stem van de gebruiker, ongeveer even lang als het origineel, met dezelfde regels als bij elke post (zie SKILL.md): de vaste kop met soort post en doel, de lange en de korte versie (zie `schrijfregels.md`), en de vraag om de finale post.
 
 ## Stap 4: de eindcontrole
 

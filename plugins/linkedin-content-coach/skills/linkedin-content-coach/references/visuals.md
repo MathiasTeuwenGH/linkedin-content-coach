@@ -2,24 +2,35 @@
 
 Een visual moet de boodschap dragen, niet versieren. Bepaal eerst de post en de ene boodschap, kies daarna het soort visual.
 
+## Werkwijze (keuze 6)
+
+1. **Openingsvraag:**
+   > Bij welke post wil je een visual? Plak de post, of kies een post die we samen schreven. Wil je één beeld, of een carrousel van meerdere slides?
+2. **Stel het soort visual voor**, in gewone woorden en passend bij het doel van de post (zie de tabellen hieronder).
+3. **Zeg vooraf in welke vorm hij het krijgt.** Kan je in dit gesprek code uitvoeren en een beeld maken (bv. in Claude), dan bouw je het in de huisstijl met het echte logo (zelfde techniek als bij de bewegende infographics, zie `animaties.md`) en lever je een PNG (één beeld) of een PDF (carrousel, want LinkedIn toont een carrousel als document). Kan dat niet, dan krijgt hij de tekst per slide met opmaakinstructies om het zelf te maken in Canva of Figma.
+4. **Eerst de tekst laten goedkeuren.** Toon de tekst per beeld of per slide, met de markering en de achtergrondkleur. Pas na een ok maak je het beeld. Een beeld aanpassen kost meer dan een tekst.
+5. **Maak het beeld**, volgens het recept van dat soort en de opmaakregels hieronder.
+6. **De visuele controle** (zie `visuele-controle.md`), met het blok "Visuele controle" eronder.
+7. **Opleveren**, met een korte uitleg: één beeld voeg je toe via het foto-icoon; een carrousel als PDF voeg je toe als document.
+
 ## Welke visual bij welk posttype
 
 - **Perspective:** een eigen foto (echt, niet geposeerd), of één statementkaart met een sterke zin.
 - **Proof:** een infographic of carrousel die een werkwijze, een voor-en-na of een resultaat toont.
 - **Promo:** een infographic of carrousel met het probleem, de oplossing, bewijs en een oproep.
 
-## Soorten visuals
+## Soorten visuals, met een recept per soort
 
-| Soort | Wat het is | Goed voor |
+| Soort | Goed voor | Recept |
 |---|---|---|
-| Statementkaart | Eén sterke zin groot in beeld | Een mening, een inzicht, een citaat |
-| Klantcitaat | Een citaat van een klant met functie en soort bedrijf, eventueel een resultaat | Proof, promo |
-| Voor en na | Twee kolommen: verwachting en realiteit, of oud en nieuw | Misvattingen, transformaties |
-| Tijdlijn of reis | Stappen of maanden met wat er gebeurde | Groei, bouwen in het openbaar |
-| Framework of lijst | Een methode, checklist of stappenplan, overzichtelijk | Tips, werkwijzen (wordt bewaard) |
-| Uitgelegde post | Een voorbeeld met pijltjes en korte notities die uitleggen wat elk deel doet | Iets aanleren |
-| Spiegel | "[Doelgroep]: ... Ook jij: ..." of vage taal tegenover duidelijke taal | Herkenning, promo |
-| Luchtig | Een grappige vergelijking of meme-stijl | Af en toe, voor bereik |
+| Kaart met één sterke zin | Een mening, een inzicht, een citaat | De kern of de hook van de post, hoogstens ongeveer 12 woorden, groot en centraal. Eén woord gemarkeerd in de accentkleur. Naam klein onderaan. |
+| Klantcitaat | Proof, promo | Het letterlijke citaat uit de klantentaal in het brein, hoogstens 25 woorden, groot in beeld. Daaronder functie en soort bedrijf (naam alleen met toestemming), eventueel één resultaat uit de bewijsbank, met bron. |
+| Voor en na | Misvattingen, veranderingen | Twee kolommen met elk 3 à 5 korte regels: links "voor" (of verwachting) in de probleemkleur, rechts "na" (of realiteit) in de oplossingskleur. Bovenaan één titel die het verschil benoemt. |
+| Tijdlijn | Groei, bouwen in het openbaar, een klantreis | 4 à 7 momenten (maand of jaar en wat er gebeurde, hoogstens ongeveer 8 woorden), op één lijn. Het laatste punt is "nu", gemarkeerd. Bron: de contentgids (verhaal, wins), `posts.md` en de bewijsbank. |
+| Stappenplan of checklist | Tips, werkwijzen (wordt bewaard) | Een titel met een belofte ("Hoe ik ..."), 3 à 7 genummerde stappen, telkens een kort werkwoord en één regel uitleg. Onderaan één zin met het resultaat. Bron: de werkwijze uit de contentgids of de post. |
+| Voorbeeld met pijltjes en uitleg | Iets aanleren | Een eigen post of voorbeeld in het midden, 3 à 5 pijltjes met korte notities (hoogstens ongeveer 8 woorden) over wat elk deel doet. Geen posts van anderen, tenzij anoniem gemaakt. |
+| De spiegel van de klant | Herkenning, promo | Bovenaan "[Doelgroep]:" met 3 à 5 herkenbare situaties in de woorden van de klant (klantentaal). Daaronder "Ook jij?", of twee kolommen: vage taal tegenover duidelijke taal. |
+| Iets luchtigs | Af en toe, voor bereik | Een eenvoudige, herkenbare vergelijking of situatie, liefst in twee panelen, met weinig tekst, in de huisstijl. Geen bekende memebeelden of figuren. Af en toe, tussen zwaardere posts. |
 
 ## Carrousel: "het kantelpunt"
 
@@ -83,4 +94,4 @@ Een infographic kan ook bewegen: een korte GIF die zichzelf opbouwt in de feed. 
 
 Voor je een visual toont, gaat hij door de visuele controle (zie `visuele-controle.md`): boodschap, klopt met de post, huisstijl, vakwerk en bestand.
 
-Kun je de visual niet zelf maken met de beschikbare tools? Lever dan de tekst per slide, met per slide de markering en de achtergrondkleur, zodat de gebruiker hem kan maken in zijn eigen ontwerptool.
+Kun je de visual niet zelf maken met de beschikbare tools? Zeg dat vooraf (zie de werkwijze, stap 3) en lever de tekst per slide, met per slide de markering, de achtergrondkleur en het recept van het soort visual, zodat de gebruiker hem kan maken in Canva, Figma of een andere ontwerptool.

@@ -83,9 +83,13 @@ Vertaal de inzichten ook naar LinkedIn: welke onderwerpen, posttypes (zie `postt
 - Stuurt de gebruiker iets bij, pas de analyse dan aan.
 - Neem de kern op in het bedrijfsprofiel (zie `kennismaking.md`): de ICP in een paar regels, de persona, de functionele en emotionele pijn en winst, en de 5 inzichten in één zin elk.
 
+## Na de analyse: verschillen en positionering
+
+In de kennismaking volgen na de analyse nog twee stappen: de verschillen tussen de contentgids en de andere bronnen nakijken, en de positionering scherpstellen. Hoe je dat doet: zie `kennismaking.md`, stap 5.
+
 ## Hoe je de analyse daarna gebruikt
 
 - **Promoposts:** de functionele en emotionele pijn, de drempels en de emotionele winst van de persona.
 - **Perspectiveposts:** de marktbehoefte en de inzichten uit de communicatiestrategie.
 - **Proofposts:** de doelen en de functionele winst, gekoppeld aan echte klantresultaten.
-- **LinkedIn-profiel en Sales Navigator:** de beslisser, de sector, de bedrijfsgrootte en de regio uit de ICP.
+- **LinkedIn-profiel en Sales Navigator:** de beslisser, de sector, de bedrijfsgrootte, de regio en de groeifase uit de ICP, en de functie en achtergrond van de persona (zie `sales-navigator.md`).

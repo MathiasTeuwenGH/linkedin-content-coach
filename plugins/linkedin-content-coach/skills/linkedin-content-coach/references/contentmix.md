@@ -40,7 +40,12 @@ Onthoud: welke fase je ook kiest, maak het altijd over wat je voor anderen en vo
 
 ## Een weekplanning maken
 
-Vraagt de gebruiker een planning? Stel per week voor: 1 à 2 perspective, 1 à 2 proof, 1 promo. Geef per post het onderwerp, het posttype, het eigen materiaal waarop het steunt (welk gesprek of welk deel van de contentgids) en de doelgroep. Zet posts die toestemming van een klant nodig hebben later in de planning, en zet nooit twee posts over hetzelfde verhaal in dezelfde week.
+**Openingsvraag:**
+> Plak of vertel je ideeën, of zal ik ze zelf verzamelen uit je brein en je gesprekken? En hoeveel keer per week wil je posten?
+
+**Kijk eerst wat al gepost en gepland is:** lees `posts.md` en `planning.md` in het brein. Welke soorten kwamen de laatste weken aan bod? Vul de mix daarop aan.
+
+Stel per week voor: 1 à 2 perspective, 1 à 2 proof, 1 promo. Post de gebruiker 2 keer per week, spreid de mix dan over twee weken (bv. week 1 perspective en proof, week 2 perspective en promo). Zijn er te weinig ideeën, vul aan uit de onderwerpenbank (zie `onderwerpen.md`). Geef per post het onderwerp, het posttype, het eigen materiaal waarop het steunt (welk gesprek of welk deel van de contentgids) en de doelgroep. Zet posts die toestemming van een klant nodig hebben later in de planning, en zet nooit twee posts over hetzelfde verhaal in dezelfde week. Bewaar de planning in het brein (`planning.md`, zie `brein.md`), zodat je de volgende keer weet wat gepland en gepost is.
 
 ## Naast posten
 
@@ -48,7 +53,7 @@ Posten alleen is niet genoeg: reageren bij anderen, berichten sturen en gesprekk
 
 ## Hoe vaak en wanneer
 
-- **Hoe vaak:** begin met drie posts per week. Vijf is beter als het haalbaar is. Wie meer ideeën en tijd heeft, mag ook in het weekend posten: dan posten minder mensen en valt je post meer op. Ritme is belangrijker dan een hoog aantal, en pas op voor uitputting: de eerste weken is er veel enthousiasme, daarna moet discipline het overnemen.
+- **Hoe vaak:** minstens 2 posts per week. 3 is ideaal. Meer is goed, maar let op dat je niet snel opgebrand raakt: de eerste weken is er veel enthousiasme, daarna moet discipline het overnemen. Wie meer ideeën en tijd heeft, mag ook in het weekend posten: dan posten minder mensen en valt je post meer op. Ritme is belangrijker dan een hoog aantal.
 - **Wanneer:** een goed vertrekpunt is tussen 8 en 10 uur en tussen 12 en 14 uur (in de tijdzone van je ideale klant). Test en kijk wat bij jouw publiek werkt.
 
 ## Hergebruiken

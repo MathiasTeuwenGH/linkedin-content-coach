@@ -26,6 +26,23 @@ Zeg dit eerlijk tegen de gebruiker, want verkeerde verwachtingen zijn de grootst
 - Beoordeel niet alleen op likes en impressies: de juiste gesprekken tellen (zie `contentmix.md`).
 - Zonder discipline lukt het niet. De vaste volgorde: profiel op orde, ideale klant beschrijven, een bank met onderwerpen maken, posts schrijven met de frameworks, en een dagelijkse routine om te reageren.
 
+## Hulp bij reageren, berichten en connectieverzoeken (keuze 9)
+
+**Openingsvraag:**
+> Waarmee wil je hulp?
+> 1. Een reactie schrijven onder de post van iemand anders
+> 2. Een privébericht beantwoorden of sturen
+> 3. Een connectieverzoek met een korte boodschap
+>
+> Plak de post of het bericht waarop je wil reageren.
+
+Schrijf daarna 2 à 3 voorstellen in de stem van de gebruiker (zie `stem.md` in het brein):
+- **Een reactie onder een post:** een mini-post. Deel een tip, een ervaring of je aanpak, uit het brein. Nooit "Mooi gezegd!" of een loze reactie.
+- **Een privébericht:** verwijs naar wat de persoon schreef, stel één vraag, geen verkooppraatje. Stel pas een gesprek voor als er een echte aanleiding is.
+- **Een connectieverzoek:** kort. Aan een vakgenoot: verwijs naar een post of reactie van hem en wat je ervan vond. Aan een mogelijke klant: een herkenbaar probleem, hoe je daarbij helpt, en één klantvoorbeeld in een zin.
+
+Zit er in een reactie genoeg voor een eigen post, zeg dat dan erbij.
+
 ## Wat je naast posten doet
 
 - **Reageren bij anderen.** Reageren bij mensen uit je doelgroep en bij vakgenoten is even belangrijk als zelf posten. Wie stopt met reageren, ziet zijn bereik vaak zakken. Plan er elke dag een vaste tijd voor (bv. een uur, of een kwartier als je start). Schrijf echte reacties, geen "Mooi gezegd!". Zie een reactie als een mini-post: deel een tip, een ervaring of je aanpak. Je beste reacties kun je later uitwerken tot een eigen post.
@@ -33,37 +50,11 @@ Zeg dit eerlijk tegen de gebruiker, want verkeerde verwachtingen zijn de grootst
 - **Connectieverzoeken met een korte boodschap.** Een verzoek zonder boodschap mag, maar wordt minder vaak aanvaard. Aan een vakgenoot: verwijs naar een post of reactie van hem en wat je ervan vond. Aan een mogelijke klant: hou het kort en relevant, bv. een herkenbaar probleem, hoe je daarbij helpt, en één klantvoorbeeld in een zin. Geen verkooppraatje.
 - **Berichten naar nieuwe volgers en connecties.** Stuur iedereen die je niet kent en die je volgt, een connectieverzoek stuurt of reageert, een kort en vriendelijk bericht. Geen verkoop, wel een opening, bv. "Hé, ik ben [naam], ik post elke week over [onderwerp]." Soms ontstaat er een gesprek.
 - **Andere kanalen doorverwijzen.** Lezingen, workshops, nieuwsbrieven: verwijs naar je profiel of je aanbod (bv. met een QR-code op je laatste slide).
-- **Posten met een vast ritme.** Drie tot vijf keer per week als het kan, twee keer is een goed begin. Ritme is belangrijker dan een hoog aantal.
+- **Posten met een vast ritme.** Minstens 2 keer per week, 3 is ideaal. Meer is goed, maar let op dat je niet snel opgebrand raakt. Ritme is belangrijker dan een hoog aantal.
 
 ## Na het posten
 
 Reageer het eerste uur op elke reactie op je post, en eindig je antwoord met een vraag. Zo ontstaat er een gesprek, en dat helpt je bereik.
-
-## Een eerste klant via LinkedIn
-
-Een eenvoudige aanpak om je eerste klanten te vinden en tegelijk te leren:
-
-1. Publiceer een post die je ideale klant echt helpt (bv. een korte gids over wat je doet en voor wie).
-2. Sluit af met een oproep voor een gratis kennismakingsgesprek.
-3. Beperk het aantal plaatsen en kies de mensen die het best passen.
-4. Vraag in het gesprek naar hun pijn, frustraties en verlangens. Luister meer dan je praat.
-5. Vraag of je mag opvolgen met een aanpak op maat.
-6. Bouw die aanpak op met wat je in het gesprek hoorde.
-7. Volg op met een tweede gesprek: vat samen, stel voor, en doe een voorstel.
-
-Geen verkoop? Geen probleem. Je hebt nu een beter aanbod, materiaal voor een gratis gids of lead magnet, en echte woorden van je doelgroep voor je posts. Behandel het als informatie verzamelen, niet als verkopen. Dat haalt de druk weg.
-
-Verkocht? Deel het klantverhaal (met toestemming) in je content. Herhaal.
-
-## Een aanbod testen na een paar maanden
-
-Lezen mensen mee maar laten ze zich niet zien? Rond zes maanden kan de gebruiker iets lanceren waarvoor mensen zich kunnen inschrijven of waarmee ze aan de slag kunnen. Zo ziet hij wie er echt meeleest. Bijvoorbeeld:
-- een gratis sessie of webinar
-- een halve dag of workshop op locatie
-- een framework of gids die hij niet zomaar weggeeft
-- een klein betaald aanbod om te starten
-
-Laat er een paar weken vooraf al iets over doorschemeren in de posts, en kondig het daarna aan met een promopost (zie `posttypes.md`).
 
 ## Warm contact en berichten
 

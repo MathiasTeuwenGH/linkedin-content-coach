@@ -4,11 +4,39 @@ Een korte animatie die zichzelf opbouwt naast een post: eerst een leeg vlak, dan
 
 Gebruik ze als een beeld iets toont wat de post vertelt: een cijfer om te tellen, een vergelijking, een proces, een verschuiving. Een animatie die alleen versiert, werkt niet.
 
-## Wat je nodig hebt
+## Openingsvraag
 
-- **Om zelf te bouwen:** een AI-assistent die code kan uitvoeren, met een browser die je vanuit code bestuurt (bv. Playwright met Chromium) en liefst ffmpeg. In Claude: code uitvoeren moet aanstaan.
-- **Kan dat niet:** lever een draaiboek (zie "Zonder code" onderaan). De gebruiker bouwt het dan zelf in een ontwerptool met animaties.
-- Zeg in één zin welke van de twee je doet. Beloof nooit een GIF die je niet kunt maken.
+> Bij welke post wil je een bewegende infographic? Plak de post, of kies een post die we samen schreven.
+
+## Kan het hier? Eerst testen
+
+Een bewegende infographic bouw je als een webpagina die zichzelf opbouwt, en die je daarna beeld per beeld opneemt. Daarvoor heb je nodig: code kunnen uitvoeren, Python met Playwright en een Chromium-browser, en liefst ffmpeg (zonder ffmpeg maakt `opnemen.py` de GIF met Pillow).
+
+1. **Test eerst of je kunt opnemen**, voor je iets belooft: kan je code uitvoeren, en starten Playwright en de browser?
+2. **Lukt dat niet, probeer het te installeren** (bv. `pip install playwright` en `playwright install chromium`). In sommige werkruimtes blokkeren de netwerkinstellingen die download.
+3. **Lukt het ook dan niet**, zeg het eerlijk en in gewone woorden, en geef drie keuzes:
+   > Een bewegende infographic kan ik hier niet opnemen. Wat wil je?
+   > 1. Een gewone infographic die niet beweegt (dat kan ik wel).
+   > 2. Een bouwpakket om de animatie zelf op te nemen in Claude Code op je eigen computer.
+   > 3. Een draaiboek om ze met de hand na te bouwen in Canva of Figma.
+
+   Voor starters die Claude Code niet kennen, zijn 1 en 3 het eenvoudigst.
+   - **Keuze 1:** volg `visuals.md`.
+   - **Keuze 2, het bouwpakket:** het animatiebestand (html, met tekst, kleuren en logo), `opnemen.py`, de lettertypes en het logo, plus een zin om te plakken in Claude Code: "Neem deze animatie op als GIF met het script opnemen.py. Installeer wat ontbreekt." Claude Code werkt op de computer van de gebruiker en kan daar de nodige programma's installeren, met zijn toestemming.
+   - **Keuze 3:** het draaiboek (zie "Zonder code" onderaan).
+
+**Werkt de gebruiker in ChatGPT of Copilot?** Geef hem altijd iets waar hij zelf verder mee kan:
+- **ChatGPT (met code-uitvoering):** maak het draaiboek en geef deze prompt om te plakken:
+  > Maak met Python (Pillow) een bewegende GIF van 1080 x 1350 pixels op basis van dit draaiboek: [draaiboek]. Kleuren: [kleurcodes]. Lettertype: het .ttf-bestand dat ik upload. Logo: de .png die ik upload, klein rechtsonder. Regels: het eerste beeld is leeg. Elk element verschijnt in leesvolgorde en schuift rustig in beeld in ongeveer 0,4 seconde. Geen geknipper. Het slotbeeld blijft 2 seconden staan. Totale duur 6 tot 8 seconden, 15 beelden per seconde. De GIF herhaalt eindeloos en blijft onder 5 MB. Toon me daarna het slotbeeld en geef me de GIF om te downloaden.
+- **Copilot, of als code niet lukt: een stappenplan voor Canva:**
+  1. Maak in Canva een ontwerp van 1080 x 1350 pixels.
+  2. Zet de tekst en de elementen op hun plaats volgens het draaiboek, in je huisstijl en met je echte logo.
+  3. Geef elk element een rustige animatie waarmee het verschijnt, in de volgorde waarin je het leest.
+  4. Zet de duur op 6 à 8 seconden.
+  5. Download het ontwerp als GIF. Controleer dat het bestand onder 5 MB blijft.
+  6. Post het op LinkedIn via het foto-icoon, niet via het video-icoon.
+
+Beloof nooit een GIF die je niet kunt maken.
 
 Startbestanden in `assets/animatie/`:
 - `start.html`: een werkend voorbeeld (tellende tegels) met de juiste opbouw. Pas huisstijl, tekst en tijdlijn aan.
