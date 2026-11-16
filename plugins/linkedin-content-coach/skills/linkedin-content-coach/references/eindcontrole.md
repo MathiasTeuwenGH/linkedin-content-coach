@@ -2,7 +2,7 @@
 
 Elke post die je toont, gaat eerst door deze controle. Ook een post die vertrekt van een postidee, een gesprek, een klantcase of de post van iemand anders. Je doet de controle zelf, past aan wat niet klopt, en toont pas dan de post.
 
-Bij de oplevering zet je onder de post een kort blok **Eindcontrole**: per deel hieronder "ok" of in een paar woorden wat je aanpaste. Wat je niet kon nagaan (een feit, een toestemming), zet je tussen [haakjes]. Houd het blok kort: geen uitleg van de regels, alleen het resultaat.
+Bij de oplevering zet je onder de post een kort blok **Eindcontrole**, in gewone woorden. Toon alleen wat je aanpaste en wat nog nagekeken moet worden, niet alles wat "ok" was. Gebruik geen interne namen zoals "impressieladder" of "checklist proof": zeg wat je bedoelt (bv. "De openingszin staat boven 'meer weergeven': nakijken in de preview"). Wat je niet kon nagaan (een feit, een toestemming), zet je tussen [haakjes].
 
 De schrijfstijlgids van de gebruiker gaat altijd voor. Zegt die iets anders dan deze controle, volg dan de stijlgids en vermeld het.
 
@@ -72,17 +72,15 @@ Trede 1 en 2 loop je bij elke post af. Trede 3 tot 5 vooral bij proofposts, carr
 
 ## 6. Na het posten
 
-Herinner de gebruiker kort aan drie dingen:
+Geef deze herinneringen niet onder elke post, maar wanneer de gebruiker zijn finale post plakt (dan staat hij op het punt te posten):
 - Reageer het eerste uur op elke reactie, en eindig je antwoord met een vraag zodat er een gesprek ontstaat.
-- Noteer na een paar dagen: impressies, of de juiste mensen reageerden, en of er gesprekken of leads uit kwamen.
+- Kom over een paar dagen terug met je resultaten: impressies, of de juiste mensen reageerden, en of er gesprekken of leads uit kwamen. Dan zet ik ze in je brein. (Je kunt niet uit jezelf terugkomen.)
 - Werkt de post goed? Zet hem in de lijst om na ongeveer drie maanden te herwerken en opnieuw te posten (zie `contentmix.md`).
 
 ## Voorbeeld van het blok onder een post
 
 Eindcontrole
-- Opbouw: ok (proof, hoe ik het aanpak)
-- Hook: tweede regel toegevoegd met het cijfer uit het gesprek
-- Checklist proof: ok
-- Schrijfregels: twee lange woorden vervangen, één gedachtestreepje weg
-- Impressieladder 1-2: ok
-- Na te kijken: [mag de klant herkenbaar zijn?]
+- Ik zette een tweede regel onder de openingszin, met het cijfer uit het gesprek.
+- Twee lange woorden vervangen door kortere, één gedachtestreepje weg.
+- Nakijken: staat de openingszin boven "meer weergeven"? Check het in een gratis preview-tool.
+- Nakijken: [mag de klant herkenbaar zijn?]

@@ -21,11 +21,12 @@ brein/
   huisstijl/        het logo en de lettertypes als bestand, de stijlgids
   bronnen/          de ruwe stukken (contentgids, transcripten, documenten), nooit herschreven
   posts.md          elke gepubliceerde post, met datum en resultaten
+  planning.md       de contentplanning: wat gepland is, per week
 ```
 
 ## Waar het brein staat
 
-Vraag het in stap 7 van de kennismaking. Het moet blijven bestaan tussen gesprekken.
+Vraag het in stap 8 van de kennismaking. Het moet blijven bestaan tussen gesprekken.
 
 | Waar | Hoe je het bijwerkt |
 |---|---|
@@ -61,7 +62,7 @@ Vraag het op een natuurlijk moment, met één korte vraag, en voeg pas toe na ee
 - **Na elke post:** zodra hij een versie kiest, vraag altijd: "Wil je de post hier plakken zoals je hem uiteindelijk post? Zo leer ik je stem beter kennen." Zet de finale post in `posts.md` en wat hij veranderde in `stem.md`. Vraag het ook als hij niets lijkt aan te passen: ook dat is een les.
 - **Na een klantgesprek:** "Ik vond 3 sterke zinnen en 1 resultaat. Toevoegen aan je brein?"
 - **Bij een cijfer in een post of visual:** kijk eerst in `bewijsbank.md`. Staat het er niet in, vraag het dan. Geen cijfer op een post of beeld zonder bron.
-- **Na een week:** "Hoe deed je post het? Impressies, reacties van de juiste mensen, gesprekken?" Zet het in `posts.md`.
+- **Resultaten:** je kunt niet uit jezelf terugkomen. Vraag bij de finale post om over een paar dagen terug te komen met de resultaten (impressies, reacties van de juiste mensen, gesprekken). Komt hij terug, zet het dan in `posts.md`.
 - **Elke maand:** stel voor om deel 5 van de contentgids (wins en wat hij bouwt) aan te vullen.
 
 Werk het brein bij aan het eind van een taak, niet midden in een gesprek. Zeg in één zin wat er bijkwam.
@@ -164,6 +165,14 @@ Status: [bevestigd / voorstel]   Bron: [stijlgids / website / gebruiker]
 # Posts
 | Datum | Onderwerp | Soort | Link of tekst | Resultaat na 1 week | Les |
 |---|---|---|---|---|---|
+```
+
+### planning.md
+
+```
+# Planning
+| Week | Onderwerp | Soort (perspective, proof, promo) | Materiaal | Status (gepland, gepost) |
+|---|---|---|---|---|
 ```
 
 Het sjabloon voor `profiel.md` staat in `kennismaking.md` ("Het bedrijfsprofiel").

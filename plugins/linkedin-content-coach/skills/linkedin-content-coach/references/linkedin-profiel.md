@@ -4,7 +4,13 @@ Elke goede post stuurt mensen naar het profiel. Daar beslissen ze in een paar se
 
 ## Werkwijze
 
-1. Vraag de gebruiker om zijn profiel te delen: een pdf van het profiel (via "Meer" > "Opslaan als pdf" op zijn profiel), schermafbeeldingen, of de teksten geplakt. Die pdf bevat meestal de kopregel, About-sectie, ervaring en vaardigheden, maar niet de banner, de profielfoto of de Featured-sectie. Vraag voor die drie een schermafbeelding van de bovenkant van het profiel en van Featured. Ontbreekt iets, zeg dan welk deel je niet kon nakijken.
+1. **Openingsvraag:**
+   > Ik kijk je profiel graag na. Doe dit:
+   > 1. Ga naar je LinkedIn-profiel, klik op "Meer" en dan op "Opslaan als pdf". Upload die PDF hier.
+   > 2. Maak een schermafbeelding van de bovenkant van je profiel (banner, foto en kopregel).
+   > 3. Maak een schermafbeelding van je Featured-sectie, als je die hebt.
+
+   In de pdf staan de banner, de profielfoto en Featured niet, daarom de schermafbeeldingen. Plakt hij liever de teksten, ook goed. Ontbreekt iets, zeg dan welk deel je niet kon nakijken.
 2. Leg het naast het brein (de ideale klant, het aanbod, de bewijzen, de letterlijke taal van klanten).
 3. Loop de onderdelen hieronder af. Geef per onderdeel: wat nu goed is, wat beter kan en waarom, en een concreet voorstel (tekst die hij kan overnemen, in zijn stem).
 4. Begin met wat het meeste oplevert: kopregel, banner en About-sectie.
@@ -28,6 +34,12 @@ De banner is de grootste plaats op het profiel en blijft vaak leeg of vaag. Een 
 Een andere mogelijkheid: een licht prikkelende tekst die de ideale klant doet nadenken. Prikkelend mag, vaag niet.
 
 Vermijd: alleen een logo, een stockfoto, kleuren die het lezen moeilijk maken, en een prikkelende maar vage vraag.
+
+**Zo maak je de banner** (dezelfde werkwijze als de visuals, zie `visuals.md`):
+1. **Eerst de tekst.** Stel de tekst voor: één zin met ideale klant, doel en oplossing, de categorie, en 2 à 4 resultaten uit de bewijsbank. De gebruiker keurt goed of past aan.
+2. **Dan het beeld:** 1584 x 396 pixels (het formaat van een LinkedIn-banner), in de huisstijl met het echte logo. Geen tekst linksonder: daar komt de profielfoto. De belangrijkste tekst in het midden en rechts, zodat ze ook op de gsm leesbaar blijft (daar snijdt LinkedIn de banner anders bij). Lever een PNG. Kan je in dit gesprek geen beeld maken, lever dan de tekst met opmaakinstructies voor Canva.
+3. **De visuele controle** (zie `visuele-controle.md`): leesbaar op de gsm, genoeg contrast, niets achter de profielfoto, het juiste formaat.
+4. **Opladen:** op je profiel klik je op het potloodje in de banner.
 
 Formules om te vertrekken (altijd invullen met eigen details):
 - "Wat als [dienst of product] je [verlangen] gaf? Hoeveel meer [voordeel] zou je dan halen?"
@@ -88,4 +100,4 @@ Vraag (oude) klanten om een aanbeveling. Stuur de aanvraag via LinkedIn zelf, da
 
 ## Activiteit
 
-Het profiel toont de laatste posts. Een mix van verhalen en ervaringen, expertise tonen en promo, twee tot vijf keer per week, maakt het profiel geloofwaardig. Zie `contentmix.md`.
+Het profiel toont de laatste posts. Een mix van verhalen en ervaringen, expertise tonen en promo, minstens 2 keer per week (3 is ideaal, meer is goed zolang je niet opgebrand raakt), maakt het profiel geloofwaardig. Zie `contentmix.md`.

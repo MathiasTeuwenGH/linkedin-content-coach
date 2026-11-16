@@ -1,6 +1,9 @@
 # Posttypes: welke opbouw past bij welk verhaal
 
-Kies het posttype op basis van het verhaal, niet andersom. Elk type hieronder heeft een opbouw, een reden waarom het werkt en een voorbeeld van een openingszin. De voorbeelden zijn verzonnen om het idee te tonen: schrijf altijd een nieuwe hook met de details van de gebruiker.
+Kies het posttype op basis van het verhaal, niet andersom.
+
+**Leg het posttype altijd uit in gewone woorden.** De namen in deze tabellen zijn voor jou. Noem aan de gebruiker nooit alleen de naam ("wat klanten mij vertellen"), maar beschrijf hoe de post eruit zal zien: waarmee hij opent, wat er daarna komt, waarmee hij eindigt. Bv. "Je opent met de letterlijke zin van je klant, daarna leg je uit wat die zin zegt over het probleem, en je eindigt met wat jij daaraan doet."
+ Elk type hieronder heeft een opbouw, een reden waarom het werkt en een voorbeeld van een openingszin. De voorbeelden zijn verzonnen om het idee te tonen: schrijf altijd een nieuwe hook met de details van de gebruiker.
 
 ## Wat sterke posts gemeen hebben
 
@@ -33,6 +36,13 @@ Kies het posttype op basis van het verhaal, niet andersom. Elk type hieronder he
 | Wat ontbrak, en de wending | Een licht dramatische hook (dat het eigenlijk niet kon lukken), een lijst van wat je allemaal niet had, een wending ("toch was het oké, want ..."), dezelfde lijst herkaderd (elk gemis werd iets nuttigs), een motiverend slot, dan wat je doet en een uitnodiging om te volgen | Het contrast tussen de twee lijsten vertelt de verandering zonder uitleg. Kwetsbaar en hoopvol tegelijk. | Je begon vanaf nul of maakte een moeilijke periode door | "Geen klanten. Geen netwerk. Geen spaarpot. Zo begon ik." |
 | Een herkenbare oproep aan je publiek | Een korte vraag of oproep over een frustratie die je doelgroep kent, met een visual die de situatie grappig of herkenbaar maakt | Mensen reageren graag met hun eigen verhaal. Dat geeft bereik en toont wat je publiek bezighoudt. | Af en toe, tussen zwaardere posts door | "Vertel me je vreemdste vraag van een klant deze maand." |
 | Direct bruikbare tips | Een belofte (het makkelijkste pad naar X zonder Y), een lijst die je meteen kunt gebruiken, een korte afsluiter | Lage drempel. Wordt bewaard en gedeeld. | Je hebt een checklist, vragenlijst of vaste aanpak | "De vijf vragen die ik stel voor ik een offerte maak. Ze besparen me elke week een uur." |
+| Een les uit een bekend voorbeeld | Een verrassend feit over een bekend merk of een voorbeeld uit het dagelijks leven, wat ze goed doen, de les voor je doelgroep, de fouten die je doelgroep maakt (genummerd), wat ze beter doen | Een herkenbaar voorbeeld maakt een abstract idee concreet en wekt nieuwsgierigheid. | Je wil een principe uitleggen dat je klanten vaak vergeten | "De bakker in mijn straat verkoopt meer koffie dan brood. Daar kan elke starter iets van leren." |
+| Wat klanten echt belangrijk vinden | Stelling dat klanten niet om je vakkennis geven, een lijst van wat vakgenoten belangrijk vinden, de wending ("mijn klanten vragen daar nooit naar"), wat ze wel willen (drie uitkomsten), de les voor de lezer | Haalt de lezer uit zijn vakjargon en toont dat jij denkt als je klant. Kan ook als proof. | Je doelgroep praat te veel over hoe ze werken en te weinig over wat het oplevert | "Geen enkele klant vroeg me ooit welk programma ik gebruik." |
+| Het bekende patroon in je branche | Een zin die je doelgroep vaak zegt, "het is altijd hetzelfde verhaal", de stappen van die cyclus als opsomming, wat het kost, wat beter kan | Lezers herkennen het patroon en voelen zich begrepen. Jij toont dat je het al vaak zag. | Je ziet klanten steeds dezelfde dure fout maken, in dezelfde volgorde | "'We hebben een nieuwe website nodig.' Ik weet al hoe dit verhaal afloopt." |
+| Een lijst over je manier van werken | Wat ik niet nodig heb (drie dingen), wat wel (drie à vier), de oplossing in stappen, de tools, het resultaat, wat het kostte (tijd, mislukte pogingen) | Scanbaar en eerlijk. Toont een volledige aanpak in één oogopslag. Kan ook als proof. | Je werkt bewust anders dan de meesten en kan tonen hoe | "Ik heb geen kantoor nodig. Wel deze vier dingen." |
+| Het geheim dat geen geheim is | Belofte van een geheime aanpak, de wending (er is geen geheim), een lijst van wat je niet doet, hoe je vroeger alles probeerde, wat wel werkt (eenvoud, volhouden) | Speelt met de nieuwsgierigheid naar een truc en levert een eerlijk inzicht. | Je resultaten komen van volhouden, niet van een truc | "Mijn geheime aanpak voor een volle agenda. Spoiler: er is er geen." |
+| Een overtuiging of missie | Wat je gelooft dat mogelijk is voor je lezer, het bewijs (jij deed het ook: wanneer, vanuit welke situatie), de keerzijde (het gaat traag, velen haken af), wat je leerde, waarom je dit werk doet | Geeft hoop met bewijs, en toont waar je voor staat. | Je wil tonen waarom je doet wat je doet, of twijfelaars moed geven | "Ik geloof dat elke starter klanten kan vinden zonder koude telefoontjes. Ik deed het zelf, vanaf nul." |
+| Kritiek op wat het platform beloont | Een post die veel bereik haalde zonder echte inhoud (van jezelf of gezien), wat dat doet met mensen (een lijst van gedrag), je theorie over wat echt telt, wat je zelf blijft doen. Geen klaagpost: eindig bij wat de lezer wel moet doen | Herkenbaar, lokt reacties uit, en toont een duidelijke visie. | Je ziet mensen bereik najagen in plaats van klanten | "Mijn foto van een lege koffiekop haalde meer bereik dan mijn beste klantcase." |
 
 ## Proof
 
@@ -101,6 +111,7 @@ Een sterke post van deze soort kan daarna ook de About-sectie van het profiel wo
 - **Een bezwaar ontkrachten:** "Ik dacht dat dit niet voor mij zou werken, tot ..." met bewijs.
 - **Een citaat van een klant als les:** wat de klant zei, wat anderen daaruit kunnen leren, en dat je dit voor hen ook kunt doen.
 - **Rechtstreeks aanspreken:** "Ben je [doelgroep] en herken je [pijn]? Dan is dit voor jou."
+- **Een nieuw aanbod dat anderen bevestigen:** wie reageerde op je nieuwe aanbod (rol en geloofwaardigheid, anoniem tenzij ze akkoord zijn), hun letterlijke pijn, wat de meesten al hebben, wat ontbreekt, je aanbod als het ontbrekende stuk, en een oproep. Alleen echte citaten. Bv. "Twee ervaren ondernemers stuurden me een bericht na mijn nieuwe aanbod. Allebei met dezelfde frustratie."
 
 ### Een post ontleden als bouwstenen
 

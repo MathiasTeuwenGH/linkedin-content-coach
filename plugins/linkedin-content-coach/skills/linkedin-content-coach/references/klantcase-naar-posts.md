@@ -4,6 +4,21 @@ Gebruik dit wanneer de gebruiker een klantcase, klantverhaal of klantresultaat h
 
 Eén klantverhaal is geen post. Het is een voorraad. Elke stap van de samenwerking (hoe het begon, wat je deed, wat het opleverde) is een eigen invalshoek, en elke invalshoek kan een lesgevende post, een bewijspost of een promopost worden. Zo herhaal je dezelfde kern vanuit nieuwe hoeken, wat precies is wat je publiek nodig heeft om je te onthouden (zie `contentmix.md`, herhaling).
 
+## Openingsvraag
+
+> Top, we maken postideeën van een klantcase. Kies wat voor jou past:
+> 1. Over welke klant wil je een post schrijven?
+> 2. Zal ik analyseren over welke klanten we een post kunnen schrijven?
+
+Bij 2: kijk over welke klanten al de meeste informatie staat in het brein, de contentgids (deel 3, de beste klanten) en de gekoppelde apps (gesprekken, documenten). Stel er 3 voor, zonder lange uitleg:
+> Over deze drie klanten heb ik al veel materiaal:
+> 1. [klant A]
+> 2. [klant B]
+> 3. [klant C]
+> Over welke wil je een post schrijven?
+
+Toon klantnamen alleen aan de gebruiker zelf; in posts gelden de regels voor toestemming hieronder.
+
 ## Stap 1: het materiaal verzamelen
 
 Zoek alles over de case: in het brein (bewijsbank, klantentaal) en de contentgids, in gekoppelde tools (gespreksopnames met die klant, notities, documenten, een offerte of verslag), of vraag het aan de gebruiker.
@@ -37,6 +52,24 @@ Vat de case samen in een korte kaart. Wat je niet weet, zet je tussen [haakjes] 
 | Citaat | Letterlijk, met bron |
 | Verrassing | Een bijkomend voordeel of iets wat niemand verwachtte |
 | Toestemming | Mag de klant herkenbaar zijn? Ja, nee, of nog vragen |
+
+**Toon de casekaart aan de gebruiker**, voor je verder gaat, samen met de open vragen en de vraag naar toestemming, in één bericht:
+
+> Zo heb ik de case begrepen: [casekaart]
+> Klopt dit? Vul gerust aan.
+>
+> Nog drie vragen:
+> 1. [vraag]
+> 2. [vraag]
+> 3. [vraag]
+>
+> Je mag de antwoorden gewoon inspreken, bijvoorbeeld met Wispr Flow of de microfoon in de chat. Vertel het zoals je het aan een collega zou vertellen.
+>
+> En: mag [klant] met naam vermeld worden? Zo niet, dan maak ik hem anoniem, maar beschrijf ik hem en zijn situatie zo dat je doelgroep zich erin herkent.
+
+Stel alleen de 2 à 3 belangrijkste open vragen. Antwoordt de gebruiker niet op de vragen, ga dan verder met wat er is en laat de invalshoeken zonder materiaal vallen.
+
+**Geen toestemming (of nog niet gevraagd):** maak de klant anoniem, maar beschrijf hem en zijn situatie zo dat de doelgroep zich erin herkent, zonder dat de klant zelf te achterhalen is: functie, soort en grootte van bedrijf, sector, regio als het helpt, en de concrete situatie en pijn. Bv. "een zaakvoerder van een bouwfirma met 12 man die elke vrijdagavond nog offertes zat te typen". Laat ook namen weg die de klant herkenbaar maken, zoals namen van zijn eigen klanten.
 
 ## Stap 3: de invalshoeken aflopen
 
@@ -88,15 +121,15 @@ Vertrekzinnen per soort (altijd invullen met details uit de casekaart en herschr
 
 Toon de ideeën in één tabel. Hou het kort: één regel per idee.
 
-| # | Invalshoek | Soort | Posttype | Hook (voorzet) | Materiaal | Nog nodig |
-|---|---|---|---|---|---|---|
+| # | Invalshoek | Soort post (in gewone woorden) | Hook (voorzet) | Nog nodig |
+|---|---|---|---|---|
 
 Zet onder de tabel:
 - hoeveel ideeën er zijn per soort (perspective, proof, promo)
 - de vragen voor de invalshoeken zonder materiaal
 - een voorstel voor de volgorde (zie hieronder)
 
-Vraag dan welk idee de gebruiker eerst wil uitwerken. Werk dat uit volgens de werkwijze voor elke post in SKILL.md: lange en korte versie, en de eindcontrole (`eindcontrole.md`).
+Vraag dan welk idee de gebruiker eerst wil uitwerken. Werk dat uit volgens de werkwijze voor elke post in SKILL.md, met exact dezelfde regels: de vaste kop met soort post en doel, lange en korte versie, de eindcontrole (`eindcontrole.md`) en de vraag om de finale post. Het doel is al gekozen in het overzicht: vraag het niet opnieuw.
 
 ## Stap 6: spreiden over de weken
 

@@ -2,6 +2,15 @@
 
 Klantgesprekken, salesgesprekken, workshops en ingesproken notities zijn de rijkste bron voor content: echte woorden, echte pijn, echte vragen. Deze werkwijze zet gesprekken om in postideeën en eerste versies van posts.
 
+## Openingsvraag (keuze 2: geen inspiratie)
+
+> Ik zoek ideeën voor je. Waar kijk ik best?
+> 1. In je gesprekken van de voorbije 7 dagen
+> 2. In een ander gesprek of een andere periode (zeg welke)
+> 3. In je contentgids en je brein
+
+Bij 1 en 2 volg je dit onderdeel. Bij 3 (of als er geen gesprekken of gekoppelde tools zijn) gebruik je de onderwerpenbank in `onderwerpen.md`, gevoed door het brein en de contentgids.
+
 ## Twee manieren om te starten
 
 De gebruiker vraagt meestal één van deze twee dingen:
@@ -44,7 +53,7 @@ Maak voor elk bruikbaar item een aparte pagina (of een apart blok als je niet in
 1. **Bron:** welk gesprek, met wie (functie en soort bedrijf), datum, link of tijdstip.
 2. **Het citaat:** letterlijk.
 3. **Het soort item:** pijn, bezwaar, verhaal of vraag (of resultaat, les, aanpak).
-4. **Posttype:** perspective, proof of promo, en welk posttype uit `posttypes.md`, met in één zin waarom.
+4. **Soort post en doel:** perspective, proof of promo, en welk posttype uit `posttypes.md`, beschreven in gewone woorden (waarmee de post opent, wat erna komt, waarmee hij eindigt), met in één zin waarom.
 5. **2 hook-opties** (zie `hooks.md`).
 6. **Een eerste versie van de post**, volgens de regels van deze skill: een lange versie en een korte versie van maximaal 190 woorden, met het aantal woorden en wat geschrapt is (zie `schrijfregels.md`).
 7. **Wat nagekeken moet worden,** tussen [haakjes], bv. of de klant met naam vermeld mag worden.

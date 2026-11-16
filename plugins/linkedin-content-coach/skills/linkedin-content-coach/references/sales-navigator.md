@@ -1,6 +1,30 @@
 # Prospects zoeken in LinkedIn Sales Navigator
 
-Gebruik dit wanneer de gebruiker zijn ideale klant wil omzetten in zoekopdrachten voor LinkedIn Sales Navigator. Vertrek van de ideale klant in het brein. Is er geen brein, vraag dan eerst wie de ideale klant is (rol, soort bedrijf, grootte, regio).
+Gebruik dit wanneer de gebruiker zijn ideale klant wil omzetten in zoekopdrachten voor LinkedIn Sales Navigator.
+
+## Openingsvraag
+
+> Heb je Sales Navigator, of wil je eerst zoeken met de gewone zoekfunctie van LinkedIn (gratis)?
+
+- **Wel Sales Navigator:** volg de werkwijze hieronder.
+- **Geen Sales Navigator:** maak een eenvoudigere versie voor de gewone zoekbalk van LinkedIn. Dezelfde zoekopdrachten op titel werken daar ook (AND, OR, NOT, haakjes, aanhalingstekens), met de gratis filters zoals locatie, huidig bedrijf en sector. Zeg er eerlijk bij dat Sales Navigator veel meer filters heeft, en dat LinkedIn soms een gratis proefperiode aanbiedt.
+
+## Waar je van vertrekt
+
+Vertrek van de contentgids en de analyse van ideale klant en persona in het brein (`analyse.md`, zie `icp-persona-analyse.md`). Zo vertaal je die naar de zoekopdracht:
+
+| Uit de analyse | Wordt in de zoekopdracht |
+|---|---|
+| Persona: functie en rollen | de functietitels in de vier zoekopdrachten |
+| Persona: achtergrond | senioriteit en jaren ervaring |
+| Ideale klant: wie beslist | de verfijnde zoekopdracht (alleen beslissers) |
+| Ideale klant: bedrijfsgrootte | "Personeelsbestand bedrijf" |
+| Ideale klant: sector | "Branche" |
+| Ideale klant: regio | "Locatie", en de talen waarin je de titels schrijft |
+| Ideale klant: groeifase | "Personeelsgroei bedrijf" (tab Account) |
+| Ideale klant: cultuur, budget, eerdere ervaring | geen filter, wel iets om op te letten als je de profielen overloopt |
+
+Is er nog geen analyse, maak ze dan eerst, of vraag minstens wie de ideale klant is (rol, soort bedrijf, grootte, regio).
 
 De filternamen hieronder staan zoals ze in een Nederlandstalige Sales Navigator heten, met de Engelse naam tussen haakjes.
 
