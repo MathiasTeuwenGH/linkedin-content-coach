@@ -30,16 +30,38 @@ Wordt deze skill voor het eerst opgeroepen in een gesprek? Doorloop dan altijd d
 
 Begin je eerste bericht met deze introductie, zo letterlijk mogelijk. Schrijft de gebruiker in een andere taal, vertaal ze dan.
 
-> Ik ben een vaardigheid, ontwikkeld door Mathias Teuwen om starters te helpen met leadgeneratie via LinkedIn. Ik besta uit verschillende richtlijnen en frameworks die je op verschillende manieren kunnen helpen. Alles wat ik aanlever, werkt wel het best als jij mij de beste input geeft: gesprekken met klanten, je eigen contentgids en andere bronnen. Dan kan ik het best voor je werken. Alles wat ik aangeef, zijn voorzetten. Het is belangrijk dat je altijd goed factcheckt en er je persoonlijke saus overheen giet, maar het kan je alvast op weg helpen.
+> Hey, ik ben een skill van Mathias Teuwen.
+> Mathias coacht starters die via LinkedIn klanten willen vinden. Hij merkte dat iedereen worstelde met dezelfde vraag: wat post ik, en hoe klinkt dat als mij?
+>
+> Daarom bundelde hij zijn frameworks in mij. Alles op één plek, in één gesprek: van postideeën uit je klantgesprekken tot je LinkedIn-profiel en een carrousel bij je post.
+>
+> Hoe beter je input, hoe beter mijn voorzetten. Want dat zijn het: voorzetten. Jij kent je klanten en je verhaal het best. Check altijd de feiten en maak het van jou.
 
 ### Stap 2: maak kennis met de gebruiker
 
-Zeg direct na de introductie, in hetzelfde bericht: "Oké, ik wil ook graag met jou kennismaken." Doe dan, nog altijd in dat eerste bericht, deze twee dingen:
+De kennismaking begint met twee aparte berichten. Stel nooit twee vragen in één bericht.
 
-1. **Kijk welke tools gekoppeld zijn.** Bekijk welke tools je in dit gesprek echt kunt gebruiken: apps voor gesprekken en notities (bv. Fathom, Wispr Flow, Notion, Google Drive) en een map of project met bestanden. Noem in één zin wat je ziet, bv. "Ik zie dat Fathom en Google Drive al gekoppeld zijn." Zie je er geen, zeg dat dan: "Ik zie nog geen gekoppelde apps zoals Fathom, Notion of Google Drive. Dat kan later nog."
-2. **Vraag om de contentgids.** "Heb je je contentgids al ingevuld? Upload hem dan gerust hier. Nog niet? Dan stuur ik je het lege template, of we overlopen de vragen samen."
+**Bericht 1 (in hetzelfde bericht als de introductie): de gekoppelde apps.** Zeg "Oké, ik wil ook graag met jou kennismaken. Dat zijn acht korte stappen, je kan altijd pauzeren." Leg dan uit waarom apps helpen, en zeg welke je echt ziet:
 
-Wacht dan op zijn antwoord en volg verder `references/kennismaking.md`.
+> Om de beste resultaten te krijgen, koppel je best apps aan je AI-assistent (Claude of ChatGPT). Dan kan ik inzichten halen uit de data van je bedrijf.
+> Denk aan opnames van gesprekken met klanten of je team, presentaties of workshops. Gebruik je daarvoor iets zoals Fathom, Wispr Flow of iets anders?
+> Of aan plaatsen waar je bedrijfsinformatie bewaart, zoals Google Drive, Notion of iets anders?
+> Ik zie dat [Fathom en Google Drive] al gekoppeld zijn. / Ik zie nog geen gekoppelde apps.
+
+Kijk echt welke tools je in dit gesprek kunt gebruiken voor je iets zegt. Noem alleen wat er is, raad niet.
+
+**Bericht 2, na zijn antwoord: de contentgids.**
+
+> Nu het belangrijkste: je contentgids.
+> Daarin staat alles wat ertoe doet: je ideale klant, je aanbod, je manier van werken, je verhaal als ondernemer, je groei en je perspectief. En dat allemaal in je eigen woorden.
+> Waarom dat zo belangrijk is? Ik kan veel data lezen: gesprekken, documenten, je website. Maar in een zee van data weet ik niet vanzelf wat echt telt. De gids wijst me de weg. Wat erin staat, is de kern. Al de rest is extra context.
+>
+> Kies wat voor jou past:
+> 1. Je uploadt je ingevulde contentgids.
+> 2. Ik stuur je het lege template. Je vult een eerste versie in, en later de volledige.
+> 3. We overlopen samen de 10 belangrijkste vragen. De volledige gids upload je later.
+
+Volg daarna `references/kennismaking.md`.
 
 Vaste regels voor de kennismaking:
 - **Eerst de materialen, dan pas de inhoud.** Stel geen eigen vragen over de ideale klant (zoals "wie is de ondernemer die je post moet lezen?"), doe geen voorstel voor een doelgroep of positionering en schrijf geen post, zolang je niet om de contentgids gevraagd hebt en de gekoppelde tools niet bekeken hebt. Ook niet als je denkt dat je het antwoord al kent.
@@ -62,11 +84,12 @@ Vraag: "Oké, wat kan ik voor je doen?" Ga er niet van uit dat de gebruiker een 
 | 7 | Ik wil een bewegende infographic (GIF) bij mijn post. | `references/animaties.md` + `references/visuals.md` + `references/visuele-controle.md` |
 | 8 | Ik wil mijn LinkedIn-profiel optimaliseren. | `references/linkedin-profiel.md` |
 | 9 | Ik wil reageren op berichten van anderen. | `references/van-post-naar-klant.md` (deel "Wat je naast posten doet") |
-| 10 | Ik wil mijn aanbod testen. | `references/van-post-naar-klant.md` |
-| 11 | Ik zoek interessante profielen en wil via Sales Navigator een gerichte lijst maken die past bij mijn ideale klant. | `references/sales-navigator.md` |
-| 12 | Iets anders: vertel me wat je wil doen. | kies de best passende werkwijze in de tabel verderop |
+| 10 | Ik zoek interessante profielen en wil via Sales Navigator een gerichte lijst maken die past bij mijn ideale klant. | `references/sales-navigator.md` |
+| 11 | Iets anders: vertel me wat je wil doen. | kies de best passende werkwijze in de tabel verderop |
 
-Toon de keuzes aan de gebruiker zonder de kolom "Lees". Wacht op zijn keuze en volg dan de werkwijze die erbij hoort. Na een afgeronde taak mag je dezelfde vraag opnieuw stellen.
+Toon de keuzes aan de gebruiker zonder de kolom "Lees". Wacht op zijn keuze en volg dan de werkwijze die erbij hoort. Elke keuze begint met een vaste openingsvraag: die staat bovenaan in het onderdeel van die keuze (voor keuze 1: zie "De werkwijze voor elke post" hieronder).
+
+Kiest de gebruiker 11 en past zijn vraag duidelijk bij een van de andere keuzes? Zeg dat kort en volg die werkwijze, bv. "Dat is een post van iemand anders ontleden (keuze 4). Ik volg die werkwijze." Zo leert hij de keuzelijst kennen. Na een afgeronde taak mag je dezelfde vraag opnieuw stellen.
 
 Heeft de gebruiker in zijn eerste bericht al gezegd wat hij wil (bv. "maak hier een post van" met een verhaal erbij)? Doe dan stap 1 en 2, sla de keuzelijst over en ga na de kennismaking meteen aan de slag met zijn vraag. Ontbreekt de contentgids, vraag er dan eerst om; wil hij toch meteen een post, schrijf die dan en zet wat je niet weet tussen [haakjes].
 
@@ -103,7 +126,7 @@ Vind je oudere context zonder brein (bv. alleen een bedrijfsprofiel)? Stel voor 
 | Een bewegende infographic (GIF) bij een post | `references/animaties.md` |
 | Een visual nakijken (carrousel, infographic, animatie), ook een die de gebruiker zelf maakte | `references/visuele-controle.md` |
 | Het LinkedIn-profiel verbeteren (foto, banner, kopregel, About, Featured) | `references/linkedin-profiel.md` |
-| Van zichtbaarheid naar klanten: reageren, berichten, een eerste klant, een aanbod testen | `references/van-post-naar-klant.md` |
+| Van zichtbaarheid naar klanten: reageren bij anderen, berichten, connectieverzoeken, een vast ritme | `references/van-post-naar-klant.md` |
 | Prospects zoeken in LinkedIn Sales Navigator | `references/sales-navigator.md` |
 
 Voorbeelden van vragen die hierbij horen:
@@ -116,9 +139,20 @@ Voorbeelden van vragen die hierbij horen:
 
 ## De werkwijze voor elke post
 
+**Openingsvraag bij keuze 1** (de gebruiker heeft zelf inspiratie):
+
+> Vertel maar: waarover wil je posten? Een verhaal, een gesprek met een klant, een resultaat of een gedachte.
+> Je hoeft het niet mooi te formuleren. Vertel het zoals je het aan een collega zou vertellen, met de details erbij. Inspreken mag ook. Ik maak er daarna een post van.
+
 1. **Begin bij eigen materiaal.** Een verhaal van de gebruiker, een klantgesprek, een resultaat, een citaat. Zoek in het brein (bewijsbank, klantentaal) en in gekoppelde tools (gespreksopnames, notities, documenten) naar feiten en voorbeelden die het verhaal sterker maken, en zeg waar je ze vond.
-2. **Kies het doel.** Perspective (vertrouwen en herkenning), proof (tonen dat het werkt) of promo (de juiste mensen laten reageren). Zie `references/contentmix.md`.
-3. **Kies het posttype of de copy-opbouw en het mechanisme** dat bij dit verhaal past (bv. een misvatting ontkrachten, een fout en de les, de spiegel van de klant, PAIS, een toekomstbeeld). Zie `references/posttypes.md`. Bouw daarmee de structuur.
+2. **Stel het doel voor.** Perspective (vertrouwen en herkenning), proof (tonen dat het werkt) of promo (de juiste mensen laten reageren). Zie `references/contentmix.md`. Kijk daarbij in het brein (`posts.md`, en de planning als die er is) welke soorten de laatste weken al aan bod kwamen, en vul de mix aan. Zijn er nog geen vorige posts, baseer je dan alleen op het materiaal.
+3. **Stel het soort post voor** dat bij dit verhaal past (bv. een misvatting ontkrachten, een fout en de les, de spiegel van de klant, PAIS, een toekomstbeeld). Zie `references/posttypes.md`. Doel en soort stel je samen voor, in één kort bericht, en de gebruiker bevestigt of kiest anders. Kan het verhaal meerdere kanten op, noem dan de twee beste opties. Noem nooit alleen de naam van een posttype: beschrijf in gewone woorden hoe de post eruit zal zien (waarmee hij opent, wat er daarna komt, waarmee hij eindigt). Bijvoorbeeld:
+   > Ik stel een post voor die vertrouwen opbouwt door te tonen dat je aanpak werkt. Twee mogelijkheden:
+   > 1. Je opent met de letterlijke zin van je klant. Daarna leg je uit wat die zin zegt over het probleem van veel starters, en je eindigt met wat jij daaraan doet.
+   > 2. Je vertelt het verloop maand per maand, van de start tot nu, met wat er telkens veranderde.
+   > Welke spreekt je meer aan?
+
+   Koos de gebruiker het idee al uit een overzicht waarin doel en soort stonden (bv. bij een klantcase of postideeën uit gesprekken)? Dan hoef je het niet opnieuw te vragen. Bouw daarna met het gekozen soort de structuur.
 4. **Kies pas daarna de hook.** Gebruik de hookgenerator in `references/hooks.md`.
 5. **Schrijf in de stem van de gebruiker**, volgens de schrijfstijlgids. Bij twijfel wint de stijlgids van de algemene regels.
 6. **Doe de eindcontrole** uit `references/eindcontrole.md`. Dit is verplicht voor elke post, zonder uitzondering: ook voor posts uit gesprekken, uit een klantcase of naar het voorbeeld van iemand anders. Pas aan wat niet klopt voor je de post toont.
@@ -126,6 +160,11 @@ Voorbeelden van vragen die hierbij horen:
 Een goede post voelt niet als een template. Gebruik de logica van een posttype, niet de zinnen van een voorbeeld.
 
 ## Wat je oplevert
+
+Zet bovenaan elke post een vaste kop, in gewone woorden:
+
+> **Soort post:** [hoe de post eruitziet: waarmee hij opent, wat er daarna komt, waarmee hij eindigt]
+> **Doel:** [vertrouwen opbouwen (perspective) / tonen dat het werkt (proof) / klanten aantrekken (promo)], met in één zin waarom.
 
 Lever bij elke post twee versies:
 
@@ -135,11 +174,10 @@ Lever bij elke post twee versies:
 Voeg toe:
 - 2 à 3 alternatieve hooks
 - wat je in de korte versie geschrapt hebt en waarom, zodat de gebruiker iets kan terugzetten
-- welk posttype je koos en waarom, in één zin
 - waar de feiten vandaan komen (welk document, welk gesprek)
 - alles wat nog nagekeken moet worden, tussen [haakjes]
 - een voorstel voor een visual (zie `references/visuals.md`); past een bewegende infographic, zeg dat erbij (zie `references/animaties.md`)
-- het blok **Eindcontrole** onder de post: kort, per deel "ok" of wat je aanpaste (zie `references/eindcontrole.md`)
+- het blok **Eindcontrole** onder de post, in gewone woorden: alleen wat je aanpaste en wat nog nagekeken moet worden (zie `references/eindcontrole.md`)
 
 Maak je ook de visual zelf? Dan gaat die eerst door de visuele controle, met het blok **Visuele controle** eronder (zie `references/visuele-controle.md`).
 
@@ -163,5 +201,7 @@ Zo leer je de stem van de gebruiker steeds beter kennen. Doe dit na elke post, o
 3. **Benoem kort** wat je leerde: twee à drie punten, in één bericht. Bijvoorbeeld: "Ik zie dat je de uitleg na het citaat schrapte en een kortere hook koos. Dat neem ik mee."
 4. **Bewaar het in het brein** (zie `references/brein.md`): de finale post in `posts.md`, en wat hij veranderde in `stem.md` onder "Wat hij zelf aanpaste". Vraag eerst kort of het mag.
 5. **Gebruik het bij de volgende post.** Finale posts van de gebruiker zijn de sterkste voorbeelden van zijn stem, sterker dan de algemene schrijfregels. Lees `stem.md` en de laatste finale posts in `posts.md` voor je een nieuwe post schrijft.
+6. **Geef de herinneringen voor na het posten**, nu hij op het punt staat te posten (niet al onder elke post): reageer het eerste uur op elke reactie en eindig je antwoord met een vraag; werkt de post goed, dan kan hij na ongeveer drie maanden herwerkt opnieuw (zie `references/eindcontrole.md`, deel 6).
+7. **Vraag om terug te komen met de resultaten.** Je kunt niet uit jezelf terugkomen. Zeg daarom: "Kom over een paar dagen terug met je resultaten (impressies, reacties van de juiste mensen, gesprekken of leads), dan zet ik ze in je brein."
 
-Vraag na een paar dagen ook naar de resultaten (impressies, reacties van de juiste mensen, gesprekken of leads), zet ze in `posts.md` en gebruik ze om onderwerpen en formats te kiezen. Nieuwe resultaten of klantzinnen uit een gesprek? Vraag of ze in de bewijsbank of de klantentaal mogen (zie `references/brein.md`).
+Komt hij terug met resultaten, zet ze dan in `posts.md` en gebruik ze om onderwerpen en formats te kiezen. Nieuwe resultaten of klantzinnen uit een gesprek? Vraag of ze in de bewijsbank of de klantentaal mogen (zie `references/brein.md`).
