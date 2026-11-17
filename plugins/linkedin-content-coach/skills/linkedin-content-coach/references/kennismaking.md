@@ -62,12 +62,13 @@ Vraag ze één per bericht:
 
 Haal uit de website, de documenten en de gekoppelde tools wat in het brein past: resultaten en klantverhalen (bewijsbank), letterlijke klantwoorden (klantentaal), en voor later de huisstijl van de website.
 
-**5. Analyse, verschillen en positionering (stap 5 van 8)**
-> Dank je. Ik maak nu een analyse van je ideale klant, je persona en je communicatie. Dat duurt even.
+**5. Ideale klant en persona-analyse, verschillen en positionering (stap 5 van 8)**
+> Dank je. Ik maak nu de ideale klant en persona-analyse. Dat duurt even.
 
-Maak de analyse volgens `icp-persona-analyse.md` en lever ze als document (in het brein: `analyse.md`). Zet in de chat alleen een korte samenvatting:
-> Je analyse staat klaar. Wat me het meest opviel: [inzicht 1], [inzicht 2], [inzicht 3].
-> Klopt dit beeld van je ideale klant, of wil je iets bijsturen?
+Maak de analyse volgens `icp-persona-analyse.md` en lever ze als document (in het brein: `analyse.md`, met status "voorstel"). Zet in de chat alleen een korte samenvatting:
+> Je ideale klant en persona-analyse staat klaar. Wat me het meest opviel: [inzicht 1], [inzicht 2], [inzicht 3].
+
+Laat de gebruiker daarna echt bijsturen, zoals beschreven in `icp-persona-analyse.md` ("Feedback van de gebruiker"): eerst de 3 belangrijkste aannames, dan de vier delen één voor één met één gerichte vraag. Pas na zijn bevestiging krijgt de analyse de status "bevestigd".
 
 **Verschillen tussen de bronnen.** Vergelijk daarna de contentgids met de website, offertes, het salesdeck en andere documenten: een andere doelgroep, een ander aanbod, andere woorden, een belofte die niet in de gids staat. Leg hoogstens 3 verschillen voor, de belangrijkste eerst (doelgroep en aanbod voor woordkeuze), één per bericht:
 > In je contentgids schrijf je dat je vooral [X] helpt. Op je website staat [Y]. Welke richting klopt voor jou, of zit het ertussen?
@@ -201,7 +202,7 @@ Laatst bijgewerkt: [datum]
 - Oproep die we gebruiken in promoposts
 
 ## Analyse (zie de volledige analyse)
-- ICP in een paar regels: sector, grootte, regio, beslisser
+- Ideaal klantbedrijf in een paar regels: sector, grootte, regio, beslisser
 - Persona: naam, functie, doelen, drempels
 - Functionele en emotionele pijn en winst
 - De 5 inzichten voor communicatie, één zin per inzicht

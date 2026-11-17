@@ -65,6 +65,8 @@ In de post mag je een citaat licht opkuisen (stopwoorden en herhalingen weg), zo
 
 Maak bovenaan een overzicht van alle pagina's: titel (het citaat of het thema), soort item, posttype, aantal woorden van de korte versie, en wat nog open staat. Tel de mix (perspective, proof, promo) en zeg voor hoeveel weken het materiaal is.
 
+Zet de items die het best passen bij de ideale klant en de persona (zie de ideale klant en persona-analyse in het brein) bovenaan, met in een paar woorden waarom.
+
 Stel een volgorde voor:
 - Begin met posts die anoniem zijn en meteen kunnen.
 - Posts met een herkenbare klant pas na toestemming.

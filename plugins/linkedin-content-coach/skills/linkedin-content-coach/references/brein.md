@@ -13,7 +13,7 @@ Een goede post, carrousel of animatie is zo sterk als de feiten, de stem en de h
 ```
 brein/
   profiel.md        wie, wat, voor wie, aanbod, positionering (korte samenvatting)
-  analyse.md        ideale klant, persona, communicatie (zie icp-persona-analyse.md)
+  analyse.md        ideale klant en persona-analyse, met status (voorstel of bevestigd) en datum
   bewijsbank.md     cijfers, resultaten en klantverhalen, met bron en of ze publiek mogen
   klantentaal.md    letterlijke woorden van klanten en prospects
   stem.md           verboden constructies, voorbeeldposts, wat hij zelf aanpast
@@ -64,6 +64,7 @@ Vraag het op een natuurlijk moment, met één korte vraag, en voeg pas toe na ee
 - **Bij een cijfer in een post of visual:** kijk eerst in `bewijsbank.md`. Staat het er niet in, vraag het dan. Geen cijfer op een post of beeld zonder bron.
 - **Resultaten:** je kunt niet uit jezelf terugkomen. Vraag bij de finale post om over een paar dagen terug te komen met de resultaten (impressies, reacties van de juiste mensen, gesprekken). Komt hij terug, zet het dan in `posts.md`.
 - **Elke maand:** stel voor om deel 5 van de contentgids (wins en wat hij bouwt) aan te vullen.
+- **Bij belangrijke nieuwe informatie** (een nieuwe versie van de contentgids, een nieuw aanbod, veel nieuwe klantgesprekken): stel voor om de ideale klant en persona-analyse bij te werken (zie `icp-persona-analyse.md`).
 
 Werk het brein bij aan het eind van een taak, niet midden in een gesprek. Zeg in één zin wat er bijkwam.
 

@@ -1,4 +1,6 @@
-# ICP-, persona- en communicatieanalyse
+# Ideale klant en persona-analyse
+
+Noem dit tegen de gebruiker altijd "de ideale klant en persona-analyse" (geen afkortingen zoals ICP). Ze bevat ook de inzichten voor de communicatie.
 
 Gebruik dit zodra de contentgids er is (ook als ze maar deels ingevuld is), als onderdeel van de kennismaking. Of later, wanneer de gebruiker vraagt om zijn ideale klant, persona of communicatiestrategie scherp te zetten.
 
@@ -79,8 +81,32 @@ Vertaal de inzichten ook naar LinkedIn: welke onderwerpen, posttypes (zie `postt
 ## Hoe je het oplevert
 
 - Maak er één document van met duidelijke tussentitels, de twee tabellen, en weinig of geen emoji. Het moet zo in Notion, Google Docs of Word te plakken zijn. Kan je in dit gesprek een bestand of document maken, doe dat dan. Anders lever je het als één blok tekst.
-- Zet in het gesprek zelf alleen een korte samenvatting, in chatvorm: drie zinnen met wat je het meest opviel, en één vraag ("Klopt dit beeld van je ideale klant, of wil je iets bijsturen?").
-- Stuurt de gebruiker iets bij, pas de analyse dan aan.
+- Zet in het gesprek zelf alleen een korte samenvatting, in chatvorm: drie zinnen met wat je het meest opviel.
+- Bewaar de analyse in het brein (`analyse.md`) met status "voorstel" en de datum. Na de bevestiging van de gebruiker wordt dat "bevestigd", met datum.
+
+## Feedback van de gebruiker
+
+De gebruiker kent zijn klant het best. Geef hem echt de kans om bij te sturen, kort en in chatvorm:
+
+1. **Eerst de 3 belangrijkste aannames:** wat je zelf afleidde en niet letterlijk in de bronnen vond (alles wat tussen [haakjes] staat). Eén bericht, bv.:
+   > Drie dingen leidde ik zelf af. Klopt dit?
+   > 1. Je ideale klant heeft [10 à 50] medewerkers.
+   > 2. De beslisser is meestal [de zaakvoerder].
+   > 3. [Budget] is de grootste drempel.
+2. **Dan de vier delen, één per bericht**, telkens met één gerichte vraag: het bedrijf (klopt hoe je jezelf beschrijft en de nood in de markt?), de ideale klant (klopt de tabel, mist er een criterium?), de persona (herken je deze persoon, welke pijn of drempel klopt niet?), en de 5 inzichten (welke spreekt je het meest aan?). Zegt hij "ok" of "verder", ga dan door.
+3. **Verwerk elke aanpassing meteen** in de analyse en in het brein, en zeg in één zin wat je veranderde.
+4. **Na de laatste vraag:** zet de status op "bevestigd", met datum.
+
+Later bijsturen kan altijd ("pas mijn ideale klant aan"). Komt er belangrijke nieuwe informatie bij (een nieuwe versie van de contentgids, een nieuw aanbod, veel nieuwe klantgesprekken), stel dan voor om de analyse bij te werken. Nooit zonder dat de gebruiker het bevestigt.
+
+## De analyse als toetssteen
+
+De bevestigde analyse is de maatstaf voor elke keuze daarna:
+- **Elke post:** de vaste kop vermeldt voor wie de post is en welke pijn, welk doel of welke drempel van de persona hij raakt (zie SKILL.md). De eindcontrole toetst of de post relevant is voor de ideale klant en de persona (zie `eindcontrole.md`, deel 1).
+- **Postideeën, klantcases en de planning:** zet de ideeën die het best passen bij de ideale klant en de persona eerst, en zeg in een paar woorden waarom.
+- **Profiel en Sales Navigator:** de ideale klant en de persona bepalen de woorden en de filters.
+
+Is de analyse nog een voorstel (niet bevestigd), zeg dat erbij als je ze gebruikt.
 - Neem de kern op in het bedrijfsprofiel (zie `kennismaking.md`): de ICP in een paar regels, de persona, de functionele en emotionele pijn en winst, en de 5 inzichten in één zin elk.
 
 ## Na de analyse: verschillen en positionering
