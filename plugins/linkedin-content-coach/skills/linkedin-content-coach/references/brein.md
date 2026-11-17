@@ -174,6 +174,9 @@ Status: [bevestigd / voorstel]   Bron: [stijlgids / website / gebruiker]
 # Planning
 | Week | Onderwerp | Soort (perspective, proof, promo) | Materiaal | Status (gepland, gepost) |
 |---|---|---|---|---|
+
+## Vaste momenten
+- Reageren bij anderen: [dag en uur, bv. maandag 9u]
 ```
 
 Het sjabloon voor `profiel.md` staat in `kennismaking.md` ("Het bedrijfsprofiel").
