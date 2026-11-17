@@ -12,6 +12,7 @@ De schrijfstijlgids van de gebruiker gaat altijd voor. Zegt die iets anders dan 
 - **Eén doel.** Is duidelijk of het perspective, proof of promo is (zie `contentmix.md`)? Past de inhoud bij dat doel?
 - **Eén opbouw.** Volgt de post één posttype of copy-opbouw (zie `posttypes.md`), en niet een mengeling?
 - **Eén boodschap.** Geen zijpaden.
+- **Relevant voor de ideale klant.** Toets de post aan de ideale klant en persona-analyse in het brein: welke pijn, welk doel of welke drempel van de persona raakt hij? Raakt hij niets, zeg dat en stel een andere invalshoek voor.
 - **Over wat je voor anderen doet.** Of het nu perspective, proof of promo is: gaat de post uiteindelijk over wat de gebruiker voor klanten of voor zijn zaak deed? Schemert het aanbod door (wat, voor wie, hoe het helpt)?
 - **Geen kopie.** Vertrekt de post van een voorbeeld? Dan neemt hij de structuur en de psychologie over, geen zinnen. Wie het origineel kent, mag het niet herkennen.
 
@@ -21,6 +22,8 @@ De schrijfstijlgids van de gebruiker gaat altijd voor. Zegt die iets anders dan 
 - Bevat de hook minstens één van: een mini-verhaal, een citaat van een klant, een echt cijfer, de doelgroep die zich aangesproken voelt, een gedurfde uitspraak?
 - Korte woorden, korte zin?
 - Is er een tweede regel die de hook specifiek maakt (echtheid, een cijfer of context)?
+- **De drie hooks** (zie `hooks.md`): past de eerste regel op één regel op een gsm? Staat de tweede regel na een lege regel en maakt hij het specifiek? Is er een beeld dat doet stoppen met scrollen, of is geen beeld een bewuste keuze?
+- Mag de eerste regel breder zijn dan de niche, spreekt vanaf de tweede regel de post wel de ideale klant aan?
 - Maakt de rest van de post waar wat de hook belooft?
 - Zijn er 2 à 3 alternatieve hooks gemaakt met de hookgenerator (zie `hooks.md`)?
 

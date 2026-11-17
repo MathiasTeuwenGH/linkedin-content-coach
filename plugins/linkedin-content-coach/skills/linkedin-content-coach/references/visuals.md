@@ -80,6 +80,16 @@ Opbouw:
 | 5. Samenvatting en bonus | 1 | De stappen en kernpunten in een lijstje, plus een extra tip of gratis gids. Geef je kennis weg, verkoop de uitvoering. |
 | 6. Oproep | 1 | Kies één: inschrijven op [gratis gids of nieuwsbrief], volgen voor meer over [onderwerp], of "Ben je [doelgroep] en worstel je met [pijn] en wil je [verlangen]? Stuur me [woord] en ik stuur je de details." |
 
+## Het beeld als derde hook
+
+Bij een post werken drie dingen samen om mensen te laten stoppen: de eerste regel, de tweede regel en het beeld (zie "De drie hooks" in `hooks.md`). Het beeld is vaak de sterkste. Beelden die goed doen stoppen:
+- een bewegende infographic (zie `animaties.md`)
+- een korte video
+- een eigen foto (echt, niet uit een beeldbank)
+- een citaat dat eruitziet als een korte post
+
+Een beeld dat in een lus speelt, houdt mensen langer vast. Een beeld dat even "veel" is (veel beweging of detail in één oogopslag) doet stoppen met scrollen. Het beeld blijft altijd in dienst van de boodschap: het moet kloppen met de post, niet alleen opvallen. Stel bij elke post voor welk beeld past, of zeg waarom geen beeld beter is.
+
 ## Bewegend maken
 
 Een infographic kan ook bewegen: een korte GIF die zichzelf opbouwt in de feed. Dat past vooral bij cijfers om te tellen, een vergelijking, een proces of een verhaal in één scène. Werkwijze, types en startbestanden: zie `animaties.md`.

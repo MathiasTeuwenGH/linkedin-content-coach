@@ -2,6 +2,18 @@
 
 De hook bepaalt of iemand verder leest. Op LinkedIn zie je eerst twee à drie regels, daarna "meer weergeven". Die regels moeten de juiste lezer laten stoppen en een belofte doen die de rest van de post waarmaakt.
 
+## De drie hooks
+
+Een lezer beslist in een seconde of hij stopt. Drie dingen werken daarbij samen: de eerste regel, de tweede regel en het beeld. Het beeld is vaak de sterkste van de drie. Samen verleiden ze: ze laten zien wat goed is aan je idee, zodat mensen meer willen. De post maakt dat daarna waar.
+
+1. **De eerste regel.** Kort genoeg om op één regel te passen op een gsm (ongeveer 40 tot 50 tekens). Kies de vorm uit de families hieronder.
+2. **De tweede regel.** Na een lege regel. Hij maakt de eerste regel specifiek (zie "De tweede regel" verder). Je mag twee soorten hooks combineren, bijvoorbeeld een cijfer en nieuwsgierigheid.
+3. **Het beeld.** Een visual die doet stoppen met scrollen (zie "Het beeld als derde hook" in `visuals.md`). Geen beeld kan ook, als dat een bewuste keuze is.
+
+**Breder dan je niche.** De eerste regel mag iets breder zijn dan je ideale klant: hij gaat over het onderwerp, zodat ook geïnteresseerde volgers stoppen. Je ideale volger is niet altijd je ideale klant, en bereik is iets anders dan verkoop. Vanaf de tweede regel en in de rest van de post schrijf je wel voor de ideale klant: zijn pijn, zijn woorden, je aanbod (zie de ideale klant en persona-analyse). Zo blijft je positionering scherp.
+
+Leg dit aan de gebruiker uit in gewone woorden als je hooks voorstelt, bijvoorbeeld: "De eerste regel moet op één regel passen op je gsm. De tweede regel maakt het concreet. En het beeld doet mensen stoppen met scrollen."
+
 ## Wat een sterke hook doet
 
 - **Een mini-verhaal vertellen:** een moment, een plaats, een persoon.
@@ -58,7 +70,7 @@ Gebruik deze stappen telkens als je hooks maakt: bij een nieuwe post, bij postid
 2. Zoek het sterkste concrete detail: een citaat, een cijfer, een moment.
 3. Kies de familie die bij het posttype past.
 4. Schrijf vijf versies: een korte, een lange met cijfer, een met citaat, een die de doelgroep aanspreekt, een gedurfde. Een persoonlijke hook mag ook, als hij een hint naar de ideale klant bevat (bv. een ervaring die de ideale klant ook kent).
-5. Voeg een tweede regel toe (zie hieronder).
+5. Voeg een tweede regel toe (zie hieronder), na een lege regel. Check dat de eerste regel op één regel past op een gsm.
 6. Kies er twee à drie om voor te stellen. Check met deel 2 van `eindcontrole.md`: staat de belofte boven "meer weergeven", en maakt de post ze waar?
 
 ## De tweede regel (sub-hook)

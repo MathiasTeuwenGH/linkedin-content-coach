@@ -119,7 +119,7 @@ Vertrekzinnen per soort (altijd invullen met details uit de casekaart en herschr
 
 ## Stap 5: het overzicht tonen
 
-Toon de ideeën in één tabel. Hou het kort: één regel per idee.
+Toon de ideeën in één tabel. Hou het kort: één regel per idee. Zet de ideeën die het best passen bij de ideale klant en de persona (zie de ideale klant en persona-analyse in het brein) bovenaan.
 
 | # | Invalshoek | Soort post (in gewone woorden) | Hook (voorzet) | Nog nodig |
 |---|---|---|---|---|

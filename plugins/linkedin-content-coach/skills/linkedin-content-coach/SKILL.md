@@ -114,7 +114,7 @@ Vind je oudere context zonder brein (bv. alleen een bedrijfsprofiel)? Stel voor 
 |---|---|
 | Eerste keer, context opbouwen, positionering, tools koppelen | `references/kennismaking.md` |
 | Het brein bekijken, aanvullen of verhuizen (bewijs, klantentaal, stem, huisstijl) | `references/brein.md` |
-| Analyse van ideale klant (ICP), buyer persona en communicatiestrategie | `references/icp-persona-analyse.md` |
+| De ideale klant en persona-analyse maken, bijsturen of bijwerken | `references/icp-persona-analyse.md` |
 | Een post schrijven over een verhaal, idee of resultaat | de werkwijze hieronder + `references/posttypes.md` + `references/schrijfregels.md` |
 | Een betere openingszin (hook), de hookgenerator | `references/hooks.md` |
 | Een klantcase of klantverhaal omzetten in vijftien postideeën of meer | `references/klantcase-naar-posts.md` |
@@ -165,6 +165,9 @@ Zet bovenaan elke post een vaste kop, in gewone woorden:
 
 > **Soort post:** [hoe de post eruitziet: waarmee hij opent, wat er daarna komt, waarmee hij eindigt]
 > **Doel:** [vertrouwen opbouwen (perspective) / tonen dat het werkt (proof) / klanten aantrekken (promo)], met in één zin waarom.
+> **Voor wie:** [de persona uit de ideale klant en persona-analyse], raakt [een pijn, doel of drempel uit die analyse].
+
+Raakt de post geen enkele pijn, doel of drempel van de persona, zeg dat eerlijk en stel een andere invalshoek voor. Is er nog geen analyse, schrijf dan "Voor wie" op basis van de contentgids en zeg erbij dat het nog niet getoetst is.
 
 Lever bij elke post twee versies:
 
