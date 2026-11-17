@@ -83,7 +83,7 @@ Vraag: "Oké, wat kan ik voor je doen?" Ga er niet van uit dat de gebruiker een 
 | 6 | Ik wil een voorzet voor een carrousel of infographic die mijn post ondersteunt. | `references/visuals.md` + `references/visuele-controle.md` |
 | 7 | Ik wil een bewegende infographic (GIF) bij mijn post. | `references/animaties.md` + `references/visuals.md` + `references/visuele-controle.md` |
 | 8 | Ik wil mijn LinkedIn-profiel optimaliseren. | `references/linkedin-profiel.md` |
-| 9 | Ik wil reageren op berichten van anderen. | `references/van-post-naar-klant.md` (deel "Wat je naast posten doet") |
+| 9 | Ik wil reageren op berichten van anderen. | `references/van-post-naar-klant.md` (deel "Hulp bij reageren, berichten en connectieverzoeken") |
 | 10 | Ik zoek interessante profielen en wil via Sales Navigator een gerichte lijst maken die past bij mijn ideale klant. | `references/sales-navigator.md` |
 | 11 | Iets anders: vertel me wat je wil doen. | kies de best passende werkwijze in de tabel verderop |
 
