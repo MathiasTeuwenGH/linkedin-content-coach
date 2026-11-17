@@ -30,13 +30,26 @@ Zeg dit eerlijk tegen de gebruiker, want verkeerde verwachtingen zijn de grootst
 
 **Openingsvraag:**
 > Waarmee wil je hulp?
-> 1. Een reactie schrijven onder de post van iemand anders
-> 2. Een privébericht beantwoorden of sturen
-> 3. Een connectieverzoek met een korte boodschap
+> 1. Posts vinden waarop je kan reageren, met voorstellen voor je reactie
+> 2. Een reactie schrijven onder een post die je al gevonden hebt
+> 3. Een privébericht beantwoorden of sturen
+> 4. Een connectieverzoek met een korte boodschap
 >
-> Plak de post of het bericht waarop je wil reageren.
+> Bij 2, 3 en 4: plak de post of het bericht waarop je wil reageren.
 
-Schrijf daarna 2 à 3 voorstellen in de stem van de gebruiker (zie `stem.md` in het brein):
+### 1. Posts vinden om op te reageren
+
+Veel mensen vinden zelf niets interessants in hun feed. Help hen zoeken:
+
+1. **Kijk of je in zijn browser kan meekijken.** Sommige AI-assistenten kunnen met toestemming in de browser van de gebruiker kijken (bv. een browserextensie). Kan dat, open dan zijn LinkedIn-feed en lees de recente posts. Kan het niet, vraag dan: "Plak 5 à 10 posts uit je feed, of de namen van mensen uit je doelgroep en je vak die je volgt." Zeg in één zin dat meekijken in de browser het makkelijker maakt, als zijn AI-assistent dat kan.
+2. **Kies de beste 3 à 5 posts.** Toets ze aan de ideale klant en persona-analyse in het brein: posts van mensen uit de doelgroep, of van grotere accounts uit zijn vak die de ideale klant ook volgt. Liefst recent (de laatste dagen), want daar komen nog lezers op af. Zeg per post in één zin waarom hij past.
+3. **Schrijf per post een voorstel voor een reactie** in de stem van de gebruiker (zie hieronder). Zet de link of de naam van de auteur erbij, zodat hij de post snel terugvindt.
+4. **De gebruiker plaatst de reacties zelf.** Jij reageert, liket of stuurt nooit iets in zijn naam, ook niet als je in zijn browser kan.
+5. **Bied een vaste herinnering aan.** Vraag: "Wil je dat ik je hier elke week aan herinner, met meteen nieuwe voorstellen?" Kent zijn AI-assistent terugkerende of geplande taken, help hem die instellen (bv. elke maandagochtend: feed bekijken, 3 à 5 posts kiezen, reacties voorstellen). Kan dat niet, stel dan een vast moment in zijn agenda voor. Leg in het brein in `planning.md` vast wanneer.
+
+### 2 tot 4. Een reactie, bericht of connectieverzoek schrijven
+
+Schrijf 2 à 3 voorstellen in de stem van de gebruiker (zie `stem.md` in het brein):
 - **Een reactie onder een post:** een mini-post. Deel een tip, een ervaring of je aanpak, uit het brein. Nooit "Mooi gezegd!" of een loze reactie.
 - **Een privébericht:** verwijs naar wat de persoon schreef, stel één vraag, geen verkooppraatje. Stel pas een gesprek voor als er een echte aanleiding is.
 - **Een connectieverzoek:** kort. Aan een vakgenoot: verwijs naar een post of reactie van hem en wat je ervan vond. Aan een mogelijke klant: een herkenbaar probleem, hoe je daarbij helpt, en één klantvoorbeeld in een zin.
