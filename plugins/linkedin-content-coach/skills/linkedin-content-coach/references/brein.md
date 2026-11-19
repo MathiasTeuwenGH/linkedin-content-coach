@@ -22,6 +22,7 @@ brein/
   bronnen/          de ruwe stukken (contentgids, transcripten, documenten), nooit herschreven
   posts.md          elke gepubliceerde post, met datum en resultaten
   planning.md       de contentplanning: wat gepland is, per week
+  leadmagnets.md    ideeën voor gratis waarde en lead magnets, met status en resultaten
 ```
 
 ## Waar het brein staat
@@ -177,6 +178,23 @@ Status: [bevestigd / voorstel]   Bron: [stijlgids / website / gebruiker]
 
 ## Vaste momenten
 - Reageren bij anderen: [dag en uur, bv. maandag 9u]
+```
+
+### leadmagnets.md
+
+```
+# Gratis waarde en lead magnets
+| Datum | Naam | Groep en vorm | Status (idee, gekozen, uitgewerkt, gebouwd, live) | Link | Resultaten (inschrijvingen, gesprekken) |
+|---|---|---|---|---|---|
+
+## Concepten
+(per lead magnet: wat in elke stap gekozen werd, en later de prompts en gebouwde stukken)
+
+## Open punten
+(per lead magnet: wat nog te bepalen is, bv. datum, gastspreker, toestemming van een klant)
+
+## Berichten
+(per lead magnet: de gekozen berichten en opvolgberichten, en de cijfers: verstuurd, antwoorden, ja op de gratis waarde, gesprekken)
 ```
 
 Het sjabloon voor `profiel.md` staat in `kennismaking.md` ("Het bedrijfsprofiel").

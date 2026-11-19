@@ -1,6 +1,6 @@
 ---
 name: linkedin-content-coach
-description: Schrijft LinkedIn-posts, carrousels en contentplannen die klanten aantrekken, op basis van de eigen context van de gebruiker (contentgids, schrijfstijlgids, Fathom-calls, Wispr Flow-gesprekken, notities). Gebruik deze skill altijd wanneer iemand een LinkedIn-post wil schrijven of verbeteren, postideeën wil halen uit klantgesprekken of transcripten, een hook of carrousel zoekt, een contentplanning wil, zijn LinkedIn-profiel wil verbeteren, of wil weten hoe hij van zichtbaarheid naar leads en klanten gaat, ook als het woord "skill" of "LinkedIn" niet valt (bv. "maak hier een post van", "wat kan ik deze week posten?", "haal mijn calls van deze week op", "ik wil starten met LinkedIn-content", "doe de kennismaking met mij").
+description: Schrijft LinkedIn-posts, carrousels en contentplannen die klanten aantrekken, op basis van de eigen context van de gebruiker (contentgids, schrijfstijlgids, Fathom-calls, Wispr Flow-gesprekken, notities). Gebruik deze skill altijd wanneer iemand een LinkedIn-post wil schrijven of verbeteren, postideeën wil halen uit klantgesprekken of transcripten, een hook of carrousel zoekt, een contentplanning wil, zijn LinkedIn-profiel wil verbeteren, of wil weten hoe hij van zichtbaarheid naar leads en klanten gaat, of ideeën zoekt voor een lead magnet of gratis waarde (bv. een webinar, ontbijtsessie, checklist, rekenhulp of quiz) en die wil uitwerken of aanbieden met een persoonlijk bericht, ook als het woord "skill" of "LinkedIn" niet valt (bv. "maak hier een post van", "wat kan ik deze week posten?", "haal mijn calls van deze week op", "ik wil starten met LinkedIn-content", "doe de kennismaking met mij", "geef me ideeën voor een lead magnet").
 ---
 
 # LinkedIn-content die klanten aantrekt
@@ -85,11 +85,13 @@ Vraag: "Oké, wat kan ik voor je doen?" Ga er niet van uit dat de gebruiker een 
 | 8 | Ik wil mijn LinkedIn-profiel optimaliseren. | `references/linkedin-profiel.md` |
 | 9 | Ik wil reageren op berichten van anderen. | `references/van-post-naar-klant.md` (deel "Hulp bij reageren, berichten en connectieverzoeken") |
 | 10 | Ik zoek interessante profielen en wil via Sales Navigator een gerichte lijst maken die past bij mijn ideale klant. | `references/sales-navigator.md` |
-| 11 | Iets anders: vertel me wat je wil doen. | kies de best passende werkwijze in de tabel verderop |
+| 11 | Ik wil ideeën voor gratis waarde (een lead magnet, zoals een webinar, checklist of quiz), of een idee dat ik al heb voor een lead magnet uitwerken. | `references/gratis-waarde.md` |
+| 12 | Ik wil een bericht ontwerpen om mijn lead magnet aan te bieden (via LinkedIn, e-mail of WhatsApp). | `references/lead-magnet-berichten.md` |
+| 13 | Iets anders: vertel me wat je wil doen. | kies de best passende werkwijze in de tabel verderop |
 
 Toon de keuzes aan de gebruiker zonder de kolom "Lees". Wacht op zijn keuze en volg dan de werkwijze die erbij hoort. Elke keuze begint met een vaste openingsvraag: die staat bovenaan in het onderdeel van die keuze (voor keuze 1: zie "De werkwijze voor elke post" hieronder).
 
-Kiest de gebruiker 11 en past zijn vraag duidelijk bij een van de andere keuzes? Zeg dat kort en volg die werkwijze, bv. "Dat is een post van iemand anders ontleden (keuze 4). Ik volg die werkwijze." Zo leert hij de keuzelijst kennen. Na een afgeronde taak mag je dezelfde vraag opnieuw stellen.
+Kiest de gebruiker 13 en past zijn vraag duidelijk bij een van de andere keuzes? Zeg dat kort en volg die werkwijze, bv. "Dat is een post van iemand anders ontleden (keuze 4). Ik volg die werkwijze." Zo leert hij de keuzelijst kennen. Na een afgeronde taak mag je dezelfde vraag opnieuw stellen.
 
 Heeft de gebruiker in zijn eerste bericht al gezegd wat hij wil (bv. "maak hier een post van" met een verhaal erbij)? Doe dan stap 1 en 2, sla de keuzelijst over en ga na de kennismaking meteen aan de slag met zijn vraag. Ontbreekt de contentgids, vraag er dan eerst om; wil hij toch meteen een post, schrijf die dan en zet wat je niet weet tussen [haakjes].
 
@@ -128,6 +130,8 @@ Vind je oudere context zonder brein (bv. alleen een bedrijfsprofiel)? Stel voor 
 | Het LinkedIn-profiel verbeteren (foto, banner, kopregel, About, Featured) | `references/linkedin-profiel.md` |
 | Van zichtbaarheid naar klanten: reageren bij anderen, berichten, connectieverzoeken, een vast ritme | `references/van-post-naar-klant.md` |
 | Prospects zoeken in LinkedIn Sales Navigator | `references/sales-navigator.md` |
+| Ideeën voor een lead magnet of gratis waarde (webinar, event, checklist, rekenhulp, quiz, gratis scan), of er een uitwerken met een prompt voor Lovable | `references/gratis-waarde.md` |
+| Berichten om een lead magnet aan te bieden via LinkedIn, e-mail of WhatsApp, met opvolgberichten en een testplan | `references/lead-magnet-berichten.md` |
 
 Voorbeelden van vragen die hierbij horen:
 - "Haal al mijn Fathom-calls van de voorbije 7 dagen op. Zoek per call de pijnen, bezwaren, verhalen en vragen van mijn klanten en prospects, in hun exacte woorden, en maak per bruikbaar item een pagina met de bron, het citaat, het soort item, 2 hooks en een eerste post."
