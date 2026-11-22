@@ -43,6 +43,8 @@ Bij deze manier krijg je geen automatische updates. Download dan af en toe de ni
 
 Schrijf in een nieuw gesprek: "Ik wil starten met LinkedIn-content. Doe de kennismaking met mij."
 
+Of de snelle start: plak een stuk van je contentgids (of een verhaal) en vraag "Maak hier een LinkedIn-post van." Je krijgt meteen een post, met tussen [haakjes] wat je nog moet aanvullen. Daarna biedt de skill de kennismaking aan.
+
 De skill stelt zichzelf eerst kort voor en kijkt welke apps je al gekoppeld hebt (bv. Fathom, Wispr Flow, Google Drive of Notion). Daarna vraagt hij om je contentgids: upload je ingevulde gids, vraag het lege template, of overloop samen de 10 belangrijkste vragen. Daarna volgen je taal, je website en bedrijfsdocumenten (bv. een salesdeck of klantcase), een analyse van je ideale klant, je persona en je communicatie, en je positionering. Dan je schrijfstijl en je huisstijl (upload gerust je stijlgids). Alles komt samen in je brein: een map op je computer, in Drive of Notion, of in een project in je AI-assistent. Tot slot vraagt hij wat hij voor je kan doen, en kies je uit een lijst: een post uitwerken, contentideeën zoeken, postideeën uit een klantcase halen, een sterke post van iemand anders ontleden, je content inplannen, een carrousel of infographic, een bewegende infographic (GIF), je profiel optimaliseren, posts vinden om op te reageren (met voorstellen voor je reactie), prospects zoeken in Sales Navigator, ideeën voor een lead magnet bedenken en uitwerken, of een bericht ontwerpen om je lead magnet aan te bieden.
 
 Een paar voorbeelden van wat je daarna kunt vragen:
