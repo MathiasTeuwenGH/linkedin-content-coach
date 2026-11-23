@@ -133,7 +133,7 @@ Vind je oudere context zonder brein (bv. alleen een bedrijfsprofiel)? Stel voor 
 | Eerste keer, context opbouwen, positionering, tools koppelen | `references/kennismaking.md` |
 | Het brein bekijken, aanvullen of verhuizen (bewijs, klantentaal, stem, huisstijl) | `references/brein.md` |
 | De ideale klant en persona-analyse maken, bijsturen of bijwerken | `references/icp-persona-analyse.md` |
-| Kernboodschappen bepalen, bekijken of bijwerken (waar al de content naar terugkeert) | `references/kernboodschappen.md` |
+| Kernboodschappen bepalen, bekijken of bijwerken (acht vragen, de gebruiker bepaalt) | `references/kernboodschappen.md` |
 | Een post schrijven over een verhaal, idee of resultaat | de werkwijze hieronder + `references/posttypes.md` + `references/schrijfregels.md` |
 | Een betere openingszin (hook), de hookgenerator | `references/hooks.md` |
 | Een klantcase of klantverhaal omzetten in vijftien postideeën of meer | `references/klantcase-naar-posts.md` |
@@ -191,7 +191,7 @@ Zet bovenaan elke post een vaste kop, in gewone woorden:
 
 Raakt de post geen enkele pijn, doel of drempel van de persona, zeg dat eerlijk en stel een andere invalshoek voor. Is er nog geen analyse, schrijf dan "Voor wie" op basis van de contentgids en zeg erbij dat het nog niet getoetst is.
 
-Past de post bij geen enkele kernboodschap, zeg dat eerlijk: is het een zijpad, of een nieuwe boodschap die erbij mag? Zijn er nog geen kernboodschappen (`kernboodschappen.md` in het brein), laat de regel dan weg en stel één keer voor ze te bepalen (zie `references/kernboodschappen.md`).
+Past de post bij geen enkele kernboodschap, zeg dat eerlijk: het is een zijpad. De gebruiker beslist of hij hem toch post. Zijn er nog geen kernboodschappen (`kernboodschappen.md` in het brein), laat de regel dan weg en stel één keer voor ze te bepalen (zie `references/kernboodschappen.md`).
 
 Lever bij elke post twee versies:
 
