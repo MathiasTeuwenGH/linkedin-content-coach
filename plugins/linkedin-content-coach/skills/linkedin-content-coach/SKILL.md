@@ -35,6 +35,9 @@ Plakt de gebruiker in zijn eerste bericht iets over zijn eigen bedrijf (een stuk
 
 Zegt hij ja, begin dan met de kennismaking (stap 1 en 2 hieronder), en gebruik wat hij al plakte als eerste stuk van zijn contentgids. Wil hij eerst de post aanpassen of nog een post, doe dat dan. Geeft hij enkel een onderwerp zonder verdere inhoud, werk dan op dezelfde manier, met meer [haakjes].
 
+**Noemt de gebruiker zelf de snelle start** (bv. "snelle start" of "gebruik de snelle start"), volg dan altijd de snelle start, ook als het niet zijn eerste bericht is. Gaf hij nog geen inhoud en ook geen onderwerp? Stel dan enkel deze vraag, en verder niets:
+> Plak een stuk van je contentgids, een verhaal of een idee, dan krijg je meteen een post.
+
 ## Het begin van elk gesprek: drie stappen
 
 Wordt deze skill voor het eerst opgeroepen in een gesprek, en is het geen snelle start? Doorloop dan altijd deze drie stappen, in deze volgorde.
@@ -119,7 +122,7 @@ Een goede post kan niet zonder context over de gebruiker. Kijk daarom eerst of j
 
 Ontbreekt er iets, of is dit het eerste gesprek? Doe dan eerst de kennismaking: lees `references/kennismaking.md`. Uitzondering: vraagt hij meteen een post, volg dan de snelle start. Ontbreekt alleen een klein stukje, ga dan verder en zet dat deel tussen [haakjes].
 
-Na de kennismaking heeft de gebruiker een **brein**: een vaste map met zijn profiel, analyse, bewijsbank, klantentaal, stem en huisstijl, telkens met bron. Lees het bij elke vraag: `profiel.md` altijd, `stem.md` bij elke post, `bewijsbank.md` bij elk cijfer of resultaat, `huisstijl.md` bij elke visual. Hoe je het opbouwt, waar het staat en hoe het groeit: zie `references/brein.md`.
+Na de kennismaking heeft de gebruiker een **brein**: een vaste map met zijn profiel, analyse, kernboodschappen, bewijsbank, klantentaal, stem en huisstijl, telkens met bron. Lees het bij elke vraag: `profiel.md` altijd, `stem.md` en `kernboodschappen.md` bij elke post, `bewijsbank.md` bij elk cijfer of resultaat, `huisstijl.md` bij elke visual. Hoe je het opbouwt, waar het staat en hoe het groeit: zie `references/brein.md`.
 
 Vind je oudere context zonder brein (bv. alleen een bedrijfsprofiel)? Stel voor om er een brein van te maken en vraag enkel wat ontbreekt.
 
@@ -130,6 +133,7 @@ Vind je oudere context zonder brein (bv. alleen een bedrijfsprofiel)? Stel voor 
 | Eerste keer, context opbouwen, positionering, tools koppelen | `references/kennismaking.md` |
 | Het brein bekijken, aanvullen of verhuizen (bewijs, klantentaal, stem, huisstijl) | `references/brein.md` |
 | De ideale klant en persona-analyse maken, bijsturen of bijwerken | `references/icp-persona-analyse.md` |
+| Kernboodschappen bepalen, bekijken of bijwerken (waar al de content naar terugkeert) | `references/kernboodschappen.md` |
 | Een post schrijven over een verhaal, idee of resultaat | de werkwijze hieronder + `references/posttypes.md` + `references/schrijfregels.md` |
 | Een betere openingszin (hook), de hookgenerator | `references/hooks.md` |
 | Een klantcase of klantverhaal omzetten in vijftien postideeën of meer | `references/klantcase-naar-posts.md` |
@@ -183,8 +187,11 @@ Zet bovenaan elke post een vaste kop, in gewone woorden:
 > **Soort post:** [hoe de post eruitziet: waarmee hij opent, wat er daarna komt, waarmee hij eindigt]
 > **Doel:** [vertrouwen opbouwen (perspective) / tonen dat het werkt (proof) / klanten aantrekken (promo)], met in één zin waarom.
 > **Voor wie:** [de persona uit de ideale klant en persona-analyse], raakt [een pijn, doel of drempel uit die analyse].
+> **Kernboodschap:** [de kernboodschap uit het brein waar deze post bij hoort, in een paar woorden]
 
 Raakt de post geen enkele pijn, doel of drempel van de persona, zeg dat eerlijk en stel een andere invalshoek voor. Is er nog geen analyse, schrijf dan "Voor wie" op basis van de contentgids en zeg erbij dat het nog niet getoetst is.
+
+Past de post bij geen enkele kernboodschap, zeg dat eerlijk: is het een zijpad, of een nieuwe boodschap die erbij mag? Zijn er nog geen kernboodschappen (`kernboodschappen.md` in het brein), laat de regel dan weg en stel één keer voor ze te bepalen (zie `references/kernboodschappen.md`).
 
 Lever bij elke post twee versies:
 

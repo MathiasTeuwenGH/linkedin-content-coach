@@ -14,6 +14,7 @@ Een goede post, carrousel of animatie is zo sterk als de feiten, de stem en de h
 brein/
   profiel.md        wie, wat, voor wie, aanbod, positionering (korte samenvatting)
   analyse.md        ideale klant en persona-analyse, met status (voorstel of bevestigd) en datum
+  kernboodschappen.md  de 6 à 8 boodschappen waar al de content naar terugkeert, met klantwoorden en bewijs
   bewijsbank.md     cijfers, resultaten en klantverhalen, met bron en of ze publiek mogen
   klantentaal.md    letterlijke woorden van klanten en prospects
   stem.md           verboden constructies, voorbeeldposts, wat hij zelf aanpast
@@ -36,7 +37,7 @@ Vraag het in stap 8 van de kennismaking. Het moet blijven bestaan tussen gesprek
 | Een project in de AI-assistent (Claude, ChatGPT) | Je maakt de bestanden, de gebruiker zet ze in de projectbestanden. Na een update geef je het gewijzigde bestand en zeg je welk bestand hij vervangt. |
 | Nergens | Je geeft de bestanden als download. Hij laadt ze op bij de start van een nieuw gesprek. Raad een van de andere opties aan. |
 
-Begint een gesprek en vind je een brein? Lees eerst `profiel.md` en wat je voor de taak nodig hebt (`bewijsbank.md` bij cijfers, `huisstijl.md` bij visuals, `stem.md` bij elke post). Zeg in één zin dat je het brein gevonden hebt.
+Begint een gesprek en vind je een brein? Lees eerst `profiel.md` en wat je voor de taak nodig hebt (`bewijsbank.md` bij cijfers, `huisstijl.md` bij visuals, `stem.md` en `kernboodschappen.md` bij elke post). Zeg in één zin dat je het brein gevonden hebt.
 
 ## Hoe je elk deel vult
 
@@ -173,8 +174,8 @@ Status: [bevestigd / voorstel]   Bron: [stijlgids / website / gebruiker]
 
 ```
 # Planning
-| Week | Onderwerp | Soort (perspective, proof, promo) | Materiaal | Status (gepland, gepost) |
-|---|---|---|---|---|
+| Week | Onderwerp | Soort (perspective, proof, promo) | Kernboodschap | Materiaal | Status (gepland, gepost) |
+|---|---|---|---|---|---|
 
 ## Vaste momenten
 - Reageren bij anderen: [dag en uur, bv. maandag 9u]
