@@ -14,7 +14,7 @@ Een goede post, carrousel of animatie is zo sterk als de feiten, de stem en de h
 brein/
   profiel.md        wie, wat, voor wie, aanbod, positionering (korte samenvatting)
   analyse.md        ideale klant en persona-analyse, met status (voorstel of bevestigd) en datum
-  kernboodschappen.md  de 6 à 8 boodschappen waar al de content naar terugkeert, met klantwoorden en bewijs
+  kernboodschappen.md  de acht kernboodschappen (antwoorden van de gebruiker op de acht vragen), met klantwoorden en bewijs
   bewijsbank.md     cijfers, resultaten en klantverhalen, met bron en of ze publiek mogen
   klantentaal.md    letterlijke woorden van klanten en prospects
   stem.md           verboden constructies, voorbeeldposts, wat hij zelf aanpast

@@ -6,7 +6,7 @@ Een skill voor je AI-assistent (Claude, ChatGPT en andere systemen die skills on
 
 - Een kennismaking als kort chatgesprek: je contentgids, je website, je tools (Fathom, Wispr Flow, Drive, Notion), je bedrijfsdocumenten en je schrijfstijl
 - Een ideale klant en persona-analyse: wie je ideale klant is, wat hem bezighoudt en hoe je hem aanspreekt. Je krijgt eerst een voorstel en stuurt het samen bij. Daarna toetst de skill elke post eraan
-- Je kernboodschappen: de 6 à 8 boodschappen waar al je posts naar terugkeren, met de woorden van je klanten en je bewijs. Elke post hoort bij één ervan, en je planning spreidt ze mooi
+- Je kernboodschappen: je bepaalt ze zelf aan de hand van acht vragen (de skill toont wat hij al vond als hulp), met de woorden van je klanten en je bewijs. Elke post hoort bij één ervan, en je planning spreidt ze mooi
 - Je eigen brein: één map met je profiel, je bewijs (cijfers met bron), de woorden van je klanten, je stem en je huisstijl, die groeit met elke post en elk gesprek
 - Posts schrijven: altijd een lange en een korte versie (maximaal 190 woorden), met hooks en een voorstel voor een visual
 - Postideeën halen uit je klantgesprekken, in de exacte woorden van je klanten

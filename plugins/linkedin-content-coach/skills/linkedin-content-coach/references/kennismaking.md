@@ -88,8 +88,8 @@ Geen oordeel: soms is de website verouderd, soms is de gids wat te ambitieus. Ze
 
    Bewaar die voorlopige keuze in het brein als voorstel, niet als feit.
 
-**Kernboodschappen.** Bepaal daarna de 6 à 8 kernboodschappen waar al zijn content naar terugkeert. Volg `kernboodschappen.md`: maak eerst zelf een voorstel uit wat er al is (de gids, de analyse, de positionering, klantwoorden en bewijs), toon het als korte lijst, laat bijsturen en stel daarna hoogstens drie vragen over wat ontbreekt, één per bericht. Leid het in met:
-> Nog één ding in deze stap: je kernboodschappen. Dat zijn de 6 à 8 boodschappen waar al je posts naar terugkeren. Door ze steeds te herhalen vanuit een nieuwe invalshoek, onthouden mensen waar je voor staat. Ik maak een voorstel op basis van wat je me al gaf.
+**Kernboodschappen.** Daarna bepaalt de gebruiker zelf zijn acht kernboodschappen. Volg `kernboodschappen.md`: de acht vaste vragen, één per bericht, met bij elke vraag als hulp wat je al in de gids of de documenten vond. Jij kiest niets voor hem. Leid het in met:
+> Nog één ding in deze stap: je kernboodschappen. Dat zijn de boodschappen waar al je posts naar terugkeren. Door ze steeds te herhalen vanuit een nieuwe invalshoek, onthouden mensen waar je voor staat. We overlopen acht korte vragen, één per keer. Bij elke vraag toon ik wat ik al vond, maar jij bepaalt het antwoord.
 
 **6. Stem (stap 6 van 8)**
 
@@ -211,7 +211,7 @@ Laatst bijgewerkt: [datum]
 - De 5 inzichten voor communicatie, één zin per inzicht
 
 ## Kernboodschappen
-- De 6 à 8 boodschappen in één regel elk (alles staat in kernboodschappen.md)
+- De acht kernboodschappen in één regel elk (alles staat in kernboodschappen.md)
 
 ## Bewijs
 - De drie sterkste resultaten in één regel (alles met bron staat in bewijsbank.md)

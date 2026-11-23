@@ -12,7 +12,7 @@ De schrijfstijlgids van de gebruiker gaat altijd voor. Zegt die iets anders dan 
 - **Eén doel.** Is duidelijk of het perspective, proof of promo is (zie `contentmix.md`)? Past de inhoud bij dat doel?
 - **Eén opbouw.** Volgt de post één posttype of copy-opbouw (zie `posttypes.md`), en niet een mengeling?
 - **Eén boodschap.** Geen zijpaden.
-- **Past bij een kernboodschap.** Bij welke kernboodschap uit het brein hoort de post? Past hij bij geen enkele, zeg dat: zijpad, of een nieuwe boodschap die erbij mag?
+- **Past bij een kernboodschap.** Bij welke kernboodschap uit het brein hoort de post? Past hij bij geen enkele, zeg dat: het is een zijpad. De gebruiker beslist.
 - **Relevant voor de ideale klant.** Toets de post aan de ideale klant en persona-analyse in het brein: welke pijn, welk doel of welke drempel van de persona raakt hij? Raakt hij niets, zeg dat en stel een andere invalshoek voor.
 - **Over wat je voor anderen doet.** Of het nu perspective, proof of promo is: gaat de post uiteindelijk over wat de gebruiker voor klanten of voor zijn zaak deed? Schemert het aanbod door (wat, voor wie, hoe het helpt)?
 - **Geen kopie.** Vertrekt de post van een voorbeeld? Dan neemt hij de structuur en de psychologie over, geen zinnen. Wie het origineel kent, mag het niet herkennen.
