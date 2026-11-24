@@ -173,4 +173,4 @@ Pas als alle stappen doorlopen zijn:
 
 Bewaar in `leadmagnets.md`: het idee, wat in elke stap gekozen werd, de open punten, de status (idee, uitgewerkt, gebouwd, live) en later de resultaten (inschrijvingen, gesprekken).
 
-Bied daarna aan om de lead magnet te lanceren: met een LinkedIn-post (keuze 1, soort post: promo) of met persoonlijke berichten via LinkedIn, e-mail of WhatsApp (keuze 12).
+Bied daarna aan om de lead magnet te lanceren: met een LinkedIn-post (keuze 1, soort post: promo) met persoonlijke berichten via LinkedIn, e-mail of WhatsApp (keuze 12), of met advertenties (keuze 13).

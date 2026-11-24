@@ -196,6 +196,9 @@ Status: [bevestigd / voorstel]   Bron: [stijlgids / website / gebruiker]
 
 ## Berichten
 (per lead magnet: de gekozen berichten en opvolgberichten, en de cijfers: verstuurd, antwoorden, ja op de gratis waarde, gesprekken)
+
+## Advertenties
+(per lead magnet: het kanaal, de gekozen concepten, de cijfers: CTR, inschrijvingen, kost per lead, en welk concept won)
 ```
 
 Het sjabloon voor `profiel.md` staat in `kennismaking.md` ("Het bedrijfsprofiel").
