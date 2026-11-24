@@ -65,7 +65,7 @@ Sluit af met een kort testplan in gewone taal:
 
 Bewaar de gekozen berichten en later de cijfers (verstuurd, antwoorden, ja, gesprekken) in `leadmagnets.md`.
 
-Vraag tot slot of hij nog iets wil: 5 extra varianten van zijn favoriete bericht, of de lead magnet zelf uitwerken (keuze 11).
+Vraag tot slot of hij nog iets wil: 5 extra varianten van zijn favoriete bericht, de lead magnet zelf uitwerken (keuze 11), of advertenties om hem breder te promoten (keuze 13).
 
 ## Kanaalregels
 
